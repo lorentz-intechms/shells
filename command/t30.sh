@@ -1,33 +1,33 @@
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=316656 --url="https://letv.sd-play.com/20220717/shAVbhG5/index.m3u8" --filename="49671_第59集_116.mp4" ; #49671 59 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=109983 --url="https://letv.sd-play.com/20220718/TlOho5Yo/index.m3u8" --filename="17730_第38集_38.mp4"; #17730 38 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=541703 --url="https://mgtv.sd-play.com/20220822/sQW4kLZi/index.m3u8" --filename="5290_第6集_10.mp4"; #5290 6 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=534110 --url="https://new.qqaku.com/20221107/FEnLCvJZ/index.m3u8" --filename="50751_20221106期_108.mp4"; #50751 20221106 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542945 --url="https://pps.sd-play.com/20220204/9UCiU6By/index.m3u8" --filename="8451_第11集_20.mp4"; #8451 11 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542947 --url="https://pps.sd-play.com/20220204/AKw6E3WZ/index.m3u8" --filename="8451_第12集_22.mp4"; #8451 12 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542954 --url="https://pps.sd-play.com/20220206/pv6hN1MV/index.m3u8" --filename="8451_第16集_31.mp4"; #8451 16 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542958 --url="https://pps.sd-play.com/20220207/OvxBxEdF/index.m3u8" --filename="8451_第18集_35.mp4"; #8451 18 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542956 --url="https://pps.sd-play.com/20220207/y3dIFVoq/index.m3u8" --filename="8451_第17集_33.mp4" ; #8451 17 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542960 --url="https://pps.sd-play.com/20220208/bWM13rLk/index.m3u8" --filename="8451_第19集_37.mp4" ; #8451 19 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542962 --url="https://pps.sd-play.com/20220208/iD4OnVv4/index.m3u8" --filename="8451_第20集_39.mp4"; #8451 20 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542972 --url="https://pps.sd-play.com/20220211/BbyVaZ6l/index.m3u8" --filename="8451_第25集_49.mp4" ; #8451 25 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542974 --url="https://pps.sd-play.com/20220211/cREd2IEZ/index.m3u8" --filename="8451_第26集_51.mp4"; #8451 26 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542980 --url="https://pps.sd-play.com/20220213/wNH0wKbb/index.m3u8" --filename="8451_第29集_57.mp4" ; #8451 29 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542986 --url="https://pps.sd-play.com/20220214/4SWV1Ak9/index.m3u8" --filename="8451_第32集_63.mp4"; #8451 32 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542990 --url="https://pps.sd-play.com/20220216/mWEYM2uB/index.m3u8" --filename="8451_第34集_67.mp4"; #8451 34 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542988 --url="https://pps.sd-play.com/20220216/u9p55V9H/index.m3u8" --filename="8451_第33集_65.mp4" ; #8451 33 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=542998 --url="https://pps.sd-play.com/20220218/Nnd1BCpR/index.m3u8" --filename="8451_第38集_75.mp4"; #8451 38 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543002 --url="https://pps.sd-play.com/20220219/T4R2mWTW/index.m3u8" --filename="8451_第40集_79.mp4"; #8451 40 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543000 --url="https://pps.sd-play.com/20220219/VrSV1uch/index.m3u8" --filename="8451_第39集_77.mp4" ; #8451 39 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543004 --url="https://pps.sd-play.com/20220221/1meLWmrV/index.m3u8" --filename="8451_第41集_81.mp4" ; #8451 41 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543012 --url="https://pps.sd-play.com/20220223/q3Ivxwo4/index.m3u8" --filename="8451_第45集_89.mp4" ; #8451 45 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543014 --url="https://pps.sd-play.com/20220223/r9IWlLsu/index.m3u8" --filename="8451_第46集_91.mp4"; #8451 46 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543016 --url="https://pps.sd-play.com/20220224/I0vpl2fO/index.m3u8" --filename="8451_第47集_93.mp4" ; #8451 47 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543030 --url="https://pps.sd-play.com/20220227/TGMTKVQf/index.m3u8" --filename="8451_第54集_107.mp4"; #8451 54 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543032 --url="https://pps.sd-play.com/20220228/SXfdCFtp/index.m3u8" --filename="8451_第55集_109.mp4" ; #8451 55 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=534424 --url="https://v.gsuus.com/play/xbojXn3a/index.m3u8" --filename="50794_第271集_125.mp4" ; #50794 271 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=537474 --url="https://vip.ffzy-online1.com/20230621/41554_daab9e43/index.m3u8" --filename="58969_HD_1.mp4"; #58969 0 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=534111 --url="https://vod2.kczybf.com/20221113/cnW0PU18/index.m3u8" --filename="50751_20221113期_111.mp4"; #50751 20221113 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=534112 --url="https://vod2.kczybf.com/20221120/ktCchveO/index.m3u8" --filename="50751_20221120期_112.mp4" ; #50751 20221120 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=551881 --url="https://vod2.kczybf.com/20221126/JWjs1vDS/index.m3u8" --filename="141_20221126期_10.mp4"; #141 6 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=534430 --url="https://vod2.kczybf.com/20221127/6vUHxpxo/index.m3u8" --filename="50794_第277集_142.mp4"; #50794 277 1080
-NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=534113 --url="https://vod2.kczybf.com/20221127/CmRErf1P/index.m3u8" --filename="50751_20221127期_113.mp4"; #50751 20221127 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=316656 --url="https://letv.sd-play.com/20220717/shAVbhG5/index.m3u8" --filename="49671_第59集_116.mp4" ; #49671 59 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=109983 --url="https://letv.sd-play.com/20220718/TlOho5Yo/index.m3u8" --filename="17730_第38集_38.mp4"; #17730 38 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541703 --url="https://mgtv.sd-play.com/20220822/sQW4kLZi/index.m3u8" --filename="5290_第6集_10.mp4"; #5290 6 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=534110 --url="https://new.qqaku.com/20221107/FEnLCvJZ/index.m3u8" --filename="50751_20221106期_108.mp4"; #50751 20221106 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542945 --url="https://pps.sd-play.com/20220204/9UCiU6By/index.m3u8" --filename="8451_第11集_20.mp4"; #8451 11 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542947 --url="https://pps.sd-play.com/20220204/AKw6E3WZ/index.m3u8" --filename="8451_第12集_22.mp4"; #8451 12 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542954 --url="https://pps.sd-play.com/20220206/pv6hN1MV/index.m3u8" --filename="8451_第16集_31.mp4"; #8451 16 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542958 --url="https://pps.sd-play.com/20220207/OvxBxEdF/index.m3u8" --filename="8451_第18集_35.mp4"; #8451 18 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542956 --url="https://pps.sd-play.com/20220207/y3dIFVoq/index.m3u8" --filename="8451_第17集_33.mp4" ; #8451 17 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542960 --url="https://pps.sd-play.com/20220208/bWM13rLk/index.m3u8" --filename="8451_第19集_37.mp4" ; #8451 19 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542962 --url="https://pps.sd-play.com/20220208/iD4OnVv4/index.m3u8" --filename="8451_第20集_39.mp4"; #8451 20 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542972 --url="https://pps.sd-play.com/20220211/BbyVaZ6l/index.m3u8" --filename="8451_第25集_49.mp4" ; #8451 25 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542974 --url="https://pps.sd-play.com/20220211/cREd2IEZ/index.m3u8" --filename="8451_第26集_51.mp4"; #8451 26 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542980 --url="https://pps.sd-play.com/20220213/wNH0wKbb/index.m3u8" --filename="8451_第29集_57.mp4" ; #8451 29 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542986 --url="https://pps.sd-play.com/20220214/4SWV1Ak9/index.m3u8" --filename="8451_第32集_63.mp4"; #8451 32 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542990 --url="https://pps.sd-play.com/20220216/mWEYM2uB/index.m3u8" --filename="8451_第34集_67.mp4"; #8451 34 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542988 --url="https://pps.sd-play.com/20220216/u9p55V9H/index.m3u8" --filename="8451_第33集_65.mp4" ; #8451 33 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542998 --url="https://pps.sd-play.com/20220218/Nnd1BCpR/index.m3u8" --filename="8451_第38集_75.mp4"; #8451 38 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543002 --url="https://pps.sd-play.com/20220219/T4R2mWTW/index.m3u8" --filename="8451_第40集_79.mp4"; #8451 40 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543000 --url="https://pps.sd-play.com/20220219/VrSV1uch/index.m3u8" --filename="8451_第39集_77.mp4" ; #8451 39 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543004 --url="https://pps.sd-play.com/20220221/1meLWmrV/index.m3u8" --filename="8451_第41集_81.mp4" ; #8451 41 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543012 --url="https://pps.sd-play.com/20220223/q3Ivxwo4/index.m3u8" --filename="8451_第45集_89.mp4" ; #8451 45 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543014 --url="https://pps.sd-play.com/20220223/r9IWlLsu/index.m3u8" --filename="8451_第46集_91.mp4"; #8451 46 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543016 --url="https://pps.sd-play.com/20220224/I0vpl2fO/index.m3u8" --filename="8451_第47集_93.mp4" ; #8451 47 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543030 --url="https://pps.sd-play.com/20220227/TGMTKVQf/index.m3u8" --filename="8451_第54集_107.mp4"; #8451 54 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543032 --url="https://pps.sd-play.com/20220228/SXfdCFtp/index.m3u8" --filename="8451_第55集_109.mp4" ; #8451 55 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=534424 --url="https://v.gsuus.com/play/xbojXn3a/index.m3u8" --filename="50794_第271集_125.mp4" ; #50794 271 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=537474 --url="https://vip.ffzy-online1.com/20230621/41554_daab9e43/index.m3u8" --filename="58969_HD_1.mp4"; #58969 0 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=534111 --url="https://vod2.kczybf.com/20221113/cnW0PU18/index.m3u8" --filename="50751_20221113期_111.mp4"; #50751 20221113 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=534112 --url="https://vod2.kczybf.com/20221120/ktCchveO/index.m3u8" --filename="50751_20221120期_112.mp4" ; #50751 20221120 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=551881 --url="https://vod2.kczybf.com/20221126/JWjs1vDS/index.m3u8" --filename="141_20221126期_10.mp4"; #141 6 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=534430 --url="https://vod2.kczybf.com/20221127/6vUHxpxo/index.m3u8" --filename="50794_第277集_142.mp4"; #50794 277 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=534113 --url="https://vod2.kczybf.com/20221127/CmRErf1P/index.m3u8" --filename="50751_20221127期_113.mp4"; #50751 20221127 1080
