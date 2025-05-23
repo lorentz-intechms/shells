@@ -1,0 +1,32 @@
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1847 --url="https://cdn16.yzzy-tv-cdn.com/20230530/7568_39897080/index.m3u8" --filename="120_第33集_113.mp4"; #120 33 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=17720 --url="https://cdn16.yzzy-tv-cdn.com/20230601/8202_4ad7e42e/index.m3u8" --filename="2447_第33集_58.mp4" ; #2447 33 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=449559 --url="https://cdn16.yzzy-tv-cdn.com/20230607/9022_2c91bb1b/index.m3u8" --filename="2413_第29集_33.mp4"; #2413 29 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=449560 --url="https://cdn16.yzzy-tv-cdn.com/20230607/9023_36e64667/index.m3u8" --filename="2413_第30集_35.mp4" ; #2413 30 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=2855 --url="https://cdn16.yzzy-tv-cdn.com/20230623/10650_6653fdef/index.m3u8" --filename="150_第285集_450.mp4"; #150 285 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=2857 --url="https://cdn16.yzzy-tv-cdn.com/20230630/11556_f5762d76/index.m3u8" --filename="150_第287集_451.mp4"; #150 287 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1851 --url="https://cdn16.yzzy-tv-cdn.com/20230708/12798_e30a7bd3/index.m3u8" --filename="120_第44集_115.mp4"; #120 44 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=405633 --url="https://cdn16.yzzy-tv-cdn.com/20230708/12803_14c1df6c/index.m3u8" --filename="102_第59集_67.mp4"; #102 59 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=2681 --url="https://cdn16.yzzy-tv-cdn.com/20230708/12858_ad9b05b8/index.m3u8" --filename="141_第71期_128.mp4"; #141 20230708 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=409996 --url="https://cdn17.yzzy-tv-cdn.com/20230422/744_22b3b765/index.m3u8" --filename="321_第1139集_1125.mp4" ; #321 1139 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1843 --url="https://cdn17.yzzy-tv-cdn.com/20230506/3388_bbdf8fac/index.m3u8" --filename="120_第26集_111.mp4"; #120 26 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=430467 --url="https://cdn17.yzzy-tv-cdn.com/20230520/5587_0250bf0f/index.m3u8" --filename="49979_第260集_409.mp4"; #49979 261 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=449556 --url="https://cdn17.yzzy-tv-cdn.com/20230606/7249_d1fc29c7/index.m3u8" --filename="2413_第26集_27.mp4" ; #2413 26 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=449561 --url="https://cdn17.yzzy-tv-cdn.com/20230607/7395_b3520aaa/index.m3u8" --filename="2413_第31集_37.mp4"; #2413 31 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=450867 --url="https://cdn17.yzzy-tv-cdn.com/20230619/9319_49ef98d7/index.m3u8" --filename="2596_超前彩蛋9_40.mp4"; #2596 20230619 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1849 --url="https://cdn17.yzzy-tv-cdn.com/20230624/9767_19082e1c/index.m3u8" --filename="120_第40集_114.mp4"; #120 40 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=2859 --url="https://cdn17.yzzy-tv-cdn.com/20230707/10860_b12db02e/index.m3u8" --filename="150_第289集_452.mp4"; #150 289 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=2683 --url="https://cdn18.yzzy-tv-cdn.com/20230710/63_5613641d/index.m3u8" --filename="141_0710特辑_129.mp4"; #141 20230710 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1853 --url="https://cdn18.yzzy-tv-cdn.com/20230711/143_259796d6/index.m3u8" --filename="120_第45集_116.mp4"; #120 45 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=2861 --url="https://cdn18.yzzy-tv-cdn.com/20230714/532_d89b1478/index.m3u8" --filename="150_第291集_453.mp4"; #150 291 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543418 --url="https://cdn2.hdzyk-video.com/20220328/3307_05c634a5/index.m3u8" --filename="10986_第15集_28.mp4"; #10986 15 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543416 --url="https://cdn2.hdzyk-video.com/20220328/3308_df1137b6/index.m3u8" --filename="10986_第14集_26.mp4" ; #10986 14 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543414 --url="https://cdn2.hdzyk-video.com/20220328/3312_b3bb5da4/index.m3u8" --filename="10986_第13集_24.mp4"; #10986 13 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543410 --url="https://cdn2.hdzyk-video.com/20220328/3316_1ed4efad/index.m3u8" --filename="10986_第11集_20.mp4"; #10986 11 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543394 --url="https://cdn2.hdzyk-video.com/20220328/3333_336922dd/index.m3u8" --filename="10986_第03集_4.mp4"; #10986 3 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=543392 --url="https://cdn2.hdzyk-video.com/20220328/3334_9e92ab7a/index.m3u8" --filename="10986_第02集_2.mp4" ; #10986 2 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=427558 --url="https://cdn6.yzzy-tv-cdn.com/20220730/7134_3e1677af/index.m3u8" --filename="44526_第35集_111.mp4"; #44526 35 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=427508 --url="https://cdn6.yzzy-tv-cdn.com/20220730/7151_5afc75f5/index.m3u8" --filename="44526_第22集_85.mp4" ; #44526 22 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=544453 --url="https://cdn6.yzzy-tv-cdn.com/20220731/7170_1cff8109/index.m3u8" --filename="44526_第9集_59.mp4"; #44526 9 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=514770 --url="https://cdn9.vipbf-video.com/20221123/16403_c5237e81/index.m3u8" --filename="17997_第72集_77.mp4"; #17997 72 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=541705 --url="https://iqiyi.sd-play.com/20220830/WmzwMbzA/index.m3u8" --filename="5290_第7集_12.mp4"; #5290 7 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=553084 --url="https://iqiyi.sd-play.com/20221203/59YYf9np/index.m3u8" --filename="321_1123集_88.mp4" ; #321 1123 1080

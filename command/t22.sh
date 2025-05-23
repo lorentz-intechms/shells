@@ -1,0 +1,33 @@
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1337712 --url="https://wjm.eny7kg.com/AGMJ/20200801/htryQ6I9/index.m3u8" --filename="2604-24645-10-63.mp4" ; #68447 10 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1337720 --url="https://wjm.eny7kg.com/AGMJ/20200801/JF9XSt7h/index.m3u8" --filename="2604-24653-2-42.mp4" ; #68447 2 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1337716 --url="https://wjm.eny7kg.com/AGMJ/20200801/Mf49oWuf/index.m3u8" --filename="2604-24649-6-25.mp4" ; #68447 6 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1337714 --url="https://wjm.eny7kg.com/AGMJ/20200801/qlDYJBlv/index.m3u8" --filename="2604-24647-8-100.mp4"; #68447 8 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1337718 --url="https://wjm.eny7kg.com/AGMJ/20200801/qt8msVEy/index.m3u8" --filename="2604-24651-4-67.mp4"; #68447 4 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1337721 --url="https://wjm.eny7kg.com/AGMJ/20200801/ui20zNIc/index.m3u8" --filename="2604-24654-1-3.mp4"; #68447 1 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1337715 --url="https://wjm.eny7kg.com/AGMJ/20200801/VqXNyxjc/index.m3u8" --filename="2604-24648-7-45.mp4"; #68447 7 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1337713 --url="https://wjm.eny7kg.com/AGMJ/20200801/YeIHd1ur/index.m3u8" --filename="2604-24646-9-18.mp4"; #68447 9 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1337717 --url="https://wjm.eny7kg.com/AGMJ/20200801/zNn4tGPt/index.m3u8" --filename="2604-24650-5-88.mp4"; #68447 5 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1368121 --url="https://wjm.eny7kg.com/AGMJ/20201208/UM2qQtQh/index.m3u8" --filename="7262-91119-1-73.mp4"; #71252 1 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1368307 --url="https://wjm.eny7kg.com/AGMJ/20201215/VrUPfdUV/index.m3u8" --filename="7262-92840-2-46.mp4"; #71252 2 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1368416 --url="https://wjm.eny7kg.com/AGMJ/20201223/sSqouqtG/index.m3u8" --filename="7262-93757-3-12.mp4" ; #71252 3 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1369499 --url="https://wjm.eny7kg.com/AGMJ/20210114/5A7wSHGM/index.m3u8" --filename="7262-96861-4-18.mp4"; #71252 4 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1370314 --url="https://wjm.eny7kg.com/AGMJ/20210202/mEjW4GHy/index.m3u8" --filename="7262-100542-5-55.mp4"; #71252 5 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1370533 --url="https://wjm.eny7kg.com/AGMJ/20210219/48fJ7ovf/index.m3u8" --filename="7262-103643-6-20.mp4"; #71252 6 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1370984 --url="https://wjm.eny7kg.com/AGMJ/20210309/7jWHdca3/index.m3u8" --filename="7262-106097-7-36.mp4" ; #71252 7 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1371260 --url="https://wjm.eny7kg.com/AGMJ/20210316/oZVbXCEY/index.m3u8" --filename="7262-106746-8-17.mp4" ; #71252 8 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1371604 --url="https://wjm.eny7kg.com/AGMJ/20210324/G0BceLhO/index.m3u8" --filename="7262-107905-9-76.mp4" ; #71252 9 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1371927 --url="https://wjm.eny7kg.com/AGMJ/20210330/vbjjoqU7/index.m3u8" --filename="7262-108479-10-30.mp4"; #71252 10 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1371992 --url="https://wjm.eny7kg.com/AGMJ/20210406/7OEIVWQo/index.m3u8" --filename="7262-109137-11-23.mp4" ; #71252 11 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1372120 --url="https://wjm.eny7kg.com/AGMJ/20210412/ma8BOyrX/index.m3u8" --filename="7262-109636-12-23.mp4" ; #71252 12 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1375557 --url="https://wjm.eny7kg.com/AGMJ/20210713/GidfCayR/index.m3u8" --filename="8953-118822-1-32.mp4"; #71911 1 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1375641 --url="https://wjm.eny7kg.com/AGMJ/20210720/aO8nANDR/index.m3u8" --filename="8953-119264-2-58.mp4"; #71911 2 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1375729 --url="https://wjm.eny7kg.com/AGMJ/20210727/jroNZX52/index.m3u8" --filename="8953-119664-3-92.mp4"; #71911 3 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1375803 --url="https://wjm.eny7kg.com/AGMJ/20210803/82qsRp6c/index.m3u8" --filename="8953-119925-4-84.mp4"; #71911 4 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1375921 --url="https://wjm.eny7kg.com/AGMJ/20210810/bqxnvJT5/index.m3u8" --filename="8953-120204-5-44.mp4"; #71911 5 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1364793 --url="https://wjm.eny7kg.com/AGMJ/20210811/zUAruWkW/index.m3u8" --filename="1914-73676-9-100.mp4"; #68152 9 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1376012 --url="https://wjm.eny7kg.com/AGMJ/20210817/MS9m7oXy/index.m3u8" --filename="8953-120519-6-68.mp4" ; #71911 6 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1378112 --url="https://wjm.eny7kg.com/AGMJ/20211126/91CIRHwW/index.m3u8" --filename="9734-128131-5-35.mp4" ; #72213 5 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1378115 --url="https://wjm.eny7kg.com/AGMJ/20211126/Bwzm8OVM/index.m3u8" --filename="9734-128134-2-97.mp4"; #72213 2 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1378110 --url="https://wjm.eny7kg.com/AGMJ/20211126/jHU47yUO/index.m3u8" --filename="9734-128129-7-5.mp4"; #72213 7 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1378114 --url="https://wjm.eny7kg.com/AGMJ/20211126/PJ7BJIKq/index.m3u8" --filename="9734-128133-3-19.mp4"; #72213 3 1080
+NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=1378113 --url="https://wjm.eny7kg.com/AGMJ/20211126/REjZMV7w/index.m3u8" --filename="9734-128132-4-65.mp4"; #72213 4 1080
