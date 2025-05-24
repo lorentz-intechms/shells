@@ -1,3 +1,5 @@
+cd /home/www/shells/;
+sudo git pull;
 sudo su;
 pkill tmux;
 tmux new-session -d -s t01 'cd /home/www/shells/command; sh t01.sh >> /home/www/shells/log/t01.log; sleep 2';
@@ -15,7 +17,8 @@ tmux new-session -d -s t10 'cd /home/www/shells/command; sh t10.sh >> /home/www/
 
 
 
-
+cd /home/www/shells/;
+sudo git pull;
 sudo su;
 pkill tmux;
 tmux new-session -d -s t11 'cd /home/www/shells/command; sh t11.sh >> /home/www/shells/log/t11.log; sleep 2';
@@ -35,7 +38,8 @@ tmux new-session -d -s t20 'cd /home/www/shells/command; sh t20.sh >> /home/www/
 
 
 
-
+cd /home/www/shells/;
+sudo git pull;
 sudo su;
 pkill tmux;
 tmux new-session -d -s t21 'cd /home/www/shells/command; sh t21.sh >> /home/www/shells/log/t21.log; sleep 2';
