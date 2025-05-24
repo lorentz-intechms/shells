@@ -1,4 +1,5 @@
 sudo su;
+pkill tmux;
 tmux new-session -d -s t01 'cd /home/www/shells/command; sh t01.sh >> /home/www/shells/log/t01.log; sleep 2';
 tmux new-session -d -s t02 'cd /home/www/shells/command; sh t02.sh >> /home/www/shells/log/t02.log; sleep 2';
 tmux new-session -d -s t03 'cd /home/www/shells/command; sh t03.sh >> /home/www/shells/log/t03.log; sleep 2';
@@ -16,6 +17,7 @@ tmux new-session -d -s t10 'cd /home/www/shells/command; sh t10.sh >> /home/www/
 
 
 sudo su;
+pkill tmux;
 tmux new-session -d -s t11 'cd /home/www/shells/command; sh t11.sh >> /home/www/shells/log/t11.log; sleep 2';
 tmux new-session -d -s t12 'cd /home/www/shells/command; sh t12.sh >> /home/www/shells/log/t12.log; sleep 2';
 tmux new-session -d -s t13 'cd /home/www/shells/command; sh t13.sh >> /home/www/shells/log/t13.log; sleep 2';
@@ -27,7 +29,15 @@ tmux new-session -d -s t18 'cd /home/www/shells/command; sh t18.sh >> /home/www/
 tmux new-session -d -s t19 'cd /home/www/shells/command; sh t19.sh >> /home/www/shells/log/t19.log; sleep 2';
 tmux new-session -d -s t20 'cd /home/www/shells/command; sh t20.sh >> /home/www/shells/log/t20.log; sleep 2';
 
+
+
+
+
+
+
+
 sudo su;
+pkill tmux;
 tmux new-session -d -s t21 'cd /home/www/shells/command; sh t21.sh >> /home/www/shells/log/t21.log; sleep 2';
 tmux new-session -d -s t22 'cd /home/www/shells/command; sh t22.sh >> /home/www/shells/log/t22.log; sleep 2';
 tmux new-session -d -s t23 'cd /home/www/shells/command; sh t23.sh >> /home/www/shells/log/t23.log; sleep 2';
