@@ -52,8 +52,14 @@ tmux new-session -d -s t27 'cd /home/www/shells/command; sh t27.sh >> /home/www/
 tmux new-session -d -s t28 'cd /home/www/shells/command; sh t28.sh >> /home/www/shells/log/t28.log; sleep 2';
 tmux new-session -d -s t29 'cd /home/www/shells/command; sh t29.sh >> /home/www/shells/log/t29.log; sleep 2';
 tmux new-session -d -s t30 'cd /home/www/shells/command; sh t30.sh >> /home/www/shells/log/t30.log; sleep 2';
+tmux new-session -d -s t31 'cd /home/www/shells/command; sh t31.sh >> /home/www/shells/log/t31.log; sleep 2';
 
 
+
+cd /home/www/shells/;
+sudo git pull;
+sudo su;
+tmux new-session -d -s t31 'cd /home/www/shells/command; sh t31.sh >> /home/www/shells/log/t31.log; sleep 2';
 
 
 
