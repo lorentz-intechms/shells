@@ -1,4 +1,4 @@
-SELECT CONCAT('NODE_OPTIONS="--trace-warnings" sudo node bin/main.js NonethVideo1Command --id=',vd.id , ' --url="',
+SELECT CONCAT('cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=',vd.id , ' --url="',
 
 
   CASE WHEN path REGEXP '^https?://' THEN path 
