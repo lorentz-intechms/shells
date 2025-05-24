@@ -10,7 +10,7 @@ SELECT CONCAT('cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVide
 
   '" --filename="', CASE
     WHEN vv.file_name REGEXP '\\.[a-zA-Z0-9]+$' THEN vv.file_name
-    ELSE CONCAT(vd.file_name, '.mp4')
+    ELSE CONCAT(vv.file_name, '.mp4')
   END,'"', IF(MOD(vd.id, 4) = 0, ';', ';') , ' #',  v.d_id, ' ', vv.sort, ' ' ,vd.resolution)  FROM `mac_vod` AS v
 LEFT JOIN `mac_vurl` AS vv ON v.d_id = vv.d_id
 LEFT JOIN
