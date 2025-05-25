@@ -1,4 +1,5 @@
 cd /home/www/shells/;
+sudo rm -Rf log/*.log;
 sudo git pull;
 sudo su;
 pkill tmux;
@@ -18,6 +19,7 @@ tmux new-session -d -s t10 'cd /home/www/shells/command; sh t10.sh >> /home/www/
 
 
 cd /home/www/shells/;
+sudo rm -Rf log/*.log;
 sudo git pull;
 sudo su;
 pkill tmux;
@@ -39,6 +41,7 @@ tmux new-session -d -s t20 'cd /home/www/shells/command; sh t20.sh >> /home/www/
 
 
 cd /home/www/shells/;
+sudo rm -Rf log/*.log;
 sudo git pull;
 sudo su;
 pkill tmux;
