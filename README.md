@@ -65,7 +65,7 @@ tmux new-session -d -s t31 'cd /home/www/shells/command; sh t31.sh >> /home/www/
 
 
 
-split -n l/30 00.sh part_;
+split -n l/40 00.sh part_;
 
 i=1
 for f in part_*; do
