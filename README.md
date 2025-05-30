@@ -13,6 +13,7 @@ tmux new-session -d -s t07 'cd /home/www/shells/command; sh t07.sh >> /home/www/
 tmux new-session -d -s t08 'cd /home/www/shells/command; sh t08.sh >> /home/www/shells/log/t08.log; sleep 2';
 tmux new-session -d -s t09 'cd /home/www/shells/command; sh t09.sh >> /home/www/shells/log/t09.log; sleep 2';
 tmux new-session -d -s t10 'cd /home/www/shells/command; sh t10.sh >> /home/www/shells/log/t10.log; sleep 2';
+tmux ls;
 
 
 
@@ -33,7 +34,7 @@ tmux new-session -d -s t17 'cd /home/www/shells/command; sh t17.sh >> /home/www/
 tmux new-session -d -s t18 'cd /home/www/shells/command; sh t18.sh >> /home/www/shells/log/t18.log; sleep 2';
 tmux new-session -d -s t19 'cd /home/www/shells/command; sh t19.sh >> /home/www/shells/log/t19.log; sleep 2';
 tmux new-session -d -s t20 'cd /home/www/shells/command; sh t20.sh >> /home/www/shells/log/t20.log; sleep 2';
-
+tmux ls;
 
 
 
@@ -55,6 +56,29 @@ tmux new-session -d -s t27 'cd /home/www/shells/command; sh t27.sh >> /home/www/
 tmux new-session -d -s t28 'cd /home/www/shells/command; sh t28.sh >> /home/www/shells/log/t28.log; sleep 2';
 tmux new-session -d -s t29 'cd /home/www/shells/command; sh t29.sh >> /home/www/shells/log/t29.log; sleep 2';
 tmux new-session -d -s t30 'cd /home/www/shells/command; sh t30.sh >> /home/www/shells/log/t30.log; sleep 2';
+tmux ls;
+
+
+
+
+
+
+cd /home/www/shells/;
+sudo rm -Rf log/*.log;
+sudo git pull;
+sudo su;
+pkill tmux;
+tmux new-session -d -s t31 'cd /home/www/shells/command; sh t31.sh >> /home/www/shells/log/t31.log; sleep 2';
+tmux new-session -d -s t32 'cd /home/www/shells/command; sh t32.sh >> /home/www/shells/log/t32.log; sleep 2';
+tmux new-session -d -s t33 'cd /home/www/shells/command; sh t33.sh >> /home/www/shells/log/t33.log; sleep 2';
+tmux new-session -d -s t34 'cd /home/www/shells/command; sh t34.sh >> /home/www/shells/log/t34.log; sleep 2';
+tmux new-session -d -s t35 'cd /home/www/shells/command; sh t35.sh >> /home/www/shells/log/t35.log; sleep 2';
+tmux new-session -d -s t36 'cd /home/www/shells/command; sh t36.sh >> /home/www/shells/log/t36.log; sleep 2';
+tmux new-session -d -s t37 'cd /home/www/shells/command; sh t37.sh >> /home/www/shells/log/t37.log; sleep 2';
+tmux new-session -d -s t38 'cd /home/www/shells/command; sh t38.sh >> /home/www/shells/log/t38.log; sleep 2';
+tmux new-session -d -s t39 'cd /home/www/shells/command; sh t39.sh >> /home/www/shells/log/t39.log; sleep 2';
+tmux new-session -d -s t40 'cd /home/www/shells/command; sh t40.sh >> /home/www/shells/log/t40.log; sleep 2';
+tmux ls;
 
 
 
