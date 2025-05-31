@@ -81,7 +81,6 @@ tmux new-session -d -s t40 'cd /home/www/shells/command; sh t40.sh >> /home/www/
 tmux ls;
 
 
-
 cd /home/www/shells/;
 sudo git pull;
 sudo su;
