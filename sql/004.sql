@@ -5,12 +5,14 @@ LEFT JOIN `cv-003_0004-app_uploader_stage_actions` AS ausa ON aus.id = ausa.app_
 WHERE ausa.app_converter_producer_id = 11 AND ausa.file = 1 AND ausa.step = 3;
 
 
-
-https://enlvd4cili.ahplm.com/20181014/luWKT87t/10000kb/hls/index.m3u8
+-- PWA cdn https://qzpwa-hw.point-memory.com
 
 SELECT CONCAT('sudo node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://enlvd4cili.ahplm.com', enc_url, '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # ', subtitle) 
 FROM `video_movies` 
-WHERE url NOT REGEXP '/aac/h264/hls/' AND url != '' id IN 
+WHERE url NOT REGEXP '/aac/h264/hls/' AND 
+url != '' AND 
+tencent_enc_url = '' AND
+id IN 
 
 (10043,
 10042,
@@ -40,7 +42,42 @@ ORDER BY  `updated_at`  DESC
 
 SELECT CONCAT('sudo node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://enlvd4cili.ahplm.com', enc_url, '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # ', subtitle) 
 FROM `video_movies` 
-WHERE enc_url NOT REGEXP '/aac/h264/hls/' AND enc_url != '' id IN 
+WHERE enc_url NOT REGEXP '/aac/h264/hls/' AND 
+enc_url != '' AND 
+tencent_enc_url = '' AND
+id IN 
+
+(10043,
+10042,
+10041,
+10040,
+10037,
+10036,
+10035,
+10034,
+10033,
+10032,
+10031,
+10030,
+10029,
+10028,
+10027,
+10026,
+10025,
+10024,
+10023)
+
+
+ AND is_transcoding = 1 ORDER BY  `updated_at`  DESC 
+;
+
+
+SELECT CONCAT('sudo node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://enlvd4cili.ahplm.com', enc_url_265, '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # ', subtitle) 
+FROM `video_movies` 
+WHERE url NOT REGEXP '/aac/h264/hls/' AND 
+enc_url_265 != '' AND 
+tencent_enc_url = '' AND
+id IN 
 
 (10043,
 10042,
