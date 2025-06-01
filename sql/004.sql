@@ -38,9 +38,10 @@ id IN
 ORDER BY  `updated_at`  DESC 
 
 
+cd /home/www/conversion-api-koa/ && sudo git reset --hard origin/master && sudo git pull && sudo yarn run build && sudo pm2 restart all;
 
 
-SELECT CONCAT('sudo node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://enlvd4cili.ahplm.com', enc_url, '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # ', subtitle) 
+SELECT CONCAT('sudo node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://enlvd4cili.ahplm.com', IF(enc_url_265 = '', enc_url, enc_url), '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # ', subtitle) 
 FROM `video_movies` 
 WHERE enc_url NOT REGEXP '/aac/h264/hls/' AND 
 enc_url != '' AND 
@@ -72,33 +73,3 @@ id IN
 ;
 
 
-SELECT CONCAT('sudo node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://enlvd4cili.ahplm.com', enc_url_265, '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # ', subtitle) 
-FROM `video_movies` 
-WHERE url NOT REGEXP '/aac/h264/hls/' AND 
-enc_url_265 != '' AND 
-tencent_enc_url = '' AND
-id IN 
-
-(10043,
-10042,
-10041,
-10040,
-10037,
-10036,
-10035,
-10034,
-10033,
-10032,
-10031,
-10030,
-10029,
-10028,
-10027,
-10026,
-10025,
-10024,
-10023)
-
-
- AND is_transcoding = 1 ORDER BY  `updated_at`  DESC 
-;
