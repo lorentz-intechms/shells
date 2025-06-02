@@ -67,20 +67,19 @@ cd /home/www/shells/;
 sudo rm -Rf log/*.log;
 sudo git pull;
 sudo su;
-pkill screen;
+pkill tmux;
+tmux new-session -d -s t31 'cd /home/www/shells/command; sh t31.sh >> /home/www/shells/log/t31.log; sleep 2';
+tmux new-session -d -s t32 'cd /home/www/shells/command; sh t32.sh >> /home/www/shells/log/t32.log; sleep 2';
+tmux new-session -d -s t33 'cd /home/www/shells/command; sh t33.sh >> /home/www/shells/log/t33.log; sleep 2';
+tmux new-session -d -s t34 'cd /home/www/shells/command; sh t34.sh >> /home/www/shells/log/t34.log; sleep 2';
+tmux new-session -d -s t35 'cd /home/www/shells/command; sh t35.sh >> /home/www/shells/log/t35.log; sleep 2';
+tmux new-session -d -s t36 'cd /home/www/shells/command; sh t36.sh >> /home/www/shells/log/t36.log; sleep 2';
+tmux new-session -d -s t37 'cd /home/www/shells/command; sh t37.sh >> /home/www/shells/log/t37.log; sleep 2';
+tmux new-session -d -s t38 'cd /home/www/shells/command; sh t38.sh >> /home/www/shells/log/t38.log; sleep 2';
+tmux new-session -d -s t39 'cd /home/www/shells/command; sh t39.sh >> /home/www/shells/log/t39.log; sleep 2';
+tmux new-session -d -s t40 'cd /home/www/shells/command; sh t40.sh >> /home/www/shells/log/t40.log; sleep 2';
+tmux ls;
 
-screen -dmS t31 bash -c 'cd /home/www/shells/command; sh t31.sh >> /home/www/shells/log/t31.log; sleep 2';
-screen -dmS t32 bash -c 'cd /home/www/shells/command; sh t32.sh >> /home/www/shells/log/t32.log; sleep 2';
-screen -dmS t33 bash -c 'cd /home/www/shells/command; sh t33.sh >> /home/www/shells/log/t33.log; sleep 2';
-screen -dmS t34 bash -c 'cd /home/www/shells/command; sh t34.sh >> /home/www/shells/log/t34.log; sleep 2';
-screen -dmS t35 bash -c 'cd /home/www/shells/command; sh t35.sh >> /home/www/shells/log/t35.log; sleep 2';
-screen -dmS t36 bash -c 'cd /home/www/shells/command; sh t36.sh >> /home/www/shells/log/t36.log; sleep 2';
-screen -dmS t37 bash -c 'cd /home/www/shells/command; sh t37.sh >> /home/www/shells/log/t37.log; sleep 2';
-screen -dmS t38 bash -c 'cd /home/www/shells/command; sh t38.sh >> /home/www/shells/log/t38.log; sleep 2';
-screen -dmS t39 bash -c 'cd /home/www/shells/command; sh t39.sh >> /home/www/shells/log/t39.log; sleep 2';
-screen -dmS t40 bash -c 'cd /home/www/shells/command; sh t40.sh >> /home/www/shells/log/t40.log; sleep 2';
-
-screen -ls
 
 
 
