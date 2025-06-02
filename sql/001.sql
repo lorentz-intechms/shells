@@ -3,7 +3,7 @@ SELECT CONCAT('cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVide
 
   CASE WHEN path REGEXP '^https?://' THEN path 
   
-  WHEN path NOT REGEXP '^/' THEN CONCAT('https://wjm.eny7kg.com/', path)
+  WHEN path NOT REGEXP '^/' THEN CONCAT('https://download.eny7kg.com/', path)
   ELSE CONCAT('https://wjm.eny7kg.com', path) 
   
   END,
@@ -3043,4 +3043,4 @@ WHERE v.d_id IN
 45214
 
 ) AND vd.path NOT REGEXP '/aac/h264/hls/'
-ORDER BY vd.path ASC limit 0,1000;
+ORDER BY vd.path ASC;
