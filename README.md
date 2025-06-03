@@ -87,11 +87,44 @@ tmux ls;
 
 
 
+cd /home/www/shells/;
+sudo rm -Rf log/*.log;
+sudo git pull;
+sudo su;
+tmux ls;
+pkill tmux;
+tmux new-session -d -s v01 'cd /home/www/shells/command; sh v01.sh >> /home/www/shells/log/v01.log; sleep 2';
+tmux new-session -d -s v02 'cd /home/www/shells/command; sh v02.sh >> /home/www/shells/log/v02.log; sleep 2';
+tmux new-session -d -s v03 'cd /home/www/shells/command; sh v03.sh >> /home/www/shells/log/v03.log; sleep 2';
+tmux new-session -d -s v04 'cd /home/www/shells/command; sh v04.sh >> /home/www/shells/log/v04.log; sleep 2';
+tmux new-session -d -s v05 'cd /home/www/shells/command; sh v05.sh >> /home/www/shells/log/v05.log; sleep 2';
+tmux new-session -d -s v06 'cd /home/www/shells/command; sh v06.sh >> /home/www/shells/log/v06.log; sleep 2';
+tmux new-session -d -s v07 'cd /home/www/shells/command; sh v07.sh >> /home/www/shells/log/v07.log; sleep 2';
+tmux new-session -d -s v08 'cd /home/www/shells/command; sh v08.sh >> /home/www/shells/log/v08.log; sleep 2';
+tmux new-session -d -s v09 'cd /home/www/shells/command; sh v09.sh >> /home/www/shells/log/v09.log; sleep 2';
+tmux new-session -d -s v10 'cd /home/www/shells/command; sh v10.sh >> /home/www/shells/log/v10.log; sleep 2';
+tmux new-session -d -s v11 'cd /home/www/shells/command; sh v11.sh >> /home/www/shells/log/v11.log; sleep 2';
+tmux new-session -d -s v12 'cd /home/www/shells/command; sh v12.sh >> /home/www/shells/log/v12.log; sleep 2';
+tmux new-session -d -s v13 'cd /home/www/shells/command; sh v13.sh >> /home/www/shells/log/v13.log; sleep 2';
+tmux new-session -d -s v14 'cd /home/www/shells/command; sh v14.sh >> /home/www/shells/log/v14.log; sleep 2';
+tmux new-session -d -s v15 'cd /home/www/shells/command; sh v15.sh >> /home/www/shells/log/v15.log; sleep 2';
+tmux new-session -d -s v16 'cd /home/www/shells/command; sh v16.sh >> /home/www/shells/log/v16.log; sleep 2';
+tmux new-session -d -s v17 'cd /home/www/shells/command; sh v17.sh >> /home/www/shells/log/v17.log; sleep 2';
+tmux new-session -d -s v18 'cd /home/www/shells/command; sh v18.sh >> /home/www/shells/log/v18.log; sleep 2';
+tmux new-session -d -s v19 'cd /home/www/shells/command; sh v19.sh >> /home/www/shells/log/v19.log; sleep 2';
+tmux new-session -d -s v20 'cd /home/www/shells/command; sh v20.sh >> /home/www/shells/log/v20.log; sleep 2';
+tmux ls;
 
-split -n l/40 00.sh part_;
+
+
+
+
+
+
+split -n l/20 04.sh part_;
 
 i=1
 for f in part_*; do
-  mv "$f" $(printf "t%02d.sh" $i)
+  mv "$f" $(printf "v%02d.sh" $i)
   i=$((i + 1))
 done
