@@ -192,11 +192,11 @@ one mp4视频域名 https://mkvd.2pqf97y.com
 one 切片加密视频域名https://jmvd.jdgzgj.com
 
 
-one 源mp4 地址：                    20250423/FC2PPV-4673073.mp4
-one TC mp4 地址：                   decry/vd/20250604/YTJlZjIzNzdkOD/034745/1920_1080/aac/h265/mp4/decrypt/jUxM.mp4
-one MS h264 切片地址：              decry/vd/20250423/NjYwMTZjMWU2Y2E/154944/1920_1080/aac/libx/hls/decrypt/index.m3u8
-one TC h264 切片地址：              decry/vd/20250604/YTJlZjIzNzdkOD/034745/1920_1080/aac/h264/hls/decrypt/index.m3u8
-one TC h265 切片地址：              decry/vd/20250604/YTJlZjIzNzdkOD/034745/1920_1080/aac/h265/hls/encrypt/index.m3u8
+one 源mp4 地址：                    https://mkvd.2pqf97y.com/one/20250423/FC2PPV-4673073.mp4
+one TC mp4 地址：                   https://mkvd.2pqf97y.com/one/compress/decry/vd/20250604/YTJlZjIzNzdkOD/034745/1920_1080/aac/h265/mp4/decrypt/jUxM.mp4
+one MS h264 切片地址：              https://pwavd.phd3wfh.com/decry/vd/20250423/NjYwMTZjMWU2Y2E/154944/1920_1080/aac/libx/hls/decrypt/index.m3u8
+one TC h264 切片地址：              https://pwavd.phd3wfh.com/decry/vd/20250604/YTJlZjIzNzdkOD/034745/1920_1080/aac/h264/hls/decrypt/index.m3u8
+one TC h265 切片地址：              https://pwavd.phd3wfh.com/decry/vd/20250604/YTJlZjIzNzdkOD/034745/1920_1080/aac/h265/hls/encrypt/index.m3u8
 
 
 
