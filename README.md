@@ -103,6 +103,20 @@ tmux new-session -d -s v07 'cd /home/www/shells/command; sh v07.sh >> /home/www/
 tmux new-session -d -s v08 'cd /home/www/shells/command; sh v08.sh >> /home/www/shells/log/v08.log; sleep 2';
 tmux new-session -d -s v09 'cd /home/www/shells/command; sh v09.sh >> /home/www/shells/log/v09.log; sleep 2';
 tmux new-session -d -s v10 'cd /home/www/shells/command; sh v10.sh >> /home/www/shells/log/v10.log; sleep 2';
+
+tmux ls;
+
+
+
+
+
+cd /home/www/shells/;
+sudo rm -Rf log/*.log;
+sudo git pull;
+sudo su;
+tmux ls;
+pkill tmux;
+
 tmux new-session -d -s v11 'cd /home/www/shells/command; sh v11.sh >> /home/www/shells/log/v11.log; sleep 2';
 tmux new-session -d -s v12 'cd /home/www/shells/command; sh v12.sh >> /home/www/shells/log/v12.log; sleep 2';
 tmux new-session -d -s v13 'cd /home/www/shells/command; sh v13.sh >> /home/www/shells/log/v13.log; sleep 2';

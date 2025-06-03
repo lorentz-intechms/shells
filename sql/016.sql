@@ -1,5 +1,5 @@
 SELECT
-    CONCAT('sudo node bin/main.js NonethVideo16Command --id=', c.id, ' --url="https://mkvd.2pqf97y.com', v.download_path , '" --filename="', v.filename, '"; #', v.content_id, ' ', v.filename, ' ', f.issue)
+    CONCAT('sudo node bin/main.js NonethVideo16Command --id=', c.id, ' --url="https://mkvd.2pqf97y.com', v.download_path , '" --filename="', v.filename, '" & #', v.content_id, ' ', v.filename, ' ', f.issue)
 FROM
     one_contents c
 LEFT JOIN
