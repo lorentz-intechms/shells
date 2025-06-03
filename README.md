@@ -135,6 +135,8 @@ tmux ls;
 
 
 
+
+
 split -n l/20 04.sh part_;
 
 i=1
