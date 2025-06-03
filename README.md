@@ -87,6 +87,93 @@ tmux ls;
 
 
 
+
+cd /home/www/shells/;
+sudo rm -Rf log/*.log;
+sudo git pull;
+sudo su;
+tmux ls;
+pkill tmux;
+tmux new-session -d -s d41 'cd /home/www/shells/command; sh d41.sh >> /home/www/shells/log/d41.log; sleep 2';
+tmux new-session -d -s d42 'cd /home/www/shells/command; sh d42.sh >> /home/www/shells/log/d42.log; sleep 2';
+tmux new-session -d -s d43 'cd /home/www/shells/command; sh d43.sh >> /home/www/shells/log/d43.log; sleep 2';
+tmux new-session -d -s d44 'cd /home/www/shells/command; sh d44.sh >> /home/www/shells/log/d44.log; sleep 2';
+tmux new-session -d -s d45 'cd /home/www/shells/command; sh d45.sh >> /home/www/shells/log/d45.log; sleep 2';
+tmux new-session -d -s d46 'cd /home/www/shells/command; sh d46.sh >> /home/www/shells/log/d46.log; sleep 2';
+tmux new-session -d -s d47 'cd /home/www/shells/command; sh d47.sh >> /home/www/shells/log/d47.log; sleep 2';
+tmux new-session -d -s d48 'cd /home/www/shells/command; sh d48.sh >> /home/www/shells/log/d48.log; sleep 2';
+tmux new-session -d -s d49 'cd /home/www/shells/command; sh d49.sh >> /home/www/shells/log/d49.log; sleep 2';
+tmux new-session -d -s d50 'cd /home/www/shells/command; sh d50.sh >> /home/www/shells/log/d50.log; sleep 2';
+tmux new-session -d -s d51 'cd /home/www/shells/command; sh d51.sh >> /home/www/shells/log/d51.log; sleep 2';
+tmux new-session -d -s d52 'cd /home/www/shells/command; sh d52.sh >> /home/www/shells/log/d52.log; sleep 2';
+tmux new-session -d -s d53 'cd /home/www/shells/command; sh d53.sh >> /home/www/shells/log/d53.log; sleep 2';
+tmux new-session -d -s d54 'cd /home/www/shells/command; sh d54.sh >> /home/www/shells/log/d54.log; sleep 2';
+tmux new-session -d -s d55 'cd /home/www/shells/command; sh d55.sh >> /home/www/shells/log/d55.log; sleep 2';
+tmux new-session -d -s d56 'cd /home/www/shells/command; sh d56.sh >> /home/www/shells/log/d56.log; sleep 2';
+tmux ls;
+
+
+
+
+
+
+
+
+cd /home/www/shells/;
+sudo rm -Rf log/*.log;
+sudo git pull;
+sudo su;
+tmux ls;
+pkill tmux;
+tmux new-session -d -s d57 'cd /home/www/shells/command; sh d57.sh >> /home/www/shells/log/d57.log; sleep 2';
+tmux new-session -d -s d58 'cd /home/www/shells/command; sh d58.sh >> /home/www/shells/log/d58.log; sleep 2';
+tmux new-session -d -s d59 'cd /home/www/shells/command; sh d59.sh >> /home/www/shells/log/d59.log; sleep 2';
+tmux new-session -d -s d60 'cd /home/www/shells/command; sh d60.sh >> /home/www/shells/log/d60.log; sleep 2';
+tmux new-session -d -s d61 'cd /home/www/shells/command; sh d61.sh >> /home/www/shells/log/d61.log; sleep 2';
+tmux new-session -d -s d62 'cd /home/www/shells/command; sh d62.sh >> /home/www/shells/log/d62.log; sleep 2';
+tmux new-session -d -s d63 'cd /home/www/shells/command; sh d63.sh >> /home/www/shells/log/d63.log; sleep 2';
+tmux new-session -d -s d64 'cd /home/www/shells/command; sh d64.sh >> /home/www/shells/log/d64.log; sleep 2';
+tmux new-session -d -s d65 'cd /home/www/shells/command; sh d65.sh >> /home/www/shells/log/d65.log; sleep 2';
+tmux new-session -d -s d66 'cd /home/www/shells/command; sh d66.sh >> /home/www/shells/log/d66.log; sleep 2';
+tmux new-session -d -s d67 'cd /home/www/shells/command; sh d67.sh >> /home/www/shells/log/d67.log; sleep 2';
+tmux new-session -d -s d68 'cd /home/www/shells/command; sh d68.sh >> /home/www/shells/log/d68.log; sleep 2';
+tmux new-session -d -s d69 'cd /home/www/shells/command; sh d69.sh >> /home/www/shells/log/d69.log; sleep 2';
+tmux new-session -d -s d70 'cd /home/www/shells/command; sh d70.sh >> /home/www/shells/log/d70.log; sleep 2';
+tmux new-session -d -s d71 'cd /home/www/shells/command; sh d71.sh >> /home/www/shells/log/d71.log; sleep 2';
+tmux new-session -d -s d72 'cd /home/www/shells/command; sh d72.sh >> /home/www/shells/log/d72.log; sleep 2';
+tmux ls;
+
+
+
+cd /home/www/shells/;
+sudo rm -Rf log/*.log;
+sudo git pull;
+sudo su;
+tmux ls;
+pkill tmux;
+tmux new-session -d -s d73 'cd /home/www/shells/command; sh d73.sh >> /home/www/shells/log/d73.log; sleep 2';
+tmux new-session -d -s d74 'cd /home/www/shells/command; sh d74.sh >> /home/www/shells/log/d74.log; sleep 2';
+tmux new-session -d -s d75 'cd /home/www/shells/command; sh d75.sh >> /home/www/shells/log/d75.log; sleep 2';
+tmux new-session -d -s d76 'cd /home/www/shells/command; sh d76.sh >> /home/www/shells/log/d76.log; sleep 2';
+tmux new-session -d -s d77 'cd /home/www/shells/command; sh d77.sh >> /home/www/shells/log/d77.log; sleep 2';
+tmux new-session -d -s d78 'cd /home/www/shells/command; sh d78.sh >> /home/www/shells/log/d78.log; sleep 2';
+tmux new-session -d -s d79 'cd /home/www/shells/command; sh d79.sh >> /home/www/shells/log/d79.log; sleep 2';
+tmux new-session -d -s d80 'cd /home/www/shells/command; sh d80.sh >> /home/www/shells/log/d80.log; sleep 2';
+tmux new-session -d -s d81 'cd /home/www/shells/command; sh d81.sh >> /home/www/shells/log/d81.log; sleep 2';
+tmux new-session -d -s d82 'cd /home/www/shells/command; sh d82.sh >> /home/www/shells/log/d82.log; sleep 2';
+tmux new-session -d -s d83 'cd /home/www/shells/command; sh d83.sh >> /home/www/shells/log/d83.log; sleep 2';
+tmux new-session -d -s d84 'cd /home/www/shells/command; sh d84.sh >> /home/www/shells/log/d84.log; sleep 2';
+tmux new-session -d -s d85 'cd /home/www/shells/command; sh d85.sh >> /home/www/shells/log/d85.log; sleep 2';
+tmux new-session -d -s d86 'cd /home/www/shells/command; sh d86.sh >> /home/www/shells/log/d86.log; sleep 2';
+tmux new-session -d -s d87 'cd /home/www/shells/command; sh d87.sh >> /home/www/shells/log/d87.log; sleep 2';
+tmux new-session -d -s d88 'cd /home/www/shells/command; sh d88.sh >> /home/www/shells/log/d88.log; sleep 2';
+tmux ls;
+
+
+
+
+
+
 cd /home/www/shells/;
 sudo rm -Rf log/*.log;
 sudo git pull;
@@ -137,9 +224,9 @@ tmux ls;
 
 
 
-split -n l/40 04.sh part_;
+split -n l/48 04-0605.sh part_;
 
-i=1
+i=41
 for f in part_*; do
   mv "$f" $(printf "d%02d.sh" $i)
   i=$((i + 1))
