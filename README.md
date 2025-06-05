@@ -202,7 +202,7 @@ one TC h265 切片地址：              https://pwavd.phd3wfh.com/decry/vd/2025
 
 
 
-split -n l/112 04-0603.sh part_
+split -n l/112 04-0604.sh part_
 
 group=1
 index=1
