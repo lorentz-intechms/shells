@@ -4,4 +4,4 @@ WHERE enc_url NOT REGEXP '/aac/h264/hls/' AND
 enc_url != '' AND 
 tencent_enc_url = '' 
  AND is_transcoding = 1 
- AND `updated_at`  < '2025-03-28 03:03:28' ORDER BY  `updated_at`  DESC;
+ AND `updated_at`  < '2025-02-10 02:21:49 ' ORDER BY  `updated_at`  DESC;
