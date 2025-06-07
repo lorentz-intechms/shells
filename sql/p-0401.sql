@@ -14,7 +14,6 @@ group by v.filename
 ORDER BY
     f.id DESC;
 
-
 SELECT ap.id, ap.name, ap.width, ap.height, ap.duration, ap.video_bit_rate, ap.added_time, 
     ausa.key, ausa.file, ausa.step
 FROM `cv-008_0016-app_pipelines` AS ap 
@@ -75,5 +74,5 @@ WHERE  name IN
 'IPZZ-035.mp4',
 'Puplizashultz202009_sample.mp4',
 'Puplizashultz202009.mp4') AND ( (ausa.file = 0 AND ausa.step = 3) OR  (ausa.file = 0 AND ausa.step = 2))
-ORDER BY ap.duration, ausa.step DESC
+ORDER BY ap.duration DESC, ausa.step ASC
 limit 1000;
