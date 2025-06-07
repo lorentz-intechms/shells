@@ -211,7 +211,7 @@ one TC h265 切片地址：              https://pwavd.phd3wfh.com/decry/vd/2025
 
 
 
-split -n l/140 04-0605.sh part_
+split -n l/112 04-0605.sh part_
 
 
 group=1
@@ -222,7 +222,7 @@ for f in part_*; do
   mv "$f" "$newname"
 
   index=$((index + 1))
-  if [ "$index" -gt 30 ]; then
+  if [ "$index" -gt 16 ]; then
     index=1
     group=$((group + 1))
   fi
@@ -230,20 +230,3 @@ done
 
 
 
-# 將檔案切成 70 份
-split -n l/70 04-0606.sh part_
-
-# 初始化 group 和 index
-group=1
-index=51
-
-for f in part_*; do
-  printf -v newname "d%d-%02d.sh" "$group" "$index"
-  mv "$f" "$newname"
-
-  index=$((index + 1))
-  if [ "$index" -gt 60 ]; then
-    index=51
-    group=$((group + 1))
-  fi
-done
