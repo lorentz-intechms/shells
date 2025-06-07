@@ -75,5 +75,5 @@ WHERE  name IN
 'IPZZ-035.mp4',
 'Puplizashultz202009_sample.mp4',
 'Puplizashultz202009.mp4') AND ( (ausa.file = 0 AND ausa.step = 3) OR  (ausa.file = 0 AND ausa.step = 2))
-ORDER BY ap.duration DESC
+ORDER BY ap.duration, ausa.step DESC
 limit 1000;
