@@ -21,6 +21,11 @@ tmux new-session -d -s d1-13 'cd /home/www/shells/command; sh d1-13.sh >> /home/
 tmux new-session -d -s d1-14 'cd /home/www/shells/command; sh d1-14.sh >> /home/www/shells/log/d1-14.log; sleep 2';
 tmux new-session -d -s d1-15 'cd /home/www/shells/command; sh d1-15.sh >> /home/www/shells/log/d1-15.log; sleep 2';
 tmux new-session -d -s d1-16 'cd /home/www/shells/command; sh d1-16.sh >> /home/www/shells/log/d1-16.log; sleep 2';
+tmux new-session -d -s d1-17 'cd /home/www/shells/command; sh d1-17.sh >> /home/www/shells/log/d1-17.log; sleep 2';
+tmux new-session -d -s d1-18 'cd /home/www/shells/command; sh d1-18.sh >> /home/www/shells/log/d1-18.log; sleep 2';
+tmux new-session -d -s d1-19 'cd /home/www/shells/command; sh d1-19.sh >> /home/www/shells/log/d1-19.log; sleep 2';
+tmux new-session -d -s d1-20 'cd /home/www/shells/command; sh d1-20.sh >> /home/www/shells/log/d1-20.log; sleep 2';
+
 tmux ls;
 
 
@@ -50,6 +55,10 @@ tmux new-session -d -s d2-13 'cd /home/www/shells/command; sh d2-13.sh >> /home/
 tmux new-session -d -s d2-14 'cd /home/www/shells/command; sh d2-14.sh >> /home/www/shells/log/d2-14.log; sleep 2';
 tmux new-session -d -s d2-15 'cd /home/www/shells/command; sh d2-15.sh >> /home/www/shells/log/d2-15.log; sleep 2';
 tmux new-session -d -s d2-16 'cd /home/www/shells/command; sh d2-16.sh >> /home/www/shells/log/d2-16.log; sleep 2';
+tmux new-session -d -s d2-17 'cd /home/www/shells/command; sh d2-17.sh >> /home/www/shells/log/d2-17.log; sleep 2';
+tmux new-session -d -s d2-18 'cd /home/www/shells/command; sh d2-18.sh >> /home/www/shells/log/d2-18.log; sleep 2';
+tmux new-session -d -s d2-19 'cd /home/www/shells/command; sh d2-19.sh >> /home/www/shells/log/d2-19.log; sleep 2';
+tmux new-session -d -s d2-20 'cd /home/www/shells/command; sh d2-20.sh >> /home/www/shells/log/d2-20.log; sleep 2';
 tmux ls;
 
 
@@ -77,6 +86,10 @@ tmux new-session -d -s d3-13 'cd /home/www/shells/command; sh d3-13.sh >> /home/
 tmux new-session -d -s d3-14 'cd /home/www/shells/command; sh d3-14.sh >> /home/www/shells/log/d3-14.log; sleep 2';
 tmux new-session -d -s d3-15 'cd /home/www/shells/command; sh d3-15.sh >> /home/www/shells/log/d3-15.log; sleep 2';
 tmux new-session -d -s d3-16 'cd /home/www/shells/command; sh d3-16.sh >> /home/www/shells/log/d3-16.log; sleep 2';
+tmux new-session -d -s d3-17 'cd /home/www/shells/command; sh d3-17.sh >> /home/www/shells/log/d3-17.log; sleep 2';
+tmux new-session -d -s d3-18 'cd /home/www/shells/command; sh d3-18.sh >> /home/www/shells/log/d3-18.log; sleep 2';
+tmux new-session -d -s d3-19 'cd /home/www/shells/command; sh d3-19.sh >> /home/www/shells/log/d3-19.log; sleep 2';
+tmux new-session -d -s d3-20 'cd /home/www/shells/command; sh d3-20.sh >> /home/www/shells/log/d3-20.log; sleep 2';
 tmux ls;
 
 
@@ -106,6 +119,10 @@ tmux new-session -d -s d4-13 'cd /home/www/shells/command; sh d4-13.sh >> /home/
 tmux new-session -d -s d4-14 'cd /home/www/shells/command; sh d4-14.sh >> /home/www/shells/log/d4-14.log; sleep 2';
 tmux new-session -d -s d4-15 'cd /home/www/shells/command; sh d4-15.sh >> /home/www/shells/log/d4-15.log; sleep 2';
 tmux new-session -d -s d4-16 'cd /home/www/shells/command; sh d4-16.sh >> /home/www/shells/log/d4-16.log; sleep 2';
+tmux new-session -d -s d4-17 'cd /home/www/shells/command; sh d4-17.sh >> /home/www/shells/log/d4-17.log; sleep 2';
+tmux new-session -d -s d4-18 'cd /home/www/shells/command; sh d4-18.sh >> /home/www/shells/log/d4-18.log; sleep 2';
+tmux new-session -d -s d4-19 'cd /home/www/shells/command; sh d4-19.sh >> /home/www/shells/log/d4-19.log; sleep 2';
+tmux new-session -d -s d4-20 'cd /home/www/shells/command; sh d4-20.sh >> /home/www/shells/log/d4-20.log; sleep 2';
 tmux ls;
 
 
@@ -134,6 +151,10 @@ tmux new-session -d -s d5-13 'cd /home/www/shells/command; sh d5-13.sh >> /home/
 tmux new-session -d -s d5-14 'cd /home/www/shells/command; sh d5-14.sh >> /home/www/shells/log/d5-14.log; sleep 2';
 tmux new-session -d -s d5-15 'cd /home/www/shells/command; sh d5-15.sh >> /home/www/shells/log/d5-15.log; sleep 2';
 tmux new-session -d -s d5-16 'cd /home/www/shells/command; sh d5-16.sh >> /home/www/shells/log/d5-16.log; sleep 2';
+tmux new-session -d -s d5-17 'cd /home/www/shells/command; sh d5-17.sh >> /home/www/shells/log/d5-17.log; sleep 2';
+tmux new-session -d -s d5-18 'cd /home/www/shells/command; sh d5-18.sh >> /home/www/shells/log/d5-18.log; sleep 2';
+tmux new-session -d -s d5-19 'cd /home/www/shells/command; sh d5-19.sh >> /home/www/shells/log/d5-19.log; sleep 2';
+tmux new-session -d -s d5-20 'cd /home/www/shells/command; sh d5-20.sh >> /home/www/shells/log/d5-20.log; sleep 2';
 tmux ls;
 
 
@@ -160,6 +181,10 @@ tmux new-session -d -s d6-13 'cd /home/www/shells/command; sh d6-13.sh >> /home/
 tmux new-session -d -s d6-14 'cd /home/www/shells/command; sh d6-14.sh >> /home/www/shells/log/d6-14.log; sleep 2';
 tmux new-session -d -s d6-15 'cd /home/www/shells/command; sh d6-15.sh >> /home/www/shells/log/d6-15.log; sleep 2';
 tmux new-session -d -s d6-16 'cd /home/www/shells/command; sh d6-16.sh >> /home/www/shells/log/d6-16.log; sleep 2';
+tmux new-session -d -s d6-17 'cd /home/www/shells/command; sh d6-17.sh >> /home/www/shells/log/d6-17.log; sleep 2';
+tmux new-session -d -s d6-18 'cd /home/www/shells/command; sh d6-18.sh >> /home/www/shells/log/d6-18.log; sleep 2';
+tmux new-session -d -s d6-19 'cd /home/www/shells/command; sh d6-19.sh >> /home/www/shells/log/d6-19.log; sleep 2';
+tmux new-session -d -s d6-20 'cd /home/www/shells/command; sh d6-20.sh >> /home/www/shells/log/d6-20.log; sleep 2';
 tmux ls;
 
 
@@ -187,7 +212,10 @@ tmux new-session -d -s d7-13 'cd /home/www/shells/command; sh d7-13.sh >> /home/
 tmux new-session -d -s d7-14 'cd /home/www/shells/command; sh d7-14.sh >> /home/www/shells/log/d7-14.log; sleep 2';
 tmux new-session -d -s d7-15 'cd /home/www/shells/command; sh d7-15.sh >> /home/www/shells/log/d7-15.log; sleep 2';
 tmux new-session -d -s d7-16 'cd /home/www/shells/command; sh d7-16.sh >> /home/www/shells/log/d7-16.log; sleep 2';
-
+tmux new-session -d -s d7-17 'cd /home/www/shells/command; sh d7-17.sh >> /home/www/shells/log/d7-17.log; sleep 2';
+tmux new-session -d -s d7-18 'cd /home/www/shells/command; sh d7-18.sh >> /home/www/shells/log/d7-18.log; sleep 2';
+tmux new-session -d -s d7-19 'cd /home/www/shells/command; sh d7-19.sh >> /home/www/shells/log/d7-19.log; sleep 2';
+tmux new-session -d -s d7-20 'cd /home/www/shells/command; sh d7-20.sh >> /home/www/shells/log/d7-20.log; sleep 2';
 
 tmux ls;
 
