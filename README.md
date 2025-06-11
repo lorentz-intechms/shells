@@ -258,3 +258,25 @@ done
 
 
 
+
+
+uat:
+jam_720_01
+access-key= 2TREQN35N4GPAHES36BX
+secret-key= puEw802MwSf1DN9dq57O0Kz478nzOOe5hc7ib6s9
+
+jam_720_02
+access-key= HJFDOBR5EJDIAP3ZBUQA
+secret-key= hnqzi3WC2nmDeYKAl0KhiveAkZI2qGKq6VSoNqnH
+
+jam_720_03
+access-key= WEGI4UJA6YE24ME3HUYY
+secret-key= HsRWMsTVZHRJRm5vn3Uw28BvvmOfN1TtUSKp2CWo
+
+
+
+uat_jam_720_04
+access-key= DVKV3YD6U2ORWQYF9BHC
+secret-key= S9JkEiLtew445R4neHfn8eeTa94zZ974QrSPmCzh
+
+
