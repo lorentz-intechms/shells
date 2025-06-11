@@ -288,6 +288,22 @@ access-key= DZ100A223T9JI152UM7R
 secret-key= 1ueBTwckpNzievWNkUez78ZlAKArTVzysV3i0OpV
 
 
+uat_jam_1080_02
+uat_jam_1080_03
+uat_jam_1080_04
+uat_jam_1080_05
+uat_jam_1080_06
+uat_jam_1080_07
+uat_jam_1080_08
+uat_jam_1080_09
+uat_jam_1080_10
+uat_jam_1080_51
+uat_jam_1080_52
+uat_jam_1080_53
+uat_jam_1080_54
+uat_jam_1080_55
+
+
 
 
 
