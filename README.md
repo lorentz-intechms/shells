@@ -279,4 +279,15 @@ uat_jam_720_04
 access-key= DVKV3YD6U2ORWQYF9BHC
 secret-key= S9JkEiLtew445R4neHfn8eeTa94zZ974QrSPmCzh
 
+uat_jam_1080_01
+access-key= LP5X3C9B5UEN8RNHZ40Z
+secret-key= e6RzdrDXYfzXY1yadrQnHjGgvmeeH5kIFh7jmgCJ
+
+uat_jam_1080_02
+access-key= DZ100A223T9JI152UM7R
+secret-key= 1ueBTwckpNzievWNkUez78ZlAKArTVzysV3i0OpV
+
+
+
+
 
