@@ -262,9 +262,11 @@ done
 
 uat:
 
+https://s3.ap-northeast-1.wasabisys.com	
+
 sdk@uat
-access-key= JI52JG13GJR46GNA3R1L
-secret-key= SiSlqsBODSwYtMAbB2Q7UuqoiKWNk0BgUvFJJvfe
+access-key= Q2GS44BAZJ0NOMMJCVBA
+secret-key= d01rDfAl0nMUdVKeUfN3FBh1M68nCNNfbznDkBwo
 
 jam_720_01@uat
 access-key= 2TREQN35N4GPAHES36BX
