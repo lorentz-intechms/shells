@@ -664,7 +664,7 @@ secret-key= fK1l8DRARjE66Ys9BfSY7m9afqBf2YeiBvH1e4Rp
         "s3:PutObject",
         "s3:DeleteObject"
       ],
-      "Resource": "arn:aws:s3:::uat-app-downloader/hgame_1080_01/*"
+      "Resource": "arn:aws:s3:::uat-app-downloader/partner_1080_01/*"
     }
   ]
 }
