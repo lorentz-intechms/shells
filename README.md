@@ -261,6 +261,11 @@ done
 
 
 uat:
+
+sdk@uat
+access-key= JI52JG13GJR46GNA3R1L
+secret-key= SiSlqsBODSwYtMAbB2Q7UuqoiKWNk0BgUvFJJvfe
+
 jam_720_01@uat
 access-key= 2TREQN35N4GPAHES36BX
 secret-key= puEw802MwSf1DN9dq57O0Kz478nzOOe5hc7ib6s9
