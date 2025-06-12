@@ -327,6 +327,11 @@ studio_12@uat
 access-key= QR76HOQ33YND7RC6HA6N
 secret-key= 3eHtZKtt7TujieBYvTLVGfI1ANVmNOlXZCCmgCkg
 
+studio_99@uat
+access-key= VEAW7ZVKNR4LWAS1HQ1J
+secret-key= dPueAD17Dqhl2ZFrOCa0oHyN2rceSAymzMCX7wzS
+
+
 jam_720_01@uat
 access-key= 2TREQN35N4GPAHES36BX
 secret-key= puEw802MwSf1DN9dq57O0Kz478nzOOe5hc7ib6s9
@@ -737,9 +742,6 @@ access-key= 279CZ8XG95ZA54RRWBS6
 secret-key= 2Li0wB7nkt4qcyuyHUbR2FZRr7Mv7Opp7WSzyQU2
 
 
-studio_99@uat
-access-key= VEAW7ZVKNR4LWAS1HQ1J
-secret-key= dPueAD17Dqhl2ZFrOCa0oHyN2rceSAymzMCX7wzS
 
 
 jam_720_89@uat
@@ -753,9 +755,7 @@ access-key= 3IZVC0UWBYMSWJ2AI175
 secret-key= j2yInnGs7SXDHV3oYiVULk1heom5hqeT7z6yGSge
 
 
-sdk@uat
-access-key= OLPVE4WNZEUBA7YQJUYA
-secret-key= flfRejRGJX6BpAOvcpPk2ytZC3KeurYkcmmNHZXE
+
 
 
 
