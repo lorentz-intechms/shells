@@ -375,30 +375,116 @@ access-key= EMY5EUJSBU91OXYZPHR9
 secret-key= zm507WflOm3HRVTQmAoJBjpkOkmmPDLq6OGcC3fw
 
 
-uat_birdy_1080_02
-uat_paradise_1080_01
 uat_jk_1080_02
+access-key= BA71NAYJ4NIC3EGYRERC
+secret-key= C5nfZsOdDzClzdnlWD6EOkrhj6d1YFZofF3Bstva
+
+
 uat_jk_1080_03
+access-key= NQ6YGDS0VQBW6VRB1DVZ
+secret-key= GTjuGEeBEK0X9Fil7DDdpzzmPIcrnScaasHWF7gH
+
+
 uat_one_auto_01
+access-key= RCTBKLGNDMOLX2ZZO7IM
+secret-key= EwU3UN1pc86H63BoZFTWrYabltnFE4wRp59Lygpm
+
 uat_short_video_01
+access-key= HEW4GF6GHB3BB4T6IZ61
+secret-key= dof1XCneyfHlFZzwbMlspYzKa0XadPXQnePN2N3h
+
+
 uat_short_video_02
+access-key= DVAF46ZTM2CDWIMISMJJ
+secret-key= g0e22pPTVCjs1yyIvjfmylgrg2PKWUYO4JAQS7d5
+
+
 uat_short_video_03
+access-key= 2BJ3SOZRFFH78XXBXNW1
+secret-key= lBi8HH2rHwpprdwgT4PLCPaNe6L9fjDWilphT7vE
+
+
 uat_short_video_04
+access-key= WBRVW5F3EF8B1MW6XE2H
+secret-key= IXtsrIYyYdoqYWzczvr2To7c4NQdOZ1kfMqtWiKZ
+
+
 uat_short_video_05
+access-key= Y72AZAZO22OZQQFQS92X
+secret-key= FSR2dTqYcRY0K80JdF3QeMaP6N4ePcLX5DmZi9Zp
+
+
 uat_short_video_06
+access-key= DZ9PRQGIX0XGXA7DA8DS
+secret-key= RmAMb1PHNBN12bMtWA4BVNsD8cA6taeWfpOO26s3
+
+
 uat_short_video_07
+access-key= WPHEZPGK86NF8FVECAEG
+secret-key= lpANphIzUXUAGh8AyceAMGIrlE3J9MFds9eEg7eR
+
+
 uat_short_video_08
+access-key= O630TCTQBSRBEKHL3IXL
+secret-key= iQtXfTSUvuIjnoQvR11ppBO1FzgCeGqPdV9JUz0H
+
+
 uat_short_video_09
+access-key= CF528U3PHAQMX39GA2CY
+secret-key= Gjz83QDXeltGOMrSKS9SvvYDL4A88yE11jSfY8vj
+
+
 uat_short_video_10
+access-key= 82A0S9ZPLID5KC0QIKB4
+secret-key= OEEa1iP2nC1cZ7CPS2nphKMcziZwJ6DHmZzTONLG
+
+
+
 uat_short_video_11
+access-key= 58EKVHABF9VZF0W9SFPL
+secret-key= l4CTuzmXB2feY0VyIPwZS3oe37p52RLelvkjTOyL
+
+
 uat_short_video_12
+access-key= LWZIS2355JYS9ADKAAY4
+secret-key= MM6WRY0APe0etwUcwmWiueaONoWRpZaDaEq0XlED
+
+
 uat_short_video_31
+access-key= GKA0USDIZ2G5J9VXFTKL
+secret-key= 6oImAHQVPfPgmqCUHu5t8KhfKmqYjS9eTWkUHAWB
+
+
 uat_encyclopedia_720_01
+access-key= T2THG3QTTEEIC47KV3TJ
+secret-key= 5Zj6TjHAMQZQcJgN7BnI84We1KmYmFQakNyVlOn2
+
+
 uat_encyclopedia_720_02
+access-key= N8IO2TDJWS3K06M1NTBK
+secret-key= LYULs0ILBqqBMI7Ufu3OReeCACno5jQOcsUrF1gk
+
+
 uat_encyclopedia_1080_01
+access-key= WWJNGZ5DMAE2EKS7CBDL
+secret-key= 6fyGz4LHe0eyevKkqtCBm6aD83XCKabIXs9zMt8R
+
+
 uat_encyclopedia_1080_02
+access-key= 11NGDY1XPCVQX9QXSVTE
+secret-key= XwMXWimC2eoi8b07y3YXwCFmRHwq0q2ekpOIpZo2
+
+
 uat_grass_720_01
+access-key= 7FHLF2UTK0VA3Q059KPX
+secret-key= Y1aoznDESAHUy3DUWGITGeA2p9bDRDonX10dvQp8
+
+
 uat_grass_720_02
+access-key= 35YYEYO98VUZEYPY26TE
+secret-key= eftBrReNJvkzOlpajGeow7bsct4udhslUwSzJMjc
+
+
 uat_grass_1080_01
 uat_grass_1080_02
 uat_duck_720_01
