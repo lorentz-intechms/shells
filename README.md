@@ -453,32 +453,6 @@ secret-key= Ce16nFleVeCaov8FDNqNGtB5BKSqfCPnatRZWrcd
 
 
 
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Action": "s3:ListBucket",
-      "Resource": "arn:aws:s3:::uat-app-downloader",
-      "Condition": {
-        "StringLike": {
-          "s3:prefix": "*"
-        }
-      }
-    },
-    {
-      "Effect": "Allow",
-      "Action": [
-        "s3:GetObject",
-        "s3:PutObject",
-        "s3:DeleteObject"
-      ],
-      "Resource": "arn:aws:s3:::uat-app-downloader/jam_1080_53/*"
-    }
-  ]
-}
-
-
 
 fruit_pie_commentary@uat
 access-key= 6919HGJZJPOZQD7PNOXH
@@ -493,6 +467,12 @@ secret-key= n9SDch5CsCDqNlz7oSYrRnzJNEpjqF7EyAe0nZzC
 fruit_pie_customer@uat
 access-key= 5QITL3THIZQ7BTOUMH3Y
 secret-key= LbHOoAFo0WorSTOXKBFngMCU4LSQhs7ujEMtt44P
+
+
+
+
+
+
 
 
 heihei_1080_01@uat
@@ -513,6 +493,8 @@ secret-key= C5nfZsOdDzClzdnlWD6EOkrhj6d1YFZofF3Bstva
 jk_1080_03@uat
 access-key= NQ6YGDS0VQBW6VRB1DVZ
 secret-key= GTjuGEeBEK0X9Fil7DDdpzzmPIcrnScaasHWF7gH
+
+
 
 
 one_auto_01@uat
@@ -593,6 +575,31 @@ access-key= GKA0USDIZ2G5J9VXFTKL
 secret-key= 6oImAHQVPfPgmqCUHu5t8KhfKmqYjS9eTWkUHAWB
 
 
+
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "s3:ListBucket",
+      "Resource": "arn:aws:s3:::uat-app-downloader",
+      "Condition": {
+        "StringLike": {
+          "s3:prefix": "*"
+        }
+      }
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:PutObject",
+        "s3:DeleteObject"
+      ],
+      "Resource": "arn:aws:s3:::uat-app-downloader/encyclopedia_720_01/*"
+    }
+  ]
+}
 
 encyclopedia_720_01@uat
 access-key= T2THG3QTTEEIC47KV3TJ
