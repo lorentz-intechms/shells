@@ -351,10 +351,30 @@ secret-key= WUae4QLJ3H02jzhTTJf3FCkher4Ivf6Jzozfjl4B
 
 
 uat_fruit_pie_commentary
+access-key= 6919HGJZJPOZQD7PNOXH
+secret-key= Uz02tOO6sbahCifwtZfsKOf7NOiTSB6hloloPvmG
+
+
 uat_fruit_pie_origin
+access-key= OEA8GL89XRG2VSJYBBML
+secret-key= n9SDch5CsCDqNlz7oSYrRnzJNEpjqF7EyAe0nZzC
+
+
 uat_fruit_pie_customer
+access-key= 5QITL3THIZQ7BTOUMH3Y
+secret-key= LbHOoAFo0WorSTOXKBFngMCU4LSQhs7ujEMtt44P
+
+
 uat_heihei_1080_01
+access-key= WG7CMV6H8QFPMM9YQLIA
+secret-key= DkVtuv8e5NjdTfBWRR6HoPPE9hR7wTQA7JdnJjoZ
+
+
 uat_jk_1080_01
+access-key= EMY5EUJSBU91OXYZPHR9
+secret-key= zm507WflOm3HRVTQmAoJBjpkOkmmPDLq6OGcC3fw
+
+
 uat_birdy_1080_02
 uat_paradise_1080_01
 uat_jk_1080_02
