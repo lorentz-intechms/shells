@@ -576,31 +576,6 @@ secret-key= 6oImAHQVPfPgmqCUHu5t8KhfKmqYjS9eTWkUHAWB
 
 
 
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Action": "s3:ListBucket",
-      "Resource": "arn:aws:s3:::uat-app-downloader",
-      "Condition": {
-        "StringLike": {
-          "s3:prefix": "*"
-        }
-      }
-    },
-    {
-      "Effect": "Allow",
-      "Action": [
-        "s3:GetObject",
-        "s3:PutObject",
-        "s3:DeleteObject"
-      ],
-      "Resource": "arn:aws:s3:::uat-app-downloader/encyclopedia_720_01/*"
-    }
-  ]
-}
-
 encyclopedia_720_01@uat
 access-key= T2THG3QTTEEIC47KV3TJ
 secret-key= 5Zj6TjHAMQZQcJgN7BnI84We1KmYmFQakNyVlOn2
@@ -616,6 +591,7 @@ secret-key= 6fyGz4LHe0eyevKkqtCBm6aD83XCKabIXs9zMt8R
 encyclopedia_1080_02@uat
 access-key= 11NGDY1XPCVQX9QXSVTE
 secret-key= XwMXWimC2eoi8b07y3YXwCFmRHwq0q2ekpOIpZo2
+
 
 
 
@@ -640,6 +616,9 @@ secret-key= RHzkRhnzgjyWbzDwR0GVu1NRYAzpIqz8v3zMfoZf
 
 
 
+
+
+
 duck_720_01@uat
 access-key= 9O25024D50ZJLXS65V5C
 secret-key= a7eQWqdzcNXaflvVgL17imFlMQ0ZWefJ471ejwgS
@@ -657,11 +636,38 @@ access-key= FY2XA717B77J7XP833MC
 secret-key= qpzE7zzYComunaVwNbsriWs7ssJeZTEi7lSMvksr
 
 
+
+
+
 hgame_1080_01@uat
 access-key= HMUN0A9W00FXMZD090EV
 secret-key= fK1l8DRARjE66Ys9BfSY7m9afqBf2YeiBvH1e4Rp
 
 
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "s3:ListBucket",
+      "Resource": "arn:aws:s3:::uat-app-downloader",
+      "Condition": {
+        "StringLike": {
+          "s3:prefix": "*"
+        }
+      }
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:PutObject",
+        "s3:DeleteObject"
+      ],
+      "Resource": "arn:aws:s3:::uat-app-downloader/hgame_1080_01/*"
+    }
+  ]
+}
 
 
 partner_1080_01@uat
