@@ -337,7 +337,6 @@ secret-key= dPueAD17Dqhl2ZFrOCa0oHyN2rceSAymzMCX7wzS
 
 
 
-
 jam_720_01@uat
 access-key= 2TREQN35N4GPAHES36BX
 secret-key= puEw802MwSf1DN9dq57O0Kz478nzOOe5hc7ib6s9
@@ -350,6 +349,8 @@ jam_720_03@uat
 access-key= WEGI4UJA6YE24ME3HUYY
 secret-key= HsRWMsTVZHRJRm5vn3Uw28BvvmOfN1TtUSKp2CWo
 
+
+
 jam_720_04@uat
 access-key= DVKV3YD6U2ORWQYF9BHC
 secret-key= S9JkEiLtew445R4neHfn8eeTa94zZ974QrSPmCzh
@@ -358,6 +359,9 @@ jam_1080_01@uat
 access-key= LP5X3C9B5UEN8RNHZ40Z
 secret-key= e6RzdrDXYfzXY1yadrQnHjGgvmeeH5kIFh7jmgCJ
 
+
+
+
 jam_1080_02@uat
 access-key= DZ100A223T9JI152UM7R
 secret-key= 1ueBTwckpNzievWNkUez78ZlAKArTVzysV3i0OpV
@@ -365,6 +369,14 @@ secret-key= 1ueBTwckpNzievWNkUez78ZlAKArTVzysV3i0OpV
 jam_1080_03@uat
 access-key= KF01RTTO6K779T9G04BC
 secret-key= 5Iqhi6g6nAbvU226j82T1UL7z76EWVdKAPwssz9y
+
+
+
+
+
+
+
+
 
 jam_1080_04@uat
 access-key= 3IK4L5TGYGKBF6L6LU5T
@@ -382,6 +394,10 @@ jam_1080_07@uat
 access-key= GQSBK2MKZJXNWU5Y5M8J
 secret-key= y3EPDsuEABdNpzpHqrseU1bfBpiHzwNzNemCuuRS
 
+
+
+
+
 jam_1080_08@uat
 access-key= TFPXNSPZA3YSDHVK781I
 secret-key= jqdb88eSponOWesoiCoq65BezATY1gWNofoM4gDC
@@ -394,6 +410,9 @@ jam_1080_10@uat
 access-key= 80WDZ4UFAA3PC36ZZW2V
 secret-key= uKi15mfZXqSBMia0U6PIQKLY2gZ6DEgTiGlgzfPA
 
+
+
+
 jam_1080_51@uat
 access-key= B4OXCYEABVORW0BP8MHG
 secret-key= Efngn20DetMmuRVeAG7VgP6UZe0lGWoRrERuIrqO
@@ -402,9 +421,14 @@ jam_1080_52@uat
 access-key= 3XI7HLRDBY6UZKCOFHYW
 secret-key= mmqcUSDX5Av09lDjUaRU8RPCL07RGlHzFjfzVi8B
 
+
+
+
 jam_1080_53@uat
 access-key= CHPRX5VLGVGV2TJJK6TU
 secret-key= ETC1W3vVfz3Mf1M5ZeeP4Sm36Ea5oORZm0CTz8PE
+
+
 
 jam_1080_54@uat
 access-key= MFW6SHP3HBGETM64VSWL
@@ -428,6 +452,31 @@ secret-key= Ce16nFleVeCaov8FDNqNGtB5BKSqfCPnatRZWrcd
 
 
 
+
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "s3:ListBucket",
+      "Resource": "arn:aws:s3:::uat-app-downloader",
+      "Condition": {
+        "StringLike": {
+          "s3:prefix": "*"
+        }
+      }
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:PutObject",
+        "s3:DeleteObject"
+      ],
+      "Resource": "arn:aws:s3:::uat-app-downloader/jam_1080_53/*"
+    }
+  ]
+}
 
 
 
@@ -560,6 +609,10 @@ secret-key= 6fyGz4LHe0eyevKkqtCBm6aD83XCKabIXs9zMt8R
 encyclopedia_1080_02@uat
 access-key= 11NGDY1XPCVQX9QXSVTE
 secret-key= XwMXWimC2eoi8b07y3YXwCFmRHwq0q2ekpOIpZo2
+
+
+
+
 
 
 grass_720_01@uat
@@ -730,9 +783,6 @@ secret-key= 2Li0wB7nkt4qcyuyHUbR2FZRr7Mv7Opp7WSzyQU2
 crawler_720_89@uat
 access-key= 3IZVC0UWBYMSWJ2AI175
 secret-key= j2yInnGs7SXDHV3oYiVULk1heom5hqeT7z6yGSge
-
-
-
 
 
 
