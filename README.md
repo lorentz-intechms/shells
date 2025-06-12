@@ -288,20 +288,66 @@ access-key= DZ100A223T9JI152UM7R
 secret-key= 1ueBTwckpNzievWNkUez78ZlAKArTVzysV3i0OpV
 
 
-uat_jam_1080_02
+
 uat_jam_1080_03
+access-key= KF01RTTO6K779T9G04BC
+secret-key= 5Iqhi6g6nAbvU226j82T1UL7z76EWVdKAPwssz9y
+
+
 uat_jam_1080_04
+access-key= 3IK4L5TGYGKBF6L6LU5T
+secret-key= Djz8MEppjAYYK9WEFdTS8CdHOH6HIOZqrHUhmqIz
+
+
 uat_jam_1080_05
+access-key= M7WVP3ALB3D6ULH1EQ8R
+secret-key= pVdgXVfJLaIKHl6DO4jbXPWMS0cEwHvZZCEW4Aqv
+
+
 uat_jam_1080_06
+access-key= 8KJY1PQNUGB6GS8DUGEU
+secret-key= L2CXbONjOJncRcMNNF5MeFun1XFzJQDZZGvLz2OC
+
 uat_jam_1080_07
+access-key= GQSBK2MKZJXNWU5Y5M8J
+secret-key= y3EPDsuEABdNpzpHqrseU1bfBpiHzwNzNemCuuRS
+
 uat_jam_1080_08
+access-key= TFPXNSPZA3YSDHVK781I
+secret-key= jqdb88eSponOWesoiCoq65BezATY1gWNofoM4gDC
+
 uat_jam_1080_09
+access-key= 1E7JPGVCRMPJ6BFNUUQ0
+secret-key= pjRp5kbrMwHqS4lQVZOZtyVse0MJ6ASGHFrz2HQU
+
 uat_jam_1080_10
+access-key= 80WDZ4UFAA3PC36ZZW2V
+secret-key= uKi15mfZXqSBMia0U6PIQKLY2gZ6DEgTiGlgzfPA
+
 uat_jam_1080_51
+access-key= B4OXCYEABVORW0BP8MHG
+secret-key= Efngn20DetMmuRVeAG7VgP6UZe0lGWoRrERuIrqO
+
+
 uat_jam_1080_52
+access-key= 3XI7HLRDBY6UZKCOFHYW
+secret-key= mmqcUSDX5Av09lDjUaRU8RPCL07RGlHzFjfzVi8B
+
+
 uat_jam_1080_53
+access-key= CHPRX5VLGVGV2TJJK6TU
+secret-key= ETC1W3vVfz3Mf1M5ZeeP4Sm36Ea5oORZm0CTz8PE
+
+
 uat_jam_1080_54
+access-key= MFW6SHP3HBGETM64VSWL
+secret-key= UcTh5dP26OdCWzfiZK5keDwJeKX5zhnKhlsegoJn
+
+
+
 uat_jam_1080_55
+access-key= CLJ76VC9KSU7HH3C7LUO
+secret-key= WUae4QLJ3H02jzhTTJf3FCkher4Ivf6Jzozfjl4B
 
 
 uat_fruit_pie_commentary
