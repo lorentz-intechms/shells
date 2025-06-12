@@ -744,5 +744,10 @@ access-key= 3IZVC0UWBYMSWJ2AI175
 secret-key= j2yInnGs7SXDHV3oYiVULk1heom5hqeT7z6yGSge
 
 
+uat_sdk
+access-key= OLPVE4WNZEUBA7YQJUYA
+secret-key= flfRejRGJX6BpAOvcpPk2ytZC3KeurYkcmmNHZXE
+
+
 
 
