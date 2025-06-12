@@ -261,490 +261,490 @@ done
 
 
 uat:
-jam_720_01
+jam_720_01@uat
 access-key= 2TREQN35N4GPAHES36BX
 secret-key= puEw802MwSf1DN9dq57O0Kz478nzOOe5hc7ib6s9
 
-jam_720_02
+jam_720_02@uat
 access-key= HJFDOBR5EJDIAP3ZBUQA
 secret-key= hnqzi3WC2nmDeYKAl0KhiveAkZI2qGKq6VSoNqnH
 
-jam_720_03
+jam_720_03@uat
 access-key= WEGI4UJA6YE24ME3HUYY
 secret-key= HsRWMsTVZHRJRm5vn3Uw28BvvmOfN1TtUSKp2CWo
 
 
 
-uat_jam_720_04
+jam_720_04@uat
 access-key= DVKV3YD6U2ORWQYF9BHC
 secret-key= S9JkEiLtew445R4neHfn8eeTa94zZ974QrSPmCzh
 
-uat_jam_1080_01
+jam_1080_01@uat
 access-key= LP5X3C9B5UEN8RNHZ40Z
 secret-key= e6RzdrDXYfzXY1yadrQnHjGgvmeeH5kIFh7jmgCJ
 
-uat_jam_1080_02
+jam_1080_02@uat
 access-key= DZ100A223T9JI152UM7R
 secret-key= 1ueBTwckpNzievWNkUez78ZlAKArTVzysV3i0OpV
 
 
 
-uat_jam_1080_03
+jam_1080_03@uat
 access-key= KF01RTTO6K779T9G04BC
 secret-key= 5Iqhi6g6nAbvU226j82T1UL7z76EWVdKAPwssz9y
 
 
-uat_jam_1080_04
+jam_1080_04@uat
 access-key= 3IK4L5TGYGKBF6L6LU5T
 secret-key= Djz8MEppjAYYK9WEFdTS8CdHOH6HIOZqrHUhmqIz
 
 
-uat_jam_1080_05
+jam_1080_05@uat
 access-key= M7WVP3ALB3D6ULH1EQ8R
 secret-key= pVdgXVfJLaIKHl6DO4jbXPWMS0cEwHvZZCEW4Aqv
 
 
-uat_jam_1080_06
+jam_1080_06@uat
 access-key= 8KJY1PQNUGB6GS8DUGEU
 secret-key= L2CXbONjOJncRcMNNF5MeFun1XFzJQDZZGvLz2OC
 
-uat_jam_1080_07
+jam_1080_07@uat
 access-key= GQSBK2MKZJXNWU5Y5M8J
 secret-key= y3EPDsuEABdNpzpHqrseU1bfBpiHzwNzNemCuuRS
 
-uat_jam_1080_08
+jam_1080_08@uat
 access-key= TFPXNSPZA3YSDHVK781I
 secret-key= jqdb88eSponOWesoiCoq65BezATY1gWNofoM4gDC
 
-uat_jam_1080_09
+jam_1080_09@uat
 access-key= 1E7JPGVCRMPJ6BFNUUQ0
 secret-key= pjRp5kbrMwHqS4lQVZOZtyVse0MJ6ASGHFrz2HQU
 
-uat_jam_1080_10
+jam_1080_10@uat
 access-key= 80WDZ4UFAA3PC36ZZW2V
 secret-key= uKi15mfZXqSBMia0U6PIQKLY2gZ6DEgTiGlgzfPA
 
-uat_jam_1080_51
+jam_1080_51@uat
 access-key= B4OXCYEABVORW0BP8MHG
 secret-key= Efngn20DetMmuRVeAG7VgP6UZe0lGWoRrERuIrqO
 
 
-uat_jam_1080_52
+jam_1080_52@uat
 access-key= 3XI7HLRDBY6UZKCOFHYW
 secret-key= mmqcUSDX5Av09lDjUaRU8RPCL07RGlHzFjfzVi8B
 
 
-uat_jam_1080_53
+jam_1080_53@uat
 access-key= CHPRX5VLGVGV2TJJK6TU
 secret-key= ETC1W3vVfz3Mf1M5ZeeP4Sm36Ea5oORZm0CTz8PE
 
 
-uat_jam_1080_54
+jam_1080_54@uat
 access-key= MFW6SHP3HBGETM64VSWL
 secret-key= UcTh5dP26OdCWzfiZK5keDwJeKX5zhnKhlsegoJn
 
 
 
-uat_jam_1080_55
+jam_1080_55@uat
 access-key= CLJ76VC9KSU7HH3C7LUO
 secret-key= WUae4QLJ3H02jzhTTJf3FCkher4Ivf6Jzozfjl4B
 
 
-uat_fruit_pie_commentary
+fruit_pie_commentary@uat
 access-key= 6919HGJZJPOZQD7PNOXH
 secret-key= Uz02tOO6sbahCifwtZfsKOf7NOiTSB6hloloPvmG
 
 
-uat_fruit_pie_origin
+fruit_pie_origin@uat
 access-key= OEA8GL89XRG2VSJYBBML
 secret-key= n9SDch5CsCDqNlz7oSYrRnzJNEpjqF7EyAe0nZzC
 
 
-uat_fruit_pie_customer
+fruit_pie_customer@uat
 access-key= 5QITL3THIZQ7BTOUMH3Y
 secret-key= LbHOoAFo0WorSTOXKBFngMCU4LSQhs7ujEMtt44P
 
 
-uat_heihei_1080_01
+heihei_1080_01@uat
 access-key= WG7CMV6H8QFPMM9YQLIA
 secret-key= DkVtuv8e5NjdTfBWRR6HoPPE9hR7wTQA7JdnJjoZ
 
 
-uat_jk_1080_01
+jk_1080_01@uat
 access-key= EMY5EUJSBU91OXYZPHR9
 secret-key= zm507WflOm3HRVTQmAoJBjpkOkmmPDLq6OGcC3fw
 
 
-uat_jk_1080_02
+jk_1080_02@uat
 access-key= BA71NAYJ4NIC3EGYRERC
 secret-key= C5nfZsOdDzClzdnlWD6EOkrhj6d1YFZofF3Bstva
 
 
-uat_jk_1080_03
+jk_1080_03@uat
 access-key= NQ6YGDS0VQBW6VRB1DVZ
 secret-key= GTjuGEeBEK0X9Fil7DDdpzzmPIcrnScaasHWF7gH
 
 
-uat_one_auto_01
+one_auto_01@uat
 access-key= RCTBKLGNDMOLX2ZZO7IM
 secret-key= EwU3UN1pc86H63BoZFTWrYabltnFE4wRp59Lygpm
 
-uat_short_video_01
+short_video_01@uat
 access-key= HEW4GF6GHB3BB4T6IZ61
 secret-key= dof1XCneyfHlFZzwbMlspYzKa0XadPXQnePN2N3h
 
 
-uat_short_video_02
+short_video_02@uat
 access-key= DVAF46ZTM2CDWIMISMJJ
 secret-key= g0e22pPTVCjs1yyIvjfmylgrg2PKWUYO4JAQS7d5
 
 
-uat_short_video_03
+short_video_03@uat
 access-key= 2BJ3SOZRFFH78XXBXNW1
 secret-key= lBi8HH2rHwpprdwgT4PLCPaNe6L9fjDWilphT7vE
 
 
-uat_short_video_04
+short_video_04@uat
 access-key= WBRVW5F3EF8B1MW6XE2H
 secret-key= IXtsrIYyYdoqYWzczvr2To7c4NQdOZ1kfMqtWiKZ
 
 
-uat_short_video_05
+short_video_05@uat
 access-key= Y72AZAZO22OZQQFQS92X
 secret-key= FSR2dTqYcRY0K80JdF3QeMaP6N4ePcLX5DmZi9Zp
 
 
-uat_short_video_06
+short_video_06@uat
 access-key= DZ9PRQGIX0XGXA7DA8DS
 secret-key= RmAMb1PHNBN12bMtWA4BVNsD8cA6taeWfpOO26s3
 
 
-uat_short_video_07
+short_video_07@uat
 access-key= WPHEZPGK86NF8FVECAEG
 secret-key= lpANphIzUXUAGh8AyceAMGIrlE3J9MFds9eEg7eR
 
 
-uat_short_video_08
+short_video_08@uat
 access-key= O630TCTQBSRBEKHL3IXL
 secret-key= iQtXfTSUvuIjnoQvR11ppBO1FzgCeGqPdV9JUz0H
 
 
-uat_short_video_09
+short_video_09@uat
 access-key= CF528U3PHAQMX39GA2CY
 secret-key= Gjz83QDXeltGOMrSKS9SvvYDL4A88yE11jSfY8vj
 
 
-uat_short_video_10
+short_video_10@uat
 access-key= 82A0S9ZPLID5KC0QIKB4
 secret-key= OEEa1iP2nC1cZ7CPS2nphKMcziZwJ6DHmZzTONLG
 
 
 
-uat_short_video_11
+short_video_11@uat
 access-key= 58EKVHABF9VZF0W9SFPL
 secret-key= l4CTuzmXB2feY0VyIPwZS3oe37p52RLelvkjTOyL
 
 
-uat_short_video_12
+short_video_12@uat
 access-key= LWZIS2355JYS9ADKAAY4
 secret-key= MM6WRY0APe0etwUcwmWiueaONoWRpZaDaEq0XlED
 
 
-uat_short_video_31
+short_video_31@uat
 access-key= GKA0USDIZ2G5J9VXFTKL
 secret-key= 6oImAHQVPfPgmqCUHu5t8KhfKmqYjS9eTWkUHAWB
 
 
-uat_encyclopedia_720_01
+encyclopedia_720_01@uat
 access-key= T2THG3QTTEEIC47KV3TJ
 secret-key= 5Zj6TjHAMQZQcJgN7BnI84We1KmYmFQakNyVlOn2
 
 
-uat_encyclopedia_720_02
+encyclopedia_720_02@uat
 access-key= N8IO2TDJWS3K06M1NTBK
 secret-key= LYULs0ILBqqBMI7Ufu3OReeCACno5jQOcsUrF1gk
 
 
-uat_encyclopedia_1080_01
+encyclopedia_1080_01@uat
 access-key= WWJNGZ5DMAE2EKS7CBDL
 secret-key= 6fyGz4LHe0eyevKkqtCBm6aD83XCKabIXs9zMt8R
 
 
-uat_encyclopedia_1080_02
+encyclopedia_1080_02@uat
 access-key= 11NGDY1XPCVQX9QXSVTE
 secret-key= XwMXWimC2eoi8b07y3YXwCFmRHwq0q2ekpOIpZo2
 
 
-uat_grass_720_01
+grass_720_01@uat
 access-key= 7FHLF2UTK0VA3Q059KPX
 secret-key= Y1aoznDESAHUy3DUWGITGeA2p9bDRDonX10dvQp8
 
 
-uat_grass_720_02
+grass_720_02@uat
 access-key= 35YYEYO98VUZEYPY26TE
 secret-key= eftBrReNJvkzOlpajGeow7bsct4udhslUwSzJMjc
 
 
-uat_grass_1080_01
+grass_1080_01@uat
 access-key= JQAVQ8CJ731J0OGIDH44
 secret-key= b2C9wXlM7ddefBBCfIzz00AlKXoYGD8AyWD2GT1a
 
 
-uat_grass_1080_02
+grass_1080_02@uat
 access-key= F30LDKNL7TKBVSIK5WFJ
 secret-key= RHzkRhnzgjyWbzDwR0GVu1NRYAzpIqz8v3zMfoZf
 
-uat_duck_720_01
+duck_720_01@uat
 access-key= 9O25024D50ZJLXS65V5C
 secret-key= a7eQWqdzcNXaflvVgL17imFlMQ0ZWefJ471ejwgS
 
 
-uat_duck_720_02
+duck_720_02@uat
 access-key= 58S2OZTPWQO0LMK51WY9
 secret-key= Nh2HCVbCvlNt8FmZ1ffElqAJSMSuusEwP9lKVd2v
 
-uat_duck_1080_01
+duck_1080_01@uat
 access-key= LENGQ9E58WWLA83PHX7G
 secret-key= PpYtLmK3EQ6tnN29sloKWdoKqIPegA59Ody2Hbee
 
 
-uat_duck_1080_02
+duck_1080_02@uat
 access-key= FY2XA717B77J7XP833MC
 secret-key= qpzE7zzYComunaVwNbsriWs7ssJeZTEi7lSMvksr
 
 
-uat_hgame_1080_01
+hgame_1080_01@uat
 access-key= HMUN0A9W00FXMZD090EV
 secret-key= fK1l8DRARjE66Ys9BfSY7m9afqBf2YeiBvH1e4Rp
 
 
-uat_studio_01
+studio_01@uat
 access-key= UERDJGBST4TECODVDOA1
 secret-key= 0UdNvzLDvoGzsQ9waBtOmadfTn03k9fucaV172Zn
 
 
-uat_studio_02
+studio_02@uat
 access-key= V6PU0LCSWWUYFS7SZBMG
 secret-key= UeW4ra7MANBnYOEnKp6eeGek0Hh2EEwTmsqqnk7N
 
-uat_studio_03
+studio_03@uat
 access-key= SR7YPB4LIL8B7KOQ44E7
 secret-key= lQKocK1eLzTDzNKwQTGoC3Jquh4opDf0iyZpz1Yi
 
 
-uat_studio_04
+studio_04@uat
 access-key= AWVLJ3W5TYICYTXUCJJI
 secret-key= ucbZXGwVRBNeXT5nIIVNoGCohatbW0bZvnfwLPHq
 
 
-uat_studio_05
+studio_05@uat
 access-key= M8MR9KKBGRQQ0E792LUD
 secret-key= LWWmiXkAX6UopfnbGOzP5zeKEDU2OLSlSE26U5wl
 
 
-uat_studio_06
+studio_06@uat
 access-key= I1FEYCR73PGD5P610EO1
 secret-key= lHMM0mlEMJ9lBhHaJX5Rkyerb2XnPkq5LM0TsbcV
 
 
-uat_studio_07
+studio_07@uat
 access-key= JTE5JBD4WZEIOZ2W0L6Z
 secret-key= gyWM4P07OfsvUdlAOETErJVteEbAEU7ecfz97rub
 
 
-uat_studio_08
+studio_08@uat
 access-key= 08UCC5GC7FBMB65IY7ST
 secret-key= 03i5CPFoJhEzPIctHGjlgQeFiaGQRKOiYzsZOj1E
 
 
-uat_studio_09
+studio_09@uat
 access-key= M7TTKXI3B55I1F726YYW
 secret-key= DXJaCpj8Otf7taJ9w4aHaXC32r3NdfIzwBmSTekd
 
 
-uat_studio_10
+studio_10@uat
 access-key= E6DN98NLMA1963OKQAVH
 secret-key= NEblRkQBWlkRh21moC7kFpUu3t9AD26hM7Aae8cK
 
 
-uat_studio_11
+studio_11@uat
 access-key= LNQOTZQCIIZ84I9GDMGI
 secret-key= aC4Qi2ajeJvRIdOtzGsVA7HVkI28FEBzzR4azOUm
 
 
-uat_studio_12
+studio_12@uat
 access-key= QR76HOQ33YND7RC6HA6N
 secret-key= 3eHtZKtt7TujieBYvTLVGfI1ANVmNOlXZCCmgCkg
 
 
-uat_partner_1080_01
+partner_1080_01@uat
 access-key= EWCU37755Y3U38I9MH49
 secret-key= OSVrbcY4XngXNfjjqTfRv1BMKzzdFpH44C1elr16
 
 
-uat_partner_1080_02
+partner_1080_02@uat
 access-key= LEIDX2XYDNJPQMSP5GWZ
 secret-key= WbA322E72uJBS0DKYtaXnJIKTa7Tq6fzC1prYZX5
 
 
-uat_partner_1080_03
+partner_1080_03@uat
 access-key= MZKIB5AHPN3MA8TE6FC1
 secret-key= sePalbk7zcZmDU1tFd6fklQHzzigHT7b6eUzJmNc
 
 
-uat_partner_1080_04
+partner_1080_04@uat
 access-key= PTTHRWWGCSR0XD0DLS81
 secret-key= ekfi9fJZpcVyNLVmORtsf6Zzkt9LmEJKRzkALfrW
 
 
-uat_partner_1080_05
+partner_1080_05@uat
 access-key= FQXL0BAVTMWGYPN0W1JF
 secret-key= XysAilTTStQ86kJeWgensyvhuP6M3ORSYk3Yh4V3
 
-uat_partner_1080_06
+partner_1080_06@uat
 access-key= 9RFDY996N3XTZN45Y3X9
 secret-key= 2w7Sd21v3yvO3S50A6peAlmOo22DPiwLdYLzwCwJ
 
 
-uat_partner_1080_07
+partner_1080_07@uat
 access-key= ID04BSSHA25QGNMT0FRO
 secret-key= 2hZfttWDn17KEMlAolBezCNyR4pQdedgCw5eeEMY
 
 
 
-uat_partner_1080_08
+partner_1080_08@uat
 access-key= PP7D7MXA44L1S1RL0WC6
 secret-key= Dr6fvE7qWKm9nTs6zBDOtEzl4R2Lk0mE7NgtAlHu
 
 
-uat_partner_1080_09
+partner_1080_09@uat
 access-key= FEUAD8PD05SUNZNYX6V7
 secret-key= 9zIa6dJ6PXehwBE7vTI4uAH8nB4LiRinqCqtfUUS
 
 
-uat_partner_1080_10
+partner_1080_10@uat
 access-key= OQRUM1LL0DL4F8BRQKG8
 secret-key= d0UG8SqLe2wnzZcHmaUQQgsH7XuT7pKvq5nWhYLg
 
-uat_partner_1080_11
+partner_1080_11@uat
 access-key= 4UWKAMV27I4PSPSRYKF3
 secret-key= nWzNutMMgILw1k3vVdCWdKC0WdNppspzestDiS2H
 
 
-uat_partner_1080_12
+partner_1080_12@uat
 access-key= QFU1OQ4HAH8KXUJ8R7T3
 secret-key= vE6SFeW9rLmuzvM1i1Q5kSdbSJ6B2elbzwlAOgg7
 
 
-uat_partner_1080_13
+partner_1080_13@uat
 access-key= 67BU4O8DH2U877BB1KAU
 secret-key= MTiIt4iQyyjlSzNfTOnl4uChLcuQDbUi7SDejk0Q
 
 
-uat_partner_1080_14
+partner_1080_14@uat
 access-key= ZICOKBA5Q82VR1D6XNAA
 secret-key= 4UVZpIPkOOqzMqu1wc9mVYTvXsOaQjKlNNyzozrI
 
 
-uat_partner_1080_15
+partner_1080_15@uat
 access-key= V9VMXDYE5VQ9EV9WUYPH
 secret-key= 9jrrvhZkq2u2apXCfXfQ1UW0nzTOEppdWOSD0DsD
 
 
-uat_partner_1080_16
+partner_1080_16@uat
 access-key= L3JD17MTCFLLCLXU6XMU
 secret-key= Vm9w14aInpRdXBuDkzYSJ4Jr0lLFzj6IGBI7JHXC
 
 
-uat_partner_1080_17
+partner_1080_17@uat
 access-key= CV5Y1SDDTEPL4GH1SUJ5
 secret-key= BhLOepX3RCR2rpzrZHSiw32ClifOVnOMuZvtzcgz
 
 
-uat_partner_1080_18
+partner_1080_18@uat
 access-key= Y47G2UGBXFO3Y0CJQO97
 secret-key= wFohhHesbC7EfBWRvL3XouglVJ0fFfCUpZlk7aeO
 
 
-uat_partner_1080_19
+partner_1080_19@uat
 access-key= ORX30BM461RH2AQ48V52
 secret-key= qN0QwcqA9amOIPHMblbC0i8qqkRWAnaNtfYAfBOT
 
 
-uat_partner_1080_20
+partner_1080_20@uat
 access-key= VQI5VI3XQ2Z19A5LJBHB
 secret-key= GUDfbM116YU7dKeA9mmOmJB9h0L47yJtTZC7dZdp
 
 
 
-uat_partner_1080_21
+partner_1080_21@uat
 access-key= C54V8DCYIRRXXUKV8Z90
 secret-key= PJE38SoEzezc9XpXQeDh9UiRrAiNNktkLrgQXQHY
 
 
-uat_partner_1080_22
+partner_1080_22@uat
 access-key= 8EEXO3B4RGL9507W7BD7
 secret-key= tbbNV5mbVai5u5qv5uboZHAfcn4uQFiJIjCaywuy
 
 
-uat_partner_1080_23
+partner_1080_23@uat
 access-key= GLBMFGL3INLYD4NHGEGH
 secret-key= em0ameWHOOyNtbnIr2U8TIWdq9DTMEVCg8Fb2U01
 
 
-uat_partner_1080_24
+partner_1080_24@uat
 access-key= 0DLC9O8UXMV0YOKCRANJ
 secret-key= yHEsCa1J06ufUI9jAQppj0dJH7VzwpfyJ4znz0UQ
 
 
-uat_partner_1080_25
+partner_1080_25@uat
 access-key= LNIU22W1XS54VSMZWGHR
 secret-key= l7ZehAmg5OPdncLswrNNXINwvsi6X0BiCfcF40NB
 
 
 
-uat_partner_1080_26
+partner_1080_26@uat
 access-key= SWMOOF6J4Z01HBRTENY0
 secret-key= BYbniRBh1YMQzDBhuFLk4lsDPr66tI8ihWlJAzNW
 
 
-uat_partner_1080_27
+partner_1080_27@uat
 access-key= QSD1T6T9TOCMMBDHYKM2
 secret-key= WTD3r0eSBvTrpjgei2W4EovL2Hq1VwN2jPB8RD6p
 
 
-uat_partner_1080_28
+partner_1080_28@uat
 access-key= MOCIPYJBPUTTT680KVKE
 secret-key= CE42gWOkU5i3QRFziUrtKBDKqJR221cXMwiENwZK
 
 
-uat_partner_1080_29
+partner_1080_29@uat
 access-key= IE6J32FQBTVCY6K8KLQV
 secret-key= bYb3B70BPvFutWzgBPl5E6fpLbpJaEeG0XD29c0q
 
 
-uat_partner_1080_30
+partner_1080_30@uat
 access-key= 279CZ8XG95ZA54RRWBS6
 secret-key= 2Li0wB7nkt4qcyuyHUbR2FZRr7Mv7Opp7WSzyQU2
 
 
-uat_studio_99
+studio_99@uat
 access-key= VEAW7ZVKNR4LWAS1HQ1J
 secret-key= dPueAD17Dqhl2ZFrOCa0oHyN2rceSAymzMCX7wzS
 
 
-uat_jam_720_89
+jam_720_89@uat
 access-key= KYYCAOZUWGUPE0UWLWVL
 secret-key= Ce16nFleVeCaov8FDNqNGtB5BKSqfCPnatRZWrcd
 
 
 
-uat_crawler_720_89
+crawler_720_89@uat
 access-key= 3IZVC0UWBYMSWJ2AI175
 secret-key= j2yInnGs7SXDHV3oYiVULk1heom5hqeT7z6yGSge
 
 
-uat_sdk
+sdk@uat
 access-key= OLPVE4WNZEUBA7YQJUYA
 secret-key= flfRejRGJX6BpAOvcpPk2ytZC3KeurYkcmmNHZXE
 
