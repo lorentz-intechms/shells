@@ -644,30 +644,6 @@ access-key= HMUN0A9W00FXMZD090EV
 secret-key= fK1l8DRARjE66Ys9BfSY7m9afqBf2YeiBvH1e4Rp
 
 
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Action": "s3:ListBucket",
-      "Resource": "arn:aws:s3:::uat-app-downloader",
-      "Condition": {
-        "StringLike": {
-          "s3:prefix": "*"
-        }
-      }
-    },
-    {
-      "Effect": "Allow",
-      "Action": [
-        "s3:GetObject",
-        "s3:PutObject",
-        "s3:DeleteObject"
-      ],
-      "Resource": "arn:aws:s3:::uat-app-downloader/partner_1080_01/*"
-    }
-  ]
-}
 
 
 partner_1080_01@uat
@@ -709,6 +685,32 @@ secret-key= 9zIa6dJ6PXehwBE7vTI4uAH8nB4LiRinqCqtfUUS
 partner_1080_10@uat
 access-key= OQRUM1LL0DL4F8BRQKG8
 secret-key= d0UG8SqLe2wnzZcHmaUQQgsH7XuT7pKvq5nWhYLg
+
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "s3:ListBucket",
+      "Resource": "arn:aws:s3:::uat-app-downloader",
+      "Condition": {
+        "StringLike": {
+          "s3:prefix": "*"
+        }
+      }
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:PutObject",
+        "s3:DeleteObject"
+      ],
+      "Resource": "arn:aws:s3:::uat-app-downloader/partner_1080_11/*"
+    }
+  ]
+}
+
 
 partner_1080_11@uat
 access-key= 4UWKAMV27I4PSPSRYKF3
