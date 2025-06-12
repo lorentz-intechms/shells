@@ -268,6 +268,65 @@ sdk@uat
 access-key= Q2GS44BAZJ0NOMMJCVBA
 secret-key= d01rDfAl0nMUdVKeUfN3FBh1M68nCNNfbznDkBwo
 
+
+studio_01@uat
+access-key= UERDJGBST4TECODVDOA1
+secret-key= 0UdNvzLDvoGzsQ9waBtOmadfTn03k9fucaV172Zn
+
+
+studio_02@uat
+access-key= V6PU0LCSWWUYFS7SZBMG
+secret-key= UeW4ra7MANBnYOEnKp6eeGek0Hh2EEwTmsqqnk7N
+
+studio_03@uat
+access-key= SR7YPB4LIL8B7KOQ44E7
+secret-key= lQKocK1eLzTDzNKwQTGoC3Jquh4opDf0iyZpz1Yi
+
+
+studio_04@uat
+access-key= AWVLJ3W5TYICYTXUCJJI
+secret-key= ucbZXGwVRBNeXT5nIIVNoGCohatbW0bZvnfwLPHq
+
+
+studio_05@uat
+access-key= M8MR9KKBGRQQ0E792LUD
+secret-key= LWWmiXkAX6UopfnbGOzP5zeKEDU2OLSlSE26U5wl
+
+
+studio_06@uat
+access-key= I1FEYCR73PGD5P610EO1
+secret-key= lHMM0mlEMJ9lBhHaJX5Rkyerb2XnPkq5LM0TsbcV
+
+
+studio_07@uat
+access-key= JTE5JBD4WZEIOZ2W0L6Z
+secret-key= gyWM4P07OfsvUdlAOETErJVteEbAEU7ecfz97rub
+
+
+studio_08@uat
+access-key= 08UCC5GC7FBMB65IY7ST
+secret-key= 03i5CPFoJhEzPIctHGjlgQeFiaGQRKOiYzsZOj1E
+
+
+studio_09@uat
+access-key= M7TTKXI3B55I1F726YYW
+secret-key= DXJaCpj8Otf7taJ9w4aHaXC32r3NdfIzwBmSTekd
+
+
+studio_10@uat
+access-key= E6DN98NLMA1963OKQAVH
+secret-key= NEblRkQBWlkRh21moC7kFpUu3t9AD26hM7Aae8cK
+
+
+studio_11@uat
+access-key= LNQOTZQCIIZ84I9GDMGI
+secret-key= aC4Qi2ajeJvRIdOtzGsVA7HVkI28FEBzzR4azOUm
+
+
+studio_12@uat
+access-key= QR76HOQ33YND7RC6HA6N
+secret-key= 3eHtZKtt7TujieBYvTLVGfI1ANVmNOlXZCCmgCkg
+
 jam_720_01@uat
 access-key= 2TREQN35N4GPAHES36BX
 secret-key= puEw802MwSf1DN9dq57O0Kz478nzOOe5hc7ib6s9
@@ -525,63 +584,6 @@ access-key= HMUN0A9W00FXMZD090EV
 secret-key= fK1l8DRARjE66Ys9BfSY7m9afqBf2YeiBvH1e4Rp
 
 
-studio_01@uat
-access-key= UERDJGBST4TECODVDOA1
-secret-key= 0UdNvzLDvoGzsQ9waBtOmadfTn03k9fucaV172Zn
-
-
-studio_02@uat
-access-key= V6PU0LCSWWUYFS7SZBMG
-secret-key= UeW4ra7MANBnYOEnKp6eeGek0Hh2EEwTmsqqnk7N
-
-studio_03@uat
-access-key= SR7YPB4LIL8B7KOQ44E7
-secret-key= lQKocK1eLzTDzNKwQTGoC3Jquh4opDf0iyZpz1Yi
-
-
-studio_04@uat
-access-key= AWVLJ3W5TYICYTXUCJJI
-secret-key= ucbZXGwVRBNeXT5nIIVNoGCohatbW0bZvnfwLPHq
-
-
-studio_05@uat
-access-key= M8MR9KKBGRQQ0E792LUD
-secret-key= LWWmiXkAX6UopfnbGOzP5zeKEDU2OLSlSE26U5wl
-
-
-studio_06@uat
-access-key= I1FEYCR73PGD5P610EO1
-secret-key= lHMM0mlEMJ9lBhHaJX5Rkyerb2XnPkq5LM0TsbcV
-
-
-studio_07@uat
-access-key= JTE5JBD4WZEIOZ2W0L6Z
-secret-key= gyWM4P07OfsvUdlAOETErJVteEbAEU7ecfz97rub
-
-
-studio_08@uat
-access-key= 08UCC5GC7FBMB65IY7ST
-secret-key= 03i5CPFoJhEzPIctHGjlgQeFiaGQRKOiYzsZOj1E
-
-
-studio_09@uat
-access-key= M7TTKXI3B55I1F726YYW
-secret-key= DXJaCpj8Otf7taJ9w4aHaXC32r3NdfIzwBmSTekd
-
-
-studio_10@uat
-access-key= E6DN98NLMA1963OKQAVH
-secret-key= NEblRkQBWlkRh21moC7kFpUu3t9AD26hM7Aae8cK
-
-
-studio_11@uat
-access-key= LNQOTZQCIIZ84I9GDMGI
-secret-key= aC4Qi2ajeJvRIdOtzGsVA7HVkI28FEBzzR4azOUm
-
-
-studio_12@uat
-access-key= QR76HOQ33YND7RC6HA6N
-secret-key= 3eHtZKtt7TujieBYvTLVGfI1ANVmNOlXZCCmgCkg
 
 
 partner_1080_01@uat
