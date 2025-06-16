@@ -256,13 +256,8 @@ for f in part_*; do
   fi
 done
 
-
-
-
-
-uat:
-
-https://s3.ap-northeast-1.wasabisys.com	
+----------------------------------------------------------------
+sdk帳號
 
 sdk@uat
 name=uat-app-downloader
