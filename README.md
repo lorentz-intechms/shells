@@ -272,6 +272,9 @@ access-key= Q2GS44BAZJ0NOMMJCVBA
 secret-key= d01rDfAl0nMUdVKeUfN3FBh1M68nCNNfbznDkBwo
 
 
+----------------------------------------------------------------
+
+
 studio_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -375,6 +378,7 @@ secret-key= dPueAD17Dqhl2ZFrOCa0oHyN2rceSAymzMCX7wzS
 
 
 
+----------------------------------------------------------------
 
 
 
@@ -551,6 +555,7 @@ secret-key= Ce16nFleVeCaov8FDNqNGtB5BKSqfCPnatRZWrcd
 
 
 
+----------------------------------------------------------------
 
 
 
@@ -584,6 +589,7 @@ secret-key= LbHOoAFo0WorSTOXKBFngMCU4LSQhs7ujEMtt44P
 
 
 
+----------------------------------------------------------------
 
 
 heihei_1080_01@uat
@@ -593,6 +599,7 @@ region= ap-northeast-1
 access-key= WG7CMV6H8QFPMM9YQLIA
 secret-key= DkVtuv8e5NjdTfBWRR6HoPPE9hR7wTQA7JdnJjoZ
 
+----------------------------------------------------------------
 
 jk_1080_01@uat
 name=uat-app-downloader
@@ -617,6 +624,7 @@ region= ap-northeast-1
 access-key= NQ6YGDS0VQBW6VRB1DVZ
 secret-key= GTjuGEeBEK0X9Fil7DDdpzzmPIcrnScaasHWF7gH
 
+----------------------------------------------------------------
 
 
 
@@ -637,6 +645,7 @@ secret-key= EwU3UN1pc86H63BoZFTWrYabltnFE4wRp59Lygpm
 
 
 
+----------------------------------------------------------------
 
 
 short_video_01@uat
@@ -740,6 +749,7 @@ access-key= GKA0USDIZ2G5J9VXFTKL
 secret-key= 6oImAHQVPfPgmqCUHu5t8KhfKmqYjS9eTWkUHAWB
 
 
+----------------------------------------------------------------
 
 encyclopedia_720_01@uat
 name=uat-app-downloader
@@ -770,6 +780,7 @@ access-key= 11NGDY1XPCVQX9QXSVTE
 secret-key= XwMXWimC2eoi8b07y3YXwCFmRHwq0q2ekpOIpZo2
 
 
+----------------------------------------------------------------
 
 
 
@@ -806,6 +817,7 @@ secret-key= RHzkRhnzgjyWbzDwR0GVu1NRYAzpIqz8v3zMfoZf
 
 
 
+----------------------------------------------------------------
 
 
 duck_720_01@uat
@@ -838,6 +850,7 @@ secret-key= qpzE7zzYComunaVwNbsriWs7ssJeZTEi7lSMvksr
 
 
 
+----------------------------------------------------------------
 
 
 hgame_1080_01@uat
@@ -848,6 +861,7 @@ access-key= HMUN0A9W00FXMZD090EV
 secret-key= fK1l8DRARjE66Ys9BfSY7m9afqBf2YeiBvH1e4Rp
 
 
+----------------------------------------------------------------
 
 
 partner_1080_01@uat
@@ -919,32 +933,6 @@ endpoint= https://s3.ap-northeast-1.wasabisys.com
 region= ap-northeast-1
 access-key= OQRUM1LL0DL4F8BRQKG8
 secret-key= d0UG8SqLe2wnzZcHmaUQQgsH7XuT7pKvq5nWhYLg
-
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Action": "s3:ListBucket",
-      "Resource": "arn:aws:s3:::uat-app-downloader",
-      "Condition": {
-        "StringLike": {
-          "s3:prefix": "*"
-        }
-      }
-    },
-    {
-      "Effect": "Allow",
-      "Action": [
-        "s3:GetObject",
-        "s3:PutObject",
-        "s3:DeleteObject"
-      ],
-      "Resource": "arn:aws:s3:::uat-app-downloader/partner_1080_11/*"
-    }
-  ]
-}
-
 
 partner_1080_11@uat
 name=uat-app-downloader
@@ -1086,8 +1074,7 @@ region= ap-northeast-1
 access-key= 279CZ8XG95ZA54RRWBS6
 secret-key= 2Li0wB7nkt4qcyuyHUbR2FZRr7Mv7Opp7WSzyQU2
 
-
-
+----------------------------------------------------------------
 
 crawler_720_89@uat
 name=uat-app-downloader
