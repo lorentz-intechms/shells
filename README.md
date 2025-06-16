@@ -274,7 +274,7 @@ secret-key= d01rDfAl0nMUdVKeUfN3FBh1M68nCNNfbznDkBwo
 
 ----------------------------------------------------------------
 
-
+項目：瓜子
 studio_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -382,7 +382,7 @@ secret-key= dPueAD17Dqhl2ZFrOCa0oHyN2rceSAymzMCX7wzS
 
 
 
-
+項目：果醬
 jam_720_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -560,7 +560,7 @@ secret-key= Ce16nFleVeCaov8FDNqNGtB5BKSqfCPnatRZWrcd
 
 
 
-
+項目：水果派
 fruit_pie_commentary@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -591,7 +591,7 @@ secret-key= LbHOoAFo0WorSTOXKBFngMCU4LSQhs7ujEMtt44P
 
 ----------------------------------------------------------------
 
-
+項目：嘿嘿
 heihei_1080_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -600,7 +600,7 @@ access-key= WG7CMV6H8QFPMM9YQLIA
 secret-key= DkVtuv8e5NjdTfBWRR6HoPPE9hR7wTQA7JdnJjoZ
 
 ----------------------------------------------------------------
-
+項目：JK
 jk_1080_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -627,7 +627,7 @@ secret-key= GTjuGEeBEK0X9Fil7DDdpzzmPIcrnScaasHWF7gH
 ----------------------------------------------------------------
 
 
-
+項目：one
 one_auto_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -647,7 +647,7 @@ secret-key= EwU3UN1pc86H63BoZFTWrYabltnFE4wRp59Lygpm
 
 ----------------------------------------------------------------
 
-
+項目：短視頻
 short_video_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -750,7 +750,7 @@ secret-key= 6oImAHQVPfPgmqCUHu5t8KhfKmqYjS9eTWkUHAWB
 
 
 ----------------------------------------------------------------
-
+項目：反差
 encyclopedia_720_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -785,7 +785,7 @@ secret-key= XwMXWimC2eoi8b07y3YXwCFmRHwq0q2ekpOIpZo2
 
 
 
-
+項目：青青草
 grass_720_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -819,7 +819,7 @@ secret-key= RHzkRhnzgjyWbzDwR0GVu1NRYAzpIqz8v3zMfoZf
 
 ----------------------------------------------------------------
 
-
+項目：小黃鴨
 duck_720_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -852,7 +852,7 @@ secret-key= qpzE7zzYComunaVwNbsriWs7ssJeZTEi7lSMvksr
 
 ----------------------------------------------------------------
 
-
+項目：h遊戲
 hgame_1080_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -863,7 +863,7 @@ secret-key= fK1l8DRARjE66Ys9BfSY7m9afqBf2YeiBvH1e4Rp
 
 ----------------------------------------------------------------
 
-
+項目：果醬分包
 partner_1080_01@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -1075,7 +1075,7 @@ access-key= 279CZ8XG95ZA54RRWBS6
 secret-key= 2Li0wB7nkt4qcyuyHUbR2FZRr7Mv7Opp7WSzyQU2
 
 ----------------------------------------------------------------
-
+項目：果醬爬蟲
 crawler_720_89@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
@@ -1083,10 +1083,3 @@ region= ap-northeast-1
 access-key= 3IZVC0UWBYMSWJ2AI175
 secret-key= j2yInnGs7SXDHV3oYiVULk1heom5hqeT7z6yGSge
 
-
-
-
-需要 後端配置帳號的
-1. 水果派
-2. 短視頻
-3. one
