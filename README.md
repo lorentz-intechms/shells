@@ -432,14 +432,6 @@ region= ap-northeast-1
 access-key= KF01RTTO6K779T9G04BC
 secret-key= 5Iqhi6g6nAbvU226j82T1UL7z76EWVdKAPwssz9y
 
-
-
-
-
-
-
-
-
 jam_1080_04@uat
 name=uat-app-downloader
 endpoint= https://s3.ap-northeast-1.wasabisys.com
