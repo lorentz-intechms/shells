@@ -819,8 +819,41 @@ secret-key= j2yInnGs7SXDHV3oYiVULk1heom5hqeT7z6yGSge
 
 
 
-crawler_720_89@crawler
+Display Name= crawler_720_89@crawler
+Account Type= S3 compatible Storage
+Api Endpoint= s3.us-west-1.wasabisys.com
 access-key= LZ4NE86EO6VHCMPQM5DP
 secret-key= VuuXbQN7HoHKw6eaKWPXUf5liUlLZzKS26bf05GT
+
+
+------------------------------------------------------------------
+
+Display Name= duck_1080_01@duck
+Account Type= S3 compatible Storage
+Api Endpoint= s3.us-west-1.wasabisys.com
+access-key= 64E6V07LGRSPLB537U5L
+secret-key= eYuFE8M1pFCwkUGPNwymBqV4Ms1A6hyYp5ZoVoIa
+
+
+Display Name= duck_1080_02@duck
+Account Type= S3 compatible Storage
+Api Endpoint= s3.us-west-1.wasabisys.com
+access-key= E2F2PORGOGUFLERRIWYH
+secret-key= 5h24NGuEpRPIPbz9TXKvfAdl0ZZBJcgHzKoS6rPG
+
+
+Display Name= duck_720_01@duck
+Account Type= S3 compatible Storage
+Api Endpoint= s3.us-west-1.wasabisys.com
+access-key= UAY4307DV8S7WI4ILTC7
+secret-key= M87zv0h0Ik7N3THXpAlCzG1vzOP8FCcEMD0rGR4B
+
+
+Display Name= duck_720_02@duck
+Account Type= S3 compatible Storage
+Api Endpoint= s3.us-west-1.wasabisys.com
+access-key= E0GRN1G66XS07L5TL00J
+secret-key= 3ovVJWk0UyTmQBZHOmDHW1ThWCZ6YusTp5f7g7a7
+
 
 
