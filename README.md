@@ -853,6 +853,20 @@ advanced settings/Miscellaneous/External Buckets= uat-app-downloader/crawler_720
 
 
 ##################################################################
+##################################################################
+##################################################################
+##################################################################
+##################################################################
+##################################################################
+##################################################################
+
+Display Name= sdk@crawler
+Account Type= S3 compatible Storage
+Api Endpoint= s3.us-west-1.wasabisys.com
+access-key= TO9H7221LAI6VPZLHZ1G
+secret-key= 2ZZuHTIPIz5cmz6qr5fGSNfdlBz7zeAAAAKtAY7d
+advanced settings/Miscellaneous/External Buckets= crawler-app-downloader/
+
 
 
 
@@ -865,6 +879,15 @@ advanced settings/Miscellaneous/External Buckets= crawler-app-downloader/crawler
 
 
 ------------------------------------------------------------------
+
+sdk@duck
+Account Type= S3 compatible Storage
+Api Endpoint= s3.us-west-1.wasabisys.com
+access-key= WEBW2QKJ5HV4IJT1HN34
+secret-key= 8ztzZGBoerE4pVzWi25YoqIUegr8IzHdep6Itr8Z
+advanced settings/Miscellaneous/External Buckets= duck-app-downloader/
+
+
 
 Display Name= duck_1080_01@duck
 Account Type= S3 compatible Storage
