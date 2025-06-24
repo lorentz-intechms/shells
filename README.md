@@ -239,7 +239,7 @@ one TC h265 切片地址：              https://pwavd.phd3wfh.com/decry/vd/2025
 
 
 
-split -n l/130 04-0624.sh part_
+split -n l/140 04-0624.sh part_
 
 
 group=1
@@ -251,7 +251,8 @@ for f in part_*; do
 
   index=$((index + 1))
 
-  if { [ "$group" -le 6 ] && [ "$index" -gt 20 ]; } || { [ "$group" -eq 7 ] && [ "$index" -gt 10 ]; }; then
+  # 每组满20个后，重置编号，进入下一组
+  if [ "$index" -gt 20 ]; then
     index=1
     group=$((group + 1))
   fi
