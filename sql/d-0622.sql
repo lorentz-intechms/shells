@@ -17,6 +17,6 @@ SELECT CONCAT('cd /home/www/conversion-api-koa; FFMPEG_BIN="./bin/ffmpeg-app" no
 FROM `video_movies` 
 WHERE url NOT REGEXP '/aac/h264/hls/' AND 
 url != '' AND 
-tencent_enc_url = '' is_transcoding = 0
+tencent_enc_url = '' AND is_transcoding = 0
 
 ORDER BY  `updated_at`  DESC;
