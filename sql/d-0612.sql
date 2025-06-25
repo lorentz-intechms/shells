@@ -6,3 +6,9 @@ tencent_enc_url = '' AND
  is_transcoding = 1 
 
  ORDER BY  `updated_at`  DESC;
+
+
+
+SELECT * FROM video_micro_movies;
+
+SELECT * FROM video_content_expands ;
