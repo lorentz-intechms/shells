@@ -1,4 +1,4 @@
-SELECT CONCAT('cd /home/www/conversion-api-koa; FFMPEG_BIN="./bin/ffmpeg-app" node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://enlvd4cili.ahplm.com', 
+SELECT CONCAT('cd /home/www/conversion-api-koa; FFMPEG_BIN="./bin/ffmpeg-app" node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://nl4cgvem.xwzh022.com', 
   CASE
     WHEN LOCATE('/hls/', url) > 0 THEN
       CONCAT(
