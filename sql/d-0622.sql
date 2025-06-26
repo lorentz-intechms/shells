@@ -20,3 +20,6 @@ url != '' AND
 tencent_enc_url = '' AND is_transcoding = 0
 
 ORDER BY  `updated_at`  DESC;
+
+
+/home/mysql_6603/bin/mysql -h127.0.0.1 --password='qiepianB./@%^pwd->X' --user='qiepian_rw' --port=6603 -N -s -A -D conversion -e "SELECT name FROM \`cv-003_0004-app_pipelines\` WHERE id > 385143 ORDER BY id DESC;" >> aaaaa.txt
