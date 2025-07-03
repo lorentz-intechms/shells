@@ -5,10 +5,9 @@ enc_url != '' AND
 tencent_enc_url = '' 
  AND is_transcoding = 1  
 
- ORDER BY  `updated_at`  DESC;
+ UNION
 
 
--- 
  SELECT CONCAT('cd /home/www/conversion-api-koa; FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://nl4cgvem.xwzh022.com', 
   CASE
     WHEN LOCATE('/hls/', url) > 0 THEN
@@ -28,7 +27,5 @@ tencent_enc_url = ''
 FROM `video_movies` 
 WHERE url NOT REGEXP '/aac/h264/hls/' AND 
 url != '' AND 
-tencent_enc_url = '' AND is_transcoding = 0
-
-ORDER BY  `updated_at`  DESC;
+tencent_enc_url = '' AND is_transcoding = 0;
 
