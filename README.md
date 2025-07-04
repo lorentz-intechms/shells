@@ -242,7 +242,7 @@ one TC h264 切片地址：              https://pwavd.phd3wfh.com/decry/vd/2025
 one TC h265 切片地址：              https://pwavd.phd3wfh.com/decry/vd/20250503/ZTc4ZDNlZGQ4/070917/1920_1080/aac/h265/hls/decrypt/index.m3u8
 
 
-tmux new-session -d -s x0004 'cd /home/www/conversion-api-koa/; sh 003_0004.sh >> /home/www/conversion-api-koa/runtime/log/x0004.log; sleep 2';
+tmux new-session -d -s x0004 'cd /home/www/conversion-api-koa/; sh 003_0004.sh >> /home/www/conversion-api-koa/runtime/x0004.log; sleep 2';
 
 
 
