@@ -3,7 +3,16 @@ FROM `video_micro_movies`
 WHERE enc_url NOT REGEXP '/aac/h264/hls/' AND 
 enc_url != '' AND 
 tencent_enc_url = '' AND 
-is_transcoding = 1 
+is_transcoding = 1 AND
+id IN (
+20196,
+20227,
+20339,
+20306,
+20305
+
+
+)
 
  ORDER BY  `id`  ASC;
 
