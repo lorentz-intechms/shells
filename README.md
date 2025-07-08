@@ -228,6 +228,7 @@ tmux ls;
 
 
 
+tmux new-session -d -s d09 'cd /home/www/shells/command; sh d7.sh >> /home/www/shells/log/d7-20.log; sleep 2';
 
 
 one pwa视频域名 （cbc 切片加密视频） https://pwavd.phd3wfh.com
