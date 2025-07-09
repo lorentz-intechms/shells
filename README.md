@@ -224,6 +224,30 @@ tmux ls;
 
 
 
+sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
+cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
+cd /home/www/shells/;
+sudo rm -Rf log/*.log;
+sudo git pull;
+sudo su;
+tmux ls;
+pkill tmux;
+tmux new-session -d -s d9-01 'cd /home/www/shells/command; sh d9-01.sh >> /home/www/shells/log/d9-01.log; sleep 2';
+tmux new-session -d -s d9-02 'cd /home/www/shells/command; sh d9-02.sh >> /home/www/shells/log/d9-02.log; sleep 2';
+tmux new-session -d -s d9-03 'cd /home/www/shells/command; sh d9-03.sh >> /home/www/shells/log/d9-03.log; sleep 2';
+tmux new-session -d -s d9-04 'cd /home/www/shells/command; sh d9-04.sh >> /home/www/shells/log/d9-04.log; sleep 2';
+tmux new-session -d -s d9-05 'cd /home/www/shells/command; sh d9-05.sh >> /home/www/shells/log/d9-05.log; sleep 2';
+tmux new-session -d -s d9-06 'cd /home/www/shells/command; sh d9-06.sh >> /home/www/shells/log/d9-06.log; sleep 2';
+tmux new-session -d -s d9-07 'cd /home/www/shells/command; sh d9-07.sh >> /home/www/shells/log/d9-07.log; sleep 2';
+tmux new-session -d -s d9-08 'cd /home/www/shells/command; sh d9-08.sh >> /home/www/shells/log/d9-08.log; sleep 2';
+tmux new-session -d -s d9-09 'cd /home/www/shells/command; sh d9-09.sh >> /home/www/shells/log/d9-09.log; sleep 2';
+tmux new-session -d -s d9-10 'cd /home/www/shells/command; sh d9-10.sh >> /home/www/shells/log/d9-10.log; sleep 2';
+
+
+tmux ls;
+
+
+
 
 
 
@@ -272,7 +296,7 @@ done
 
 
 
-split -n l/10 01-0703.sh part_
+split -n l/10 04-0703.sh part_
 
 
 group=9
