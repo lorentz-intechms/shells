@@ -10,7 +10,7 @@ tencent_enc_url = ''
  UNION
 
 
- SELECT CONCAT('cd /home/www/conversion-api-koa; FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://nl4cgvem.xwzh022.com', 
+ SELECT CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://nl4cgvem.xwzh022.com', 
   CASE
     WHEN LOCATE('/hls/', url) > 0 THEN
       CONCAT(
