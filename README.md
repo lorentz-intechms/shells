@@ -267,6 +267,31 @@ for f in part_*; do
 done
 
 
+
+
+
+
+
+split -n l/10 01-0703.sh part_
+
+
+group=9
+index=1
+
+for f in part_*; do
+  printf -v newname "d%d-%02d.sh" "$group" "$index"
+  mv "$f" "$newname"
+
+  index=$((index + 1))
+
+  # 每组满20个后，重置编号，进入下一组
+  if [ "$index" -gt 10 ]; then
+    index=1
+    group=$((group + 1))
+  fi
+done
+
+
 ----------------------------------------------------------------
 
 
