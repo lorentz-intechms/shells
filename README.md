@@ -271,7 +271,7 @@ tmux new-session -d -s x0004 'cd /home/www/conversion-api-koa/; sh shells/003_00
 
 
 
-split -n l/140 04-0711.sh part_
+split -n l/140 04-0705.sh part_
 
 
 group=1
@@ -309,7 +309,7 @@ for f in part_*; do
   index=$((index + 1))
 
   # 每组满20个后，重置编号，进入下一组
-  if [ "$index" -gt 20 ]; then
+  if [ "$index" -gt 10 ]; then
     index=1
     group=$((group + 1))
   fi
