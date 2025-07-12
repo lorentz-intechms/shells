@@ -296,7 +296,7 @@ done
 
 
 
-split -n l/10 04-0703.sh part_
+split -n l/10 04-0705.sh part_
 
 
 group=9
@@ -309,7 +309,7 @@ for f in part_*; do
   index=$((index + 1))
 
   # 每组满20个后，重置编号，进入下一组
-  if [ "$index" -gt 10 ]; then
+  if [ "$index" -gt 20 ]; then
     index=1
     group=$((group + 1))
   fi
