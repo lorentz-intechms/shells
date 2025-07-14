@@ -1,16 +1,16 @@
 SELECT text FROM 
-(SELECT CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo5Command --app_id=5 --id=', id, ' --url="https://nl4cgvem.xwzh022.com', IF(enc_url_265 = '', enc_url, enc_url_265), '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=', is_transcoding, ', -- ', updated_at, ' --https://qzpwa-hw.point-memory.com', pwa_url, ', status=', status) AS text, status
+(SELECT CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo5Command --app_id=5 --id=', id, ' --url=" https://tvsec1.jekqwa.com', IF(enc_url_265 = '', enc_url, enc_url_265), '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=', is_transcoding, ', -- ', updated_at, ' --https://qzpwa-hw.point-memory.com', pwa_url, ', status=', status) AS text, status
 FROM `video_micro_movies` AS v1
 WHERE enc_url NOT REGEXP '/aac/h264/hls/' AND 
 enc_url != '' AND 
 tencent_enc_url = '' 
- AND is_transcoding = 1  AND cdn_number != 4
+ AND is_transcoding = 1  AND cdn_number = 4
  
 
  UNION
 
 
- SELECT CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo5Command --app_id=5 --id=', id, ' --url="https://nl4cgvem.xwzh022.com', 
+ SELECT CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo5Command --app_id=5 --id=', id, ' --url="https://tvsec1.jekqwa.com', 
   CASE
     WHEN LOCATE('/hls/', url) > 0 THEN
       CONCAT(
@@ -27,7 +27,7 @@ tencent_enc_url = ''
 
   , '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=', is_transcoding, ', ' , subtitle, ' -- ', updated_at, ' -- ', pwa_url, ', status=', status) AS text ,status
 FROM `video_micro_movies`  AS v2
-WHERE url NOT REGEXP '/aac/h264/hls/' AND cdn_number != 4
+WHERE url NOT REGEXP '/aac/h264/hls/' AND cdn_number = 4
 url != '' AND 
 tencent_enc_url = '' AND is_transcoding = 0 
 ) AS tt 
