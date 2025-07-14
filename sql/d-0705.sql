@@ -2,7 +2,7 @@ SELECT text FROM
 (SELECT CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=', id, ' --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com', IF(enc_url_265 = '', enc_url, enc_url_265), '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=', is_transcoding, ', -- ', updated_at, ' --https://qzpwa-hw.point-memory.com', pwa_url, ', status=', status) AS text, status
 FROM `video_movies` AS v1
 WHERE is_transcoding = 1 AND id IN 
-(312404)
+(499062)
  
 
  UNION
@@ -26,7 +26,7 @@ WHERE is_transcoding = 1 AND id IN
   , '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=', is_transcoding, ', ' , subtitle, ' -- ', updated_at, ' -- ', pwa_url, ', status=', status) AS text ,status
 FROM `video_movies`  AS v2
 WHERE is_transcoding = 0 AND id IN 
-(312404)
+(499062)
 
 ) AS tt 
 ORDER BY status ASC
