@@ -3,7 +3,7 @@ SELECT text FROM
 FROM `video_micro_movies` AS v1
 WHERE enc_url NOT REGEXP '/aac/h264/hls/' AND 
 enc_url != '' AND 
-tencent_enc_url = '' 
+tencent_enc_url = '' AND
  AND is_transcoding = 1  AND cdn_number != 4
  
 
