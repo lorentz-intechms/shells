@@ -1,5 +1,5 @@
 SELECT text FROM 
-(SELECT CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo5Command --app_id=5 --id=', id, ' --url=" https://tvsec1.jekqwa.com', IF(enc_url_265 = '', enc_url, enc_url_265), '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=', is_transcoding, ', -- ', updated_at, ' --https://qzpwa-hw.point-memory.com', pwa_url, ', status=', status) AS text, status
+(SELECT CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo5Command --app_id=5 --id=', id, ' --url=" https://cilicili-dsp.oss-ap-southeast-1.aliyuncs.com', IF(enc_url_265 = '', enc_url, enc_url_265), '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=', is_transcoding, ', -- ', updated_at, ' --https://qzpwa-hw.point-memory.com', pwa_url, ', status=', status) AS text, status
 FROM `video_micro_movies` AS v1
 WHERE enc_url NOT REGEXP '/aac/h264/hls/' AND 
 enc_url != '' AND 
@@ -10,19 +10,8 @@ tencent_enc_url = '' AND
  UNION
 
 
- SELECT CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo5Command --app_id=5 --id=', id, ' --url="https://tvsec1.jekqwa.com', 
-  CASE
-    WHEN LOCATE('/hls/', url) > 0 THEN
-      CONCAT(
-        LEFT(
-          url,
-          LOCATE('/hls/', url) - 1 - 
-            LOCATE('/', REVERSE(LEFT(url, LOCATE('/hls/', url) - 1))) + 1
-        ),
-        SUBSTRING(url, LOCATE('/hls/', url) + LENGTH('/hls/'))
-      )
-    ELSE url
-  END
+ SELECT CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo5Command --app_id=5 --id=', id, ' --url="https://cilicili-dsp.oss-ap-southeast-1.aliyuncs.com', url 
+
 
 
   , '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=', is_transcoding, ', ' , subtitle, ' -- ', updated_at, ' -- ', pwa_url, ', status=', status) AS text ,status
