@@ -27,9 +27,12 @@ tencent_enc_url = ''
 
   , '" --filename="', id, '.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=', is_transcoding, ', ' , subtitle, ' -- ', updated_at, ' -- ', pwa_url, ', status=', status) AS text ,status
 FROM `video_micro_movies`  AS v2
-WHERE url NOT REGEXP '/aac/h264/hls/' AND cdn_number = 4
+WHERE url NOT REGEXP '/aac/h264/hls/' 
 url != '' AND 
-tencent_enc_url = '' AND is_transcoding = 0 
+tencent_enc_url = '' AND is_transcoding = 0 AND cdn_number = 4
 ) AS tt 
 ORDER BY status ASC;
 
+
+
+# cilicili-dsp.oss-ap-southeast-1.aliyuncs.com
