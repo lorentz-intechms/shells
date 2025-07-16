@@ -3,4 +3,4 @@ CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" 
 download_path, '" --filename="', id, '.mp4"; # filename=', filename, ' title=', title)
 
 FROM `one_content_videos` 
-WHERE type IN ('main', 'preview') limit 1000;
+WHERE type IN ('main', 'preview') ORDER BY id ASC;
