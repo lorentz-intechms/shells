@@ -12,7 +12,7 @@ WHERE type IN ('main', 'preview') ORDER BY id ASC;
 
 
 SELECT
-CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethM3u8Command --app_id=16 --id=', id, ' --url="https://one-encryption-obs.obs.la-north-2.myhuaweicloud.com/',
+CONCAT('cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethM3u8Command --app_id=16 --id=', id, ' --url="https://one-encryption-obs.obs.la-north-2.myhuaweicloud.com',
 encrypt_path, '" --filename="', id, '.mp4"  --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56"; # filename=', filename, ' title=', title)
 
 FROM `one_content_videos` 
