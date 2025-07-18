@@ -32,6 +32,7 @@ tmux ls;
 
 
 
+
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
 cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
 cd /home/www/shells/;
@@ -61,7 +62,6 @@ tmux new-session -d -s d2-18 'cd /home/www/shells/command; sh d2-18.sh >> /home/
 tmux new-session -d -s d2-19 'cd /home/www/shells/command; sh d2-19.sh >> /home/www/shells/log/d2-19.log; sleep 2';
 tmux new-session -d -s d2-20 'cd /home/www/shells/command; sh d2-20.sh >> /home/www/shells/log/d2-20.log; sleep 2';
 tmux ls;
-
 
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
 cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;

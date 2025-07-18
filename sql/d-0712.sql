@@ -5,4 +5,3 @@ enc_url != ''  AND tencent_enc_url = ''
 
 ORDER BY  `id`  ASC;
 
-
