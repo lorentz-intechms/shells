@@ -30,6 +30,6 @@ FROM `video_micro_movies`  AS v2
 WHERE url NOT REGEXP '/aac/h264/hls/' AND
 url != '' AND 
 tencent_enc_url = '' AND is_transcoding = 0 AND cdn_number != 4
-) AS tt 
+) AS tt WHERE status != 0
 ORDER BY status ASC;
 
