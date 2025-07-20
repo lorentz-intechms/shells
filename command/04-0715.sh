@@ -13,16 +13,6 @@ cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=68830 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/decry/vd/20240704/NmRjODJkZWFhO/143605/1280_720/decrypt/index.m3u8" --filename="68830.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0, ABP-583-uuu.mp4 -- 2024-07-05 18:20:02 -- /decry/vd/20240704/NmRjODJkZWFhO/143605/1280_720/libx/hls/encrypt/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=72371 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/decry/vd/20240702/ODg5NzY0OTEzYTB/175605/1920_1080/decrypt/index.m3u8" --filename="72371.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0, ogpp-003-ub.mp4 -- 2024-07-05 18:20:02 -- /decry/vd/20240702/ODg5NzY0OTEzYTB/175605/1920_1080/libx/hls/encrypt/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=84072 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211220/z1n2D9fY/index.m3u8" --filename="84072.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2021-12-21 15:13:18 -- /20211220/z1n2D9fY/4000kb/hls/index.m3u8, status=1
-
-
-
-
-
-
-
-
-
-
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=85240 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/decry/vd/20240701/ODE4NzViYTc0/164604/1920_1080/decrypt/index.m3u8" --filename="85240.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0, ezd-361-ub.mp4 -- 2024-07-04 20:15:12 -- /decry/vd/20240701/ODE4NzViYTc0/164604/1920_1080/libx/hls/encrypt/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=85524 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/decry/vd/20240701/ZDcxOTUwZmM3MzU/170104/1920_1080/decrypt/index.m3u8" --filename="85524.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0, mkmp-265-ub.mp4 -- 2024-07-04 20:14:30 -- /decry/vd/20240701/ZDcxOTUwZmM3MzU/170104/1920_1080/libx/hls/encrypt/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=93087 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/decry/vd/20240701/ZjYwM2VmNzFhO/165604/1920_1080/decrypt/index.m3u8" --filename="93087.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0, mide-113-ub.mp4 -- 2024-07-04 20:15:12 -- /decry/vd/20240701/ZjYwM2VmNzFhO/165604/1920_1080/libx/hls/encrypt/index.m3u8, status=1
@@ -30,14 +20,22 @@ cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin
 
 
 
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=104415 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20210119/hJj8Av3s/index.m3u8" --filename="104415.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2020-07-09 18:27:40 -- /20210119/hJj8Av3s/2000kb/hls/index.m3u8, status=1
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=118514 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211116/GfJRz90R/index.m3u8" --filename="118514.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2021-11-17 15:04:08 -- /20211116/GfJRz90R/500kb/hls/index.m3u8, status=1
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=118642 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211118/RGEWXpC9/index.m3u8" --filename="118642.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2022-06-30 08:04:04 -- /20211118/RGEWXpC9/2000kb/hls/index.m3u8, status=1
+
+
+
+
+
+
+
+
+
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=118752 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211121/zXQPg8eT/index.m3u8" --filename="118752.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2024-02-23 17:23:03 -- /20211121/zXQPg8eT/2000kb/hls/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=119065 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211126/Pfah63TN/index.m3u8" --filename="119065.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2022-10-13 10:42:38 -- /20211126/Pfah63TN/2000kb/hls/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=119079 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211127/IiP3tMxi/index.m3u8" --filename="119079.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2021-11-28 13:24:58 -- /20211127/IiP3tMxi/2000kb/hls/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=119106 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211127/7s7xpUFV/index.m3u8" --filename="119106.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2023-04-20 17:35:22 -- /20211127/7s7xpUFV/4000kb/hls/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=119108 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211126/PItH2oW1/index.m3u8" --filename="119108.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2022-10-13 10:48:26 -- /20211126/PItH2oW1/4000kb/hls/index.m3u8, status=1
+
+
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=119295 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211202/oYUBZtmd/index.m3u8" --filename="119295.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2022-10-13 10:49:59 -- /20211202/oYUBZtmd/4000kb/hls/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=119365 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211203/oSTfvruv/index.m3u8" --filename="119365.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2021-12-04 15:17:17 -- /20211203/oSTfvruv/2000kb/hls/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=119555 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20211207/S70XKrHN/index.m3u8" --filename="119555.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56";  # is_transcoding=0,  -- 2024-02-26 14:30:52 -- /20211207/S70XKrHN/2000kb/hls/index.m3u8, status=1
