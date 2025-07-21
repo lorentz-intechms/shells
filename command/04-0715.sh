@@ -33,7 +33,6 @@ cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin
 
 
 
-ßß
 
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=127876 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20220423/aeA765fq/index.m3u8" --filename="127876.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56" ;  # is_transcoding=0,  -- 2023-04-20 17:35:22 -- /20220423/aeA765fq/4000kb/hls/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=127907 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20220424/1cL2hDm3/index.m3u8" --filename="127907.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56" ;  # is_transcoding=0,  -- 2022-04-24 11:05:36 -- /20220424/1cL2hDm3/4000kb/hls/index.m3u8, status=1
@@ -43,6 +42,7 @@ cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=128458 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20220501/jjg9uRo4/index.m3u8" --filename="128458.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56" ;  # is_transcoding=0,  -- 2022-05-03 10:50:26 -- /20220501/jjg9uRo4/4000kb/hls/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=128713 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20220506/FVDYMgos/index.m3u8" --filename="128713.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56" ;  # is_transcoding=0,  -- 2022-05-07 15:26:28 -- /20220506/FVDYMgos/4000kb/hls/index.m3u8, status=1
 cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo4Command --app_id=4 --id=128793 --url="https://gjvd-new-obs.obs.ap-southeast-3.myhuaweicloud.com/20220507/HbZKzG2W/index.m3u8" --filename="128793.mp4" --algorithm="aes-128-ecb" --key="saIZXc4yMvq0Iz56" ;  # is_transcoding=0,  -- 2022-05-08 13:57:19 -- /20220507/HbZKzG2W/4000kb/hls/index.m3u8, status=1
+
 
 
 
