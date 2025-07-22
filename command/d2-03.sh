@@ -1,0 +1,2 @@
+cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=29413 --url="https://vdmk.mfpt8g.com/one/20250623/AVKH-098-C.mp4" --filename="29413.mp4"; # filename=AVKH-098-C.mp4 title=为撑起与丈夫的生计 今天我会被别人抱着 #encrypt_path=
+cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=29421 --url="https://vdmk.mfpt8g.com/one/20240823/CHN-123-C.mp4" --filename="29421.mp4"; # filename=CHN-123-C.mp4 title=新?出租素人娘、给你干。VOL.58 岸田步美 #encrypt_path=

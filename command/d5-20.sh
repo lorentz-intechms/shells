@@ -1,0 +1,2 @@
+cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=50703 --url="https://vdmk.mfpt8g.com/one/20250423/" --filename="50703.mp4"; # filename=20250423 title=新人 19岁现役女大学生AV出道！！ 九重环奈 #encrypt_path=
+cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=50705 --url="https://vdmk.mfpt8g.com/one/20250423/" --filename="50705.mp4"; # filename=20250423 title=第一次高潮了！ 九重环奈 #encrypt_path=
