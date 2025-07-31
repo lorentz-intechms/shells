@@ -1,0 +1,15 @@
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144066 --url="https://download.eny7kg.com/20200514/7XsIFPfJ/index.m3u8" --filename="20100_第01集_0.mp4"; #20100 1 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144067 --url="https://download.eny7kg.com/20200514/CJhI9bFo/index.m3u8" --filename="20100_第02集_1.mp4"; #20100 2 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144068 --url="https://download.eny7kg.com/20200514/uuJpqIlC/index.m3u8" --filename="20100_第03集_2.mp4"; #20100 3 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144069 --url="https://download.eny7kg.com/20200514/XhreZN8F/index.m3u8" --filename="20100_第04集_3.mp4"; #20100 4 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144070 --url="https://download.eny7kg.com/20200514/NOj0huZV/index.m3u8" --filename="20100_第05集_4.mp4"; #20100 5 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144071 --url="https://download.eny7kg.com/20200514/bn1dEc7Q/index.m3u8" --filename="20100_第06集_5.mp4"; #20100 6 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144072 --url="https://download.eny7kg.com/20200514/Gvr4Ln2f/index.m3u8" --filename="20100_第07集_6.mp4"; #20100 7 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144073 --url="https://download.eny7kg.com/20200514/MNaOnpfu/index.m3u8" --filename="20100_第08集_7.mp4"; #20100 8 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144074 --url="https://download.eny7kg.com/20200514/wqcR5Eie/index.m3u8" --filename="20100_第09集_8.mp4"; #20100 9 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144075 --url="https://download.eny7kg.com/20200514/d6uKjRXf/index.m3u8" --filename="20100_第10集_9.mp4"; #20100 10 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144076 --url="https://download.eny7kg.com/20200514/J2KThM8S/index.m3u8" --filename="20100_第11集_10.mp4"; #20100 11 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144077 --url="https://download.eny7kg.com/20200514/IDGVOQ6k/index.m3u8" --filename="20100_第12集_11.mp4"; #20100 12 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=144078 --url="https://download.eny7kg.com/20200514/z2ZHp1h9/index.m3u8" --filename="20100_第13集_12.mp4"; #20100 13 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=2113198 --url="https://download.eny7kg.com/decry/vd/20250108/ZDJkNzc2ZGEyOG/180043/1920_1080/aac/libx/hls/decrypt/index.m3u8" --filename="20273孤国春秋第四季01.mp4"; #20273 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=2113192 --url="https://download.eny7kg.com/decry/vd/20250108/ZTFlYmMwZDQ4YjI/180052/1920_1080/aac/libx/hls/decrypt/index.m3u8" --filename="20273孤国春秋第四季02.mp4"; #20273 2 1080

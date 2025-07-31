@@ -1,0 +1,17 @@
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=415045 --url="https://download.eny7kg.com/20220104/Hn3AwQB1/index.m3u8" --filename="9855_11_29.mp4"; #9855 11 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=415049 --url="https://download.eny7kg.com/20220111/1Vk1cf5I/index.m3u8" --filename="9855_12_30.mp4"; #9855 12 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498370 --url="https://download.eny7kg.com/20210924/3ULA5yhm/index.m3u8" --filename="10360_1_0.mp4"; #10360 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498371 --url="https://download.eny7kg.com/20210924/3mv4cnks/index.m3u8" --filename="10360_2_1.mp4"; #10360 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498372 --url="https://download.eny7kg.com/20210924/28986a5s/index.m3u8" --filename="10360_3_2.mp4"; #10360 3 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498373 --url="https://download.eny7kg.com/20210924/UWko0HjV/index.m3u8" --filename="10360_4_3.mp4"; #10360 4 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498374 --url="https://download.eny7kg.com/20210924/oLhXO8mw/index.m3u8" --filename="10360_5_4.mp4"; #10360 5 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498375 --url="https://download.eny7kg.com/20211001/EWLZFjYU/index.m3u8" --filename="10360_6_5.mp4"; #10360 6 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498376 --url="https://download.eny7kg.com/20211008/058rbASB/index.m3u8" --filename="10360_7_6.mp4"; #10360 7 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498377 --url="https://download.eny7kg.com/20211015/hRBxQKwK/index.m3u8" --filename="10360_8_7.mp4"; #10360 8 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498378 --url="https://download.eny7kg.com/20211022/TgY3qZ8m/index.m3u8" --filename="10360_9_8.mp4"; #10360 9 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498379 --url="https://download.eny7kg.com/20211029/cB9fghf8/index.m3u8" --filename="10360_10_9.mp4"; #10360 10 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498380 --url="https://download.eny7kg.com/20211105/8UmCBbpF/index.m3u8" --filename="10360_11_10.mp4"; #10360 11 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498381 --url="https://download.eny7kg.com/20211112/1iIgAgXL/index.m3u8" --filename="10360_12_11.mp4"; #10360 12 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498382 --url="https://download.eny7kg.com/20211119/i6LcYt1o/index.m3u8" --filename="10360_13_12.mp4"; #10360 13 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498383 --url="https://download.eny7kg.com/20211126/B2sZGWOj/index.m3u8" --filename="10360_14_13.mp4"; #10360 14 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=498384 --url="https://download.eny7kg.com/20211203/a6XRIjZt/index.m3u8" --filename="10360_15_14.mp4"; #10360 15 1080

@@ -1,0 +1,16 @@
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202549 --url="https://download.eny7kg.com/20191220/8vdOOorD/index.m3u8" --filename="24737_第06集_5.mp4"; #24737 6 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202550 --url="https://download.eny7kg.com/20191220/pjn1Fhd7/index.m3u8" --filename="24737_第07集_6.mp4"; #24737 7 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202551 --url="https://download.eny7kg.com/20191220/7pln1GJs/index.m3u8" --filename="24737_第08集_7.mp4"; #24737 8 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202552 --url="https://download.eny7kg.com/20191220/9a113vpM/index.m3u8" --filename="24737_第09集_8.mp4"; #24737 9 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202553 --url="https://download.eny7kg.com/20191220/4BZmRlaV/index.m3u8" --filename="24737_第10集_9.mp4"; #24737 10 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202554 --url="https://download.eny7kg.com/20191220/tWYhkCdi/index.m3u8" --filename="24737_第11集_10.mp4"; #24737 11 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202555 --url="https://download.eny7kg.com/20191220/lZIRqESN/index.m3u8" --filename="24737_第12集_11.mp4"; #24737 12 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202556 --url="https://download.eny7kg.com/20191220/WxIgJ8Z9/index.m3u8" --filename="24737_第13集_12.mp4"; #24737 13 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202557 --url="https://download.eny7kg.com/20191220/jMAHCdRt/index.m3u8" --filename="24737_第14集_13.mp4"; #24737 14 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202558 --url="https://download.eny7kg.com/20191220/kI5XvQWR/index.m3u8" --filename="24737_第15集_14.mp4"; #24737 15 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202559 --url="https://download.eny7kg.com/20191220/ty8ld2mN/index.m3u8" --filename="24737_第16集_15.mp4"; #24737 16 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202560 --url="https://download.eny7kg.com/20191220/gvoQRMTU/index.m3u8" --filename="24737_第17集_16.mp4"; #24737 17 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=658526 --url="https://download.eny7kg.com/decry/vd/20240503/NzUxNzAwNDZl/193609/1920_1080/libx/hls/decrypt/index.m3u8" --filename="你好乔安|24737|第18集|295491.mp4"; #24737 18 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202562 --url="https://download.eny7kg.com/20191220/5UbaEpuI/index.m3u8" --filename="24737_第19集_18.mp4"; #24737 19 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202563 --url="https://download.eny7kg.com/20191220/XymursV5/index.m3u8" --filename="24737_第20集_19.mp4"; #24737 20 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=202564 --url="https://download.eny7kg.com/20191220/FgUxKTJ6/index.m3u8" --filename="24737_第21集_20.mp4"; #24737 21 480
