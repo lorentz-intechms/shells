@@ -1,2 +1,0 @@
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=50738 --url="https://vdmk.mfpt8g.com/one/20250423/BGN-058.mp4" --filename="50738.mp4"; # filename=BGN-058.mp4 title=新人 Prestige专属出道 超越美少女的绝对“美女”松冈铃 #encrypt_path=
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=50740 --url="https://vdmk.mfpt8g.com/one/20250423/BTHA-078.mp4" --filename="50740.mp4"; # filename=BTHA-078.mp4 title=裸体写真/松岡すず（蓝光光盘） #encrypt_path=

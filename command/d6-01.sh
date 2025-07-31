@@ -1,2 +1,0 @@
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=50719 --url="https://vdmk.mfpt8g.com/one/20250423/" --filename="50719.mp4"; # filename=20250423 title=中出姐弟温泉松冈铃【MGS独家特典影像+10分钟】 #encrypt_path=
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=50720 --url="https://vdmk.mfpt8g.com/one/20250423/KBI-113.mp4" --filename="50720.mp4"; # filename=KBI-113.mp4 title=中出姐弟温泉松冈铃【MGS独家特典影像+10分钟】 #encrypt_path=

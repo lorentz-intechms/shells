@@ -1,1 +1,0 @@
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=38631 --url="https://vdmk.mfpt8g.com/one/20250203/MIMK-192-U_sample.mp4" --filename="38631.mp4"; # filename=MIMK-192-U_sample.mp4 title=实景版 虽然转生到了异世界但因为我是死灵术师所以制造了色色的僵尸来照顾我 销量1.5万部 原作いぱーどろっぷきっく #encrypt_path=

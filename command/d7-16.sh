@@ -1,2 +1,0 @@
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=51532 --url="https://vdmk.mfpt8g.com/one/20250703/PuPu-5Yue.mp4" --filename="51532.mp4"; # filename=PuPu-5Yue.mp4 title=颜值阿嘿颜骚母猪✨Aheyanlz 噗噗2000✨更新合集Part.3 #encrypt_path=
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=51555 --url="https://vdmk.mfpt8g.com/one/20250713/AP-007.mp4" --filename="51555.mp4"; # filename=AP-007.mp4 title=Aphrodite/户田真琴 #encrypt_path=

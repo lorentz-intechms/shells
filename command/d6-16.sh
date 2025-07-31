@@ -1,2 +1,0 @@
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=50784 --url="https://vdmk.mfpt8g.com/one/20250423/KBI-086-C.mp4" --filename="50784.mp4"; # filename=KBI-086-C.mp4 title=终极快感主义 以松岡すず的“喜欢”为主题探索新面向的亲密纪录片 #encrypt_path=
-cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --id=50786 --url="https://vdmk.mfpt8g.com/one/20250423/KBI-089-C.mp4" --filename="50786.mp4"; # filename=KBI-089-C.mp4 title=欲望夜游 1vs1密会性爱3场松冈铃 #encrypt_path=
