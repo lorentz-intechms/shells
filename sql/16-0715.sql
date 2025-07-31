@@ -21,3 +21,7 @@ WHERE type IN ('main', 'preview') ORDER BY id ASC;
 # 1119
 # 
 # https://one-encryption-obs.obs.la-north-2.myhuaweicloud.com/encry/vd/20250716/NTYxY2M2NzEz/120436/1024_576/aac/h264/hls/decrypt/index.m3u8   
+
+https://vdmk.mfpt8g.com/one/20230217/NSFS-113C.mp4
+
+https://vdmk.mfpt8g.com/20250713/yingying20250716.mp4
