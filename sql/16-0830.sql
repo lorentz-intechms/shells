@@ -8,7 +8,7 @@ download_path, '" --filename="', CASE
 
 FROM `one_content_videos` 
 WHERE type IN ('main', 'preview') AND 
-id IN (
+content_id IN (
 
 
 
