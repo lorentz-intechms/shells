@@ -32,9 +32,6 @@ id out_path m3u8_path out_time m3u8_time diff_seconds
 
 
 
-5952 /one/20220709/EDM2022.07.08.mp4 /encry/vd/20250716/ODkzNzY3ODFm/193807/1280_720/aac/h264/hls/decrypt/index.m3u8 01:27:20.85 01:07:47.80 1173.050
-7634 /one/20220922/aoteman-8.mp4 /encry/vd/20250716/ZDBjMzcxY2Q4Y/172550/1920_1080/aac/h264/hls/decrypt/index.m3u8 00:26:17.10 00:19:22.43 414.670
-8634 /one/20221222/bananafever.melody.marks.2.part.1.mp4 /encry/vd/20250716/OTU3YTQ2YzNiZ/213525/1920_1080/aac/h264/hls/decrypt/index.m3u8 00:35:11.69 00:31:06.38 245.310
 10059 /one/20230319/CuiMianZhenSuo.mp4 /encry/vd/20250716/YjM2YTczMTU4/193311/1920_1080/aac/h264/hls/decrypt/index.m3u8 01:21:20.74 00:24:22.13 3418.610
 12519 /one/20230911/Fc2ppv-1849599.mp4 /encry/vd/20250716/N2I4MTE5OTBlN2/210841/1920_1080/aac/h264/hls/decrypt/index.m3u8 01:15:31.16 00:56:42.04 1129.120
 16853 /one/20240418/SPSB-078-C.mp4 /encry/vd/20250814/MDY0Njc1YTVmYmI/054916/1920_1080/aac/h264/hls/decrypt/index.m3u8 01:31:16.18 01:28:15.96 180.220
@@ -56,6 +53,9 @@ id out_path m3u8_path out_time m3u8_time diff_seconds
 # 完成替换 23784 /one/20241001/Mollyflwers-2.mp4 /encry/vd/20250820/NTZiNWY1YjZjMm/163331/1920_1080/aac/h264/hls/decrypt/index.m3u8 05:50:28.70 02:14:56.87 12931.830
 # 视频损坏 8227 /one/20250713/FC2-3119569-C.mp4 /encry/vd/20250716/YWNmNTE1MGVkO/164820/1920_1080/aac/h264/hls/decrypt/index.m3u8 01:48:32.14 01:39:42.99 529.150
 # 完成替换 10018 /one/20230317/MEYD-801.mp4 /encry/vd/20250716/ZDU0ODcwZWYxNW/174403/1920_1080/aac/h264/hls/decrypt/index.m3u8 02:00:18.64 00:18:58.10 6080.540
+# 完成替换 5952 /one/20220709/EDM2022.07.08.mp4 /encry/vd/20250716/ODkzNzY3ODFm/193807/1280_720/aac/h264/hls/decrypt/index.m3u8 01:27:20.85 01:07:47.80 1173.050
+# 完成替换  7634 /one/20220922/aoteman-8.mp4 /encry/vd/20250716/ZDBjMzcxY2Q4Y/172550/1920_1080/aac/h264/hls/decrypt/index.m3u8 00:26:17.10 00:19:22.43 414.670
+# 完成替换 8634 /one/20221222/bananafever.melody.marks.2.part.1.mp4 /encry/vd/20250716/OTU3YTQ2YzNiZ/213525/1920_1080/aac/h264/hls/decrypt/index.m3u8 00:35:11.69 00:31:06.38 245.310
 
 
 
