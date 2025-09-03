@@ -1,15 +1,13 @@
 ## one h265 mp4 视频差异
 id out_path comp_path out_time comp_time diff_seconds
+33945 /one/20250623/20250616_xiaotong_246992225_1.mp4 /one/compress/decry/vd/20250718/YWRkYzc0YzRiZGU/034751/720_1280/aac/h265/mp4/decrypt/mI0M.mp4 01:04:36.78 00:39:47.41 1489.370
 
 
 
 8634 /one/20221222/bananafever.melody.marks.2.part.1.mp4 /one/compress/decry/vd/20250716/OTU3YTQ2YzNiZ/213525/1920_1080/aac/h265/mp4/decrypt/WJlN.mp4 00:35:11.69 00:22:07.19 784.500
-10018 /one/20230317/MEYD-801.mp4 /one/compress/decry/vd/20250716/ZDU0ODcwZWYxNW/174403/1920_1080/aac/h265/mp4/decrypt/WZlN.mp4 02:00:18.64 00:30:01.49 5417.150
 17629 /one/20240510/ganmeneishe0510.mp4 /one/compress/decry/vd/20250807/ZDExYTY2NDdhOTN/090314/1920_1080/aac/h265/mp4/decrypt/DgwY.mp4 00:15:33.10 02:00:38.91 6305.810
 21826 /one/20240803/zuihouyiquan2024.HD.1080P.mp4 /one/compress/decry/vd/20250808/NTQ2YmZjMTQ0/031107/1920_800/aac/h265/mp4/decrypt/jg3Y.mp4 01:51:26.50 01:47:11.46 255.040
 33941 /one/20250623/sex20250606_007xiaojiaoqi_1783906158_1.mp4 /one/compress/decry/vd/20250808/ZDc3NTM0ZDFhN/075645/720_1280/aac/h265/mp4/decrypt/WQ3N.mp4 01:54:37.86 02:48:56.96 3259.100
-33944 /one/20250623/20250617_xiaotong_246992225_1.mp4 /one/compress/decry/vd/20250808/N2I3ZDYzMzc5MDU/080520/720_1280/aac/h265/mp4/decrypt/2QyZ.mp4 00:58:44.77 01:08:48.23 603.460
-33945 /one/20250623/20250616_xiaotong_246992225_1.mp4 /one/compress/decry/vd/20250718/YWRkYzc0YzRiZGU/034751/720_1280/aac/h265/mp4/decrypt/mI0M.mp4 01:04:36.78 00:39:47.41 1489.370
 # 完成 4973 /one/HEYZO-2779.mp4 /one/compress/decry/vd/20250716/NmY4MGQzYzc2/183849/1280_720/aac/h265/mp4/decrypt/WQ4Z.mp4 00:55:00.62 00:32:48.22 1332.400
 # 完成 7292 /one/20220922/Hmn249.mp4 /one/compress/decry/vd/20250716/NDEyY2ZjNjIxM/170020/1920_1080/aac/h265/mp4/decrypt/TQxY.mp4 02:34:35.67 00:36:39.76 7075.910
 # 完成替换 4084 /one/WAAA-145.mp4 /one/compress/decry/vd/20250716/NDQ2MmQ5NjViN/164425/1280_720/aac/h265/mp4/decrypt/GRiZ.mp4 02:03:52.62 01:06:03.85 3468.770
@@ -23,6 +21,10 @@ id out_path comp_path out_time comp_time diff_seconds
 # 完成替换 23784 /one/20241001/Mollyflwers-2.mp4 /one/compress/decry/vd/20250820/NTZiNWY1YjZjMm/163331/1920_1080/aac/h265/mp4/decrypt/zZlN.mp4 05:50:28.70 02:14:56.93 12931.770
 # 运营替换其他 23546 /one/20241001/Mollyflwers-1.mp4 /one/compress/decry/vd/20250820/OTVjNzcyYTFlMTJ/220452/1920_1080/aac/h265/mp4/decrypt/GQ4Y.mp4 06:11:43.90 04:25:34.05 6369.850
 # 视频损坏 8227 /one/20250713/FC2-3119569-C.mp4 /encry/vd/20250716/YWNmNTE1MGVkO/164820/1920_1080/aac/h264/hls/decrypt/index.m3u8 01:48:32.14 01:39:42.99 529.150
+# 完成替换 10018 /one/20230317/MEYD-801.mp4 /one/compress/decry/vd/20250716/ZDU0ODcwZWYxNW/174403/1920_1080/aac/h265/mp4/decrypt/WZlN.mp4 02:00:18.64 00:30:01.49 5417.150
+# 视频损坏 33944 /one/20250623/20250617_xiaotong_246992225_1.mp4 /one/compress/decry/vd/20250808/N2I3ZDYzMzc5MDU/080520/720_1280/aac/h265/mp4/decrypt/2QyZ.mp4 00:58:44.77 01:08:48.23 603.460
+
+
 
 ## one h264 m3u8 视频差异
 id out_path m3u8_path out_time m3u8_time diff_seconds
@@ -33,7 +35,6 @@ id out_path m3u8_path out_time m3u8_time diff_seconds
 5952 /one/20220709/EDM2022.07.08.mp4 /encry/vd/20250716/ODkzNzY3ODFm/193807/1280_720/aac/h264/hls/decrypt/index.m3u8 01:27:20.85 01:07:47.80 1173.050
 7634 /one/20220922/aoteman-8.mp4 /encry/vd/20250716/ZDBjMzcxY2Q4Y/172550/1920_1080/aac/h264/hls/decrypt/index.m3u8 00:26:17.10 00:19:22.43 414.670
 8634 /one/20221222/bananafever.melody.marks.2.part.1.mp4 /encry/vd/20250716/OTU3YTQ2YzNiZ/213525/1920_1080/aac/h264/hls/decrypt/index.m3u8 00:35:11.69 00:31:06.38 245.310
-10018 /one/20230317/MEYD-801.mp4 /encry/vd/20250716/ZDU0ODcwZWYxNW/174403/1920_1080/aac/h264/hls/decrypt/index.m3u8 02:00:18.64 00:18:58.10 6080.540
 10059 /one/20230319/CuiMianZhenSuo.mp4 /encry/vd/20250716/YjM2YTczMTU4/193311/1920_1080/aac/h264/hls/decrypt/index.m3u8 01:21:20.74 00:24:22.13 3418.610
 12519 /one/20230911/Fc2ppv-1849599.mp4 /encry/vd/20250716/N2I4MTE5OTBlN2/210841/1920_1080/aac/h264/hls/decrypt/index.m3u8 01:15:31.16 00:56:42.04 1129.120
 16853 /one/20240418/SPSB-078-C.mp4 /encry/vd/20250814/MDY0Njc1YTVmYmI/054916/1920_1080/aac/h264/hls/decrypt/index.m3u8 01:31:16.18 01:28:15.96 180.220
@@ -54,6 +55,7 @@ id out_path m3u8_path out_time m3u8_time diff_seconds
 # 完成替换 8819 /one/20230103/JingYuEr.mp4 /encry/vd/20250807/NjZiZWFhNTVh/225224/1080_1080/aac/h264/hls/decrypt/index.m3u8 05:00:19.78 01:55:08.17 11111.610
 # 完成替换 23784 /one/20241001/Mollyflwers-2.mp4 /encry/vd/20250820/NTZiNWY1YjZjMm/163331/1920_1080/aac/h264/hls/decrypt/index.m3u8 05:50:28.70 02:14:56.87 12931.830
 # 视频损坏 8227 /one/20250713/FC2-3119569-C.mp4 /encry/vd/20250716/YWNmNTE1MGVkO/164820/1920_1080/aac/h264/hls/decrypt/index.m3u8 01:48:32.14 01:39:42.99 529.150
+# 完成替换 10018 /one/20230317/MEYD-801.mp4 /encry/vd/20250716/ZDU0ODcwZWYxNW/174403/1920_1080/aac/h264/hls/decrypt/index.m3u8 02:00:18.64 00:18:58.10 6080.540
 
 
 
