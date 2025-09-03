@@ -197,6 +197,8 @@ tmux new-session -d -s d6-20 'cd /home/www/shells/command; sh d6-20.sh >> /home/
 tmux ls;
 
 
+
+
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
 cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
 cd /home/www/shells/;
