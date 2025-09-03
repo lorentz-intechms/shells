@@ -26,6 +26,8 @@ id out_path comp_path out_time comp_time diff_seconds
 
 
 
+
+
 ## one h264 m3u8 视频差异
 id out_path m3u8_path out_time m3u8_time diff_seconds
 33945 /one/20250623/20250616_xiaotong_246992225_1.mp4 /encry/vd/20250718/YWRkYzc0YzRiZGU/034751/720_1280/aac/h264/hls/decrypt/index.m3u8 01:04:36.78 00:47:10.83 1045.950
