@@ -33,6 +33,7 @@ tmux ls;
 
 
 
+
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
 cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
 cd /home/www/shells/;
@@ -279,7 +280,7 @@ tmux new-session -d -s x0004 'cd /home/www/conversion-api-koa/; sh shells/003_00
 
 
 
-split -n l/140 16-0830.sh part_
+split -n l/140 01-0901.sh part_
 
 
 group=1
