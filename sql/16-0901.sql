@@ -18,7 +18,7 @@ ORDER BY cv.id ASC;
 
 SELECT
 CONCAT(
-    'cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --app_user_name="one_auto_01" ', 
+    'cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --app_user_name="one_auto_11" ', 
     '--id=', 
     cv.id, 
     ' --url="https://vdmk.mfpt8g.com',
