@@ -1,0 +1,1 @@
+cd /home/www/conversion-api-koa; sudo FFMPEG_BIN="./bin/ffmpeg-tencent" node bin/main.js NonethVideo16Command --app_id=16 --app_user_name="one_auto_11" --id=28018 --url="https://vdmk.mfpt8g.com/one/20240803/naoshizhitu2024_sample.mp4" --filename="28018.mp4" ; # id=28018, filename=28018.mp4 title=2024年动作喜剧悬疑《闹事之徒》BD中英双字, encrypt_path=, path=
