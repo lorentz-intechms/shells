@@ -52,8 +52,10 @@ ORDER BY cv.id ASC;
 
 SELECT
 CONCAT(
-    'curl -o /dev/null -s -w', 
-    ' "https://vdmk.mfpt8g.com',
+    'curl -o /dev/null -I -s -w', 
+    ' "',
+    cv.id,  
+    ' https://vdmk.mfpt8g.com',
     download_path,
     '  %{http_code}\\n"', 
     ' https://vdmk.mfpt8g.com',
@@ -66,3 +68,6 @@ FROM `one_content_videos` AS cv LEFT JOIN `one_contents` AS c
 ON cv.content_id = c.id
 WHERE cv.type IN ('main', 'preview') AND cv.path NOT REGEXP '/aac/h264/hls/' AND c.status = 1;
 ORDER BY cv.id ASC;
+
+
+
