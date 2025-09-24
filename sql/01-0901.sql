@@ -30,4 +30,4 @@ WHERE CAST(d1.resolution AS UNSIGNED) = (
 ) AS vd
  ON vv.id = vd.vurl_id
 WHERE vd.path NOT REGEXP '/aac/h264/hls/' AND v.d_hide = 0 AND v.d_status = 1
-ORDER BY vv.id ASC LIMIT 0, 500000;
+ORDER BY vv.id ASC LIMIT 0, 1000000;
