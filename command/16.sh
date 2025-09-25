@@ -175,7 +175,6 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 /home/www/resource/one/20240325/1sdsi016_dmb_w.mp4
 /home/www/resource/one/20240325/opud00349_mhb_w.mp4
 /home/www/resource/one/20240328/n1032-C_sample.mp4
-/home/www/resource/one/20240401/n0495-C_sample.mp4
 /home/www/resource/one/20240327/mdbk328hhb.mp4
 /home/www/resource/one/20240406/rki00665hhb.mp4
 /home/www/resource/one/20240408/deeper.24.04.04.lilly.bell.over.thinking.xxx_sample.mp4
@@ -215,10 +214,7 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 /home/www/resource/one/20240325/1sdsi016_dmb_w.mp4
 /home/www/resource/one/20240325/opud00349_mhb_w.mp4
 /home/www/resource/one/20240328/n1032-C_sample.mp4
-/home/www/resource/one/20240401/n0495-C_sample.mp4
-/home/www/resource/one/20240327/mdbk328hhb.mp4
 /home/www/resource/one/20240406/rki00665hhb.mp4
-/home/www/resource/one/20240408/deeper.24.04.04.lilly.bell.over.thinking.xxx_sample.mp4
 /home/www/resource/one/20240413/Hail.the.Judge.1994_sample.mp4
 /home/www/resource/one/20240414/XRMM-001_sample.mp4
 /home/www/resource/one/20240414/WTCHDB-0415_sample.mp4
@@ -265,11 +261,11 @@ video_content.id 错误URL 状态码 正确URL
 18457 https://vdmk.mfpt8g.com/one/20240327/opud00349_mhb_w.mp4  404
 18493 https://vdmk.mfpt8g.com/one/20220828/n1032-C_sample.mp4  404
 18501 https://vdmk.mfpt8g.com/one/20240328/juq00614hhb.mp4  404
-18674 https://vdmk.mfpt8g.com/one/20240304/n0495-C_sample.mp4  404
-18768 https://vdmk.mfpt8g.com/one/20240401/mdbk328hhb.mp4  404
+18674 https://vdmk.mfpt8g.com/one/20240304/n0495-C_sample.mp4  404          /home/www/resource/one/20240401/n0495-C_sample.mp4
+18768 https://vdmk.mfpt8g.com/one/20240401/mdbk328hhb.mp4  404             /home/www/resource/one/20240327/mdbk328hhb.mp4
 18851 https://vdmk.mfpt8g.com/one/20240403/ipbz00005_mhb_w.mp4  404
 19120 https://vdmk.mfpt8g.com/one/20240404/rki00665hhb.mp4  404
-19150 https://vdmk.mfpt8g.com/one/20240406/deeper.24.04.04.lilly.bell.over.thinking.xxx_sample.mp4  404
+19150 https://vdmk.mfpt8g.com/one/20240406/deeper.24.04.04.lilly.bell.over.thinking.xxx_sample.mp4  404    /home/www/resource/one/20240408/deeper.24.04.04.lilly.bell.over.thinking.xxx_sample.mp4
 19622 https://vdmk.mfpt8g.com/one/20240415/Hail.the.Judge.1994_sample.mp4  404
 19639 https://vdmk.mfpt8g.com/one/20240415/XRMM-001_sample.mp4  404
 19645 https://vdmk.mfpt8g.com/one/20240415/WTCHDB-0415_sample.mp4  404
