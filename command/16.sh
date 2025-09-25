@@ -212,11 +212,7 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 
 
 
-/home/www/resource/one/20220802/HongKongDollOnlyFans_23fix3.mp4
 /home/www/resource/one/20240108/Dype-001-HaiXuan-sample.mp4
-/home/www/resource/one/20240304/juq00408mhb.mp4
-/home/www/resource/one/20240313/dass00359hhb.mp4
-/home/www/resource/one/20250313/dass00359hhb.mp4
 /home/www/resource/one/20240313/gvh633hhb.mp4
 /home/www/resource/one/20240313/ipit00038_mhb_w.mp4
 /home/www/resource/one/20240313/juq00387mhb.mp4
@@ -260,9 +256,9 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 video_content.id 错误URL 状态码 正确URL  
 2227 https://vdmk.mfpt8g.com/one/20240631/HongKongDollOnlyFans_23fix3.mp4  404  /one/20220802/HongKongDollOnlyFans_23fix3.mp4
 16110 https://vdmk.mfpt8g.com/20240108/Dype-001-HaiXuan-sample.mp4  404  one/20240108/Dype-001-HaiXuan-sample.mp4
-17296 https://vdmk.mfpt8g.com/one/20240305/juq00408mhb.mp4  404
-17655 https://vdmk.mfpt8g.com/one/20230313/dass00359hhb.mp4  404
-17657 https://vdmk.mfpt8g.com/one/20230313/gvh633hhb.mp4  404
+17296 https://vdmk.mfpt8g.com/one/20240305/juq00408mhb.mp4  404          /home/www/resource/one/20240304/juq00408mhb.mp4
+17655 https://vdmk.mfpt8g.com/one/20230313/dass00359hhb.mp4  404          /home/www/resource/one/20240313/dass00359hhb.mp4
+17657 https://vdmk.mfpt8g.com/one/20230313/gvh633hhb.mp4  404 
 17659 https://vdmk.mfpt8g.com/one/20230313/ipit00038_mhb_w.mp4  404
 17667 https://vdmk.mfpt8g.com/one/20230313/juq00387mhb.mp4  404
 17684 https://vdmk.mfpt8g.com/one/20230313/1rctd582hhbs.mp4  404
