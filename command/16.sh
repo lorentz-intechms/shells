@@ -170,9 +170,6 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 /home/www/resource/one/20240313/gvh633hhb.mp4
 /home/www/resource/one/20240313/ipit00038_mhb_w.mp4
 /home/www/resource/one/20240313/juq00387mhb.mp4
-/home/www/resource/one/20240313/1rctd582hhbs.mp4
-/home/www/resource/one/20240320/juq00485mhb.mp4
-/home/www/resource/one/20240325/1sdsi004_dmb_w.mp4
 /home/www/resource/one/20240325/1sdsi008_dmb_w.mp4
 /home/www/resource/one/20240325/1sdsi012_dmb_w.mp4
 /home/www/resource/one/20240325/1sdsi016_dmb_w.mp4
@@ -204,7 +201,6 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 /home/www/resource/one/20250413/STARS-947-UC_sample.mp4
 /home/www/resource/one/20250313/200gana-2781.mp4
 /home/www/resource/one/20250413/FC2PPV-4665246-sample.mp4
-/home/www/resource/one/20250320/suchanglulu0428-sample.mp4
 
 
 
@@ -213,12 +209,7 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 
 
 /home/www/resource/one/20240108/Dype-001-HaiXuan-sample.mp4
-/home/www/resource/one/20240313/gvh633hhb.mp4
-/home/www/resource/one/20240313/ipit00038_mhb_w.mp4
 /home/www/resource/one/20240313/juq00387mhb.mp4
-/home/www/resource/one/20240313/1rctd582hhbs.mp4
-/home/www/resource/one/20240320/juq00485mhb.mp4
-/home/www/resource/one/20240325/1sdsi004_dmb_w.mp4
 /home/www/resource/one/20240325/1sdsi008_dmb_w.mp4
 /home/www/resource/one/20240325/1sdsi012_dmb_w.mp4
 /home/www/resource/one/20240325/1sdsi016_dmb_w.mp4
@@ -250,7 +241,6 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 /home/www/resource/one/20250413/STARS-947-UC_sample.mp4
 /home/www/resource/one/20250313/200gana-2781.mp4
 /home/www/resource/one/20250413/FC2PPV-4665246-sample.mp4
-/home/www/resource/one/20250320/suchanglulu0428-sample.mp4
 
 
 video_content.id 错误URL 状态码 正确URL  
@@ -258,16 +248,16 @@ video_content.id 错误URL 状态码 正确URL
 16110 https://vdmk.mfpt8g.com/20240108/Dype-001-HaiXuan-sample.mp4  404  one/20240108/Dype-001-HaiXuan-sample.mp4
 17296 https://vdmk.mfpt8g.com/one/20240305/juq00408mhb.mp4  404          /home/www/resource/one/20240304/juq00408mhb.mp4
 17655 https://vdmk.mfpt8g.com/one/20230313/dass00359hhb.mp4  404          /home/www/resource/one/20240313/dass00359hhb.mp4
-17657 https://vdmk.mfpt8g.com/one/20230313/gvh633hhb.mp4  404 
-17659 https://vdmk.mfpt8g.com/one/20230313/ipit00038_mhb_w.mp4  404
+17657 https://vdmk.mfpt8g.com/one/20230313/gvh633hhb.mp4  404             /home/www/resource/one/20240313/gvh633hhb.mp4
+17659 https://vdmk.mfpt8g.com/one/20230313/ipit00038_mhb_w.mp4  404      /home/www/resource/one/20240313/ipit00038_mhb_w.mp4
 17667 https://vdmk.mfpt8g.com/one/20230313/juq00387mhb.mp4  404
-17684 https://vdmk.mfpt8g.com/one/20230313/1rctd582hhbs.mp4  404
+17684 https://vdmk.mfpt8g.com/one/20230313/1rctd582hhbs.mp4  404           /home/www/resource/one/20240313/1rctd582hhbs.mp4
 17762 https://vdmk.mfpt8g.com/one/20240315/midv00664_sm.mp4  404
-17932 https://vdmk.mfpt8g.com/one/20240319/juq00485mhb.mp4  404
+17932 https://vdmk.mfpt8g.com/one/20240319/juq00485mhb.mp4  404           /home/www/resource/one/20240320/juq00485mhb.mp4
 17952 https://vdmk.mfpt8g.com/one/20240321/abf-083_20240206T171801.mp4  404
 18276 https://vdmk.mfpt8g.com/one/20240326/HJ-20240325_sample.mp4  404
 18280 https://vdmk.mfpt8g.com/one/20240326/EDM2023.09.04_sample.mp4  404
-18344 https://vdmk.mfpt8g.com/one/20240323/1sdsi004_dmb_w.mp4  404
+18344 https://vdmk.mfpt8g.com/one/20240323/1sdsi004_dmb_w.mp4  404         /home/www/resource/one/20240325/1sdsi004_dmb_w.mp4
 18346 https://vdmk.mfpt8g.com/one/20240323/1sdsi008_dmb_w.mp4  404
 18348 https://vdmk.mfpt8g.com/one/20240323/1sdsi012_dmb_w.mp4  404
 18350 https://vdmk.mfpt8g.com/one/20240323/1sdsi016_dmb_w.mp4  404
@@ -340,7 +330,7 @@ video_content.id 错误URL 状态码 正确URL
 43977 https://vdmk.mfpt8g.com/one/20250413/DEEPER_105422_720P.mp4  404
 44045 https://vdmk.mfpt8g.com/one/20250413/FC2PPV-4662664.mp4-sample.mp4  404
 44797 https://vdmk.mfpt8g.com/one/20250423/SONE-707-U_sample.mp4  404
-45361 https://vdmk.mfpt8g.com/one/20250423/suchanglulu0428-sample.mp4  404
+45361 https://vdmk.mfpt8g.com/one/20250423/suchanglulu0428-sample.mp4  404   /home/www/resource/one/20250320/suchanglulu0428-sample.mp4
 45845 https://vdmk.mfpt8g.com/one/20250713/FC2-1564054-C_sample.mp4  404
 46031 https://vdmk.mfpt8g.com/one/20250423/EDEA-597_sample.mp4  404
 46120 https://vdmk.mfpt8g.com/one/20250423/TUSHY_105476_720P.mp4  404
