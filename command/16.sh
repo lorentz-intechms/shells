@@ -184,7 +184,6 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 /home/www/resource/one/20240417/jufe00213_dmb_w.mp4
 /home/www/resource/one/20240418/lifeselector.2024.matty.mila.perez.once.a.pornstar.always.a.pornstar.xxx_sample.mp4
 /home/www/resource/one/20240429/hmn00463mhb.mp4
-/home/www/resource/one/20240515/1711437562_20240514_205707_sample.mp4
 /home/www/resource/one/20240615/EDEA-482_sample.mp4
 /home/www/resource/one/20240615/kittyxkum-2024.06.17_sample.mp4
 /home/www/resource/one/20241221/122377bandage1223-sample.mp4
@@ -207,18 +206,12 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 /home/www/resource/one/20240313/juq00387mhb.mp4
 /home/www/resource/one/20240325/1sdsi008_dmb_w.mp4
 /home/www/resource/one/20240325/1sdsi012_dmb_w.mp4
-/home/www/resource/one/20240325/opud00349_mhb_w.mp4
-/home/www/resource/one/20240328/n1032-C_sample.mp4
 /home/www/resource/one/20240406/rki00665hhb.mp4
 /home/www/resource/one/20240413/Hail.the.Judge.1994_sample.mp4
-/home/www/resource/one/20240414/WTCHDB-0415_sample.mp4
 /home/www/resource/one/20140416/cuck4k.24.03.26.lexi.luv_sample.mp4
-/home/www/resource/one/20240417/jufe00213_dmb_w.mp4
 /home/www/resource/one/20240418/lifeselector.2024.matty.mila.perez.once.a.pornstar.always.a.pornstar.xxx_sample.mp4
 /home/www/resource/one/20240429/hmn00463mhb.mp4
-/home/www/resource/one/20240515/1711437562_20240514_205707_sample.mp4
 /home/www/resource/one/20240615/kittyxkum-2024.06.17_sample.mp4
-/home/www/resource/one/20250120/012125_001-1PON.mp4
 /home/www/resource/one/20250213/Carib-20220429-001-sample.mp4
 /home/www/resource/one/20250220/Fc2ppv-4630559-sample.mp4
 /home/www/resource/one/20250203/EDEA-573_sample.mp4
@@ -245,8 +238,8 @@ video_content.id 错误URL 状态码 正确URL
 18348 https://vdmk.mfpt8g.com/one/20240323/1sdsi012_dmb_w.mp4  404
 18350 https://vdmk.mfpt8g.com/one/20240323/1sdsi016_dmb_w.mp4  404         /home/www/resource/one/20240325/1sdsi016_dmb_w.mp4
 18382 https://vdmk.mfpt8g.com/one/20240325/adn00179_dmb_w.mp4  404
-18457 https://vdmk.mfpt8g.com/one/20240327/opud00349_mhb_w.mp4  404
-18493 https://vdmk.mfpt8g.com/one/20220828/n1032-C_sample.mp4  404
+18457 https://vdmk.mfpt8g.com/one/20240327/opud00349_mhb_w.mp4  404        /home/www/resource/one/20240325/opud00349_mhb_w.mp4
+18493 https://vdmk.mfpt8g.com/one/20220828/n1032-C_sample.mp4  404       /home/www/resource/one/20240328/n1032-C_sample.mp4
 18501 https://vdmk.mfpt8g.com/one/20240328/juq00614hhb.mp4  404
 18674 https://vdmk.mfpt8g.com/one/20240304/n0495-C_sample.mp4  404          /home/www/resource/one/20240401/n0495-C_sample.mp4
 18768 https://vdmk.mfpt8g.com/one/20240401/mdbk328hhb.mp4  404             /home/www/resource/one/20240327/mdbk328hhb.mp4
@@ -255,9 +248,9 @@ video_content.id 错误URL 状态码 正确URL
 19150 https://vdmk.mfpt8g.com/one/20240406/deeper.24.04.04.lilly.bell.over.thinking.xxx_sample.mp4  404    /home/www/resource/one/20240408/deeper.24.04.04.lilly.bell.over.thinking.xxx_sample.mp4
 19622 https://vdmk.mfpt8g.com/one/20240415/Hail.the.Judge.1994_sample.mp4  404
 19639 https://vdmk.mfpt8g.com/one/20240415/XRMM-001_sample.mp4  404         /home/www/resource/one/20240414/XRMM-001_sample.mp4
-19645 https://vdmk.mfpt8g.com/one/20240415/WTCHDB-0415_sample.mp4  404
+19645 https://vdmk.mfpt8g.com/one/20240415/WTCHDB-0415_sample.mp4  404       /home/www/resource/one/20240414/WTCHDB-0415_sample.mp4
 19798 https://vdmk.mfpt8g.com/one/20240416/cuck4k.24.03.26.lexi.luv_sample.mp4  404
-19970 https://vdmk.mfpt8g.com/one/20240417jufe00213_dmb_w.mp4  404
+19970 https://vdmk.mfpt8g.com/one/20240417jufe00213_dmb_w.mp4  404          /home/www/resource/one/20240417/jufe00213_dmb_w.mp4
 20011 https://vdmk.mfpt8g.com/one/20240417/lifeselector.2024.matty.mila.perez.once.a.pornstar.always.a.pornstar.xxx_sample.mp4  404
 20345 https://vdmk.mfpt8g.com/one/20240424/jul00647_dmb_w.mp4  404
 20365 https://vdmk.mfpt8g.com/one/20240423/hmn00057_mhb_w.mp4  404
@@ -271,7 +264,7 @@ video_content.id 错误URL 状态码 正确URL
 21135 https://vdmk.mfpt8g.com/one/20240503/moshouwaigouCP-004_sample.mp4  404
 21137 https://vdmk.mfpt8g.com/one/20240503/moshouwaigouCP-005_sample.mp4  404
 21379 https://vdmk.mfpt8g.com/one/20240503/chaodi20240509_sample.mp4  404
-21915 https://vdmk.mfpt8g.com/one/20240503/1711437562_20240514_205707_sample.mp4  404
+21915 https://vdmk.mfpt8g.com/one/20240503/1711437562_20240514_205707_sample.mp4  404   /home/www/resource/one/20240515/1711437562_20240514_205707_sample.mp4
 22071 https://vdmk.mfpt8g.com/one/20240520/LiuYiFei-AI-240520-sample.mp4  404
 23055 https://vdmk.mfpt8g.com/one/20240503/FLCZYCXL-18_sample.mp4  404
 23096 https://vdmk.mfpt8g.com/one/20240524/blacked.23.10.07.summer.jones.naughty.wifey.summer.gets.the.bbc.dp.of.her.dreams.xxx_sample.mp4  404
@@ -290,7 +283,7 @@ video_content.id 错误URL 状态码 正确URL
 34823 https://vdmk.mfpt8g.com/one/20241103/EBWH-155-UC_sample.mp4  404
 36705 https://vdmk.mfpt8g.com/20241221/122377bandage1223-sample.mp4  404        /home/www/resource/one/20241221/122377bandage1223-sample.mp4
 36893 https://vdmk.mfpt8g.com/one/20241223/onlyfans.23.05.30.slimsclubhousepov.welcome.2.poundtown.emily.jade.xxx_sample.mp4  404
-38026 https://vdmk.mfpt8g.com/one/20250123/012125_001-1PON.mp4  404
+38026 https://vdmk.mfpt8g.com/one/20250123/012125_001-1PON.mp4  404          /home/www/resource/one/20250120/012125_001-1PON.mp4
 38392 https://vdmk.mfpt8g.com/one/20250123/FC2-4604507_sample.mp4  404
 38585 https://vdmk.mfpt8g.com/one/20250203/NPJS-135-U_sample.mp4  404
 38621 https://vdmk.mfpt8g.com/one/20250203/MIDA-037-U_sample.mp4  404
