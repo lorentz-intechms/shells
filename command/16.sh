@@ -172,7 +172,6 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 /home/www/resource/one/20240313/juq00387mhb.mp4
 /home/www/resource/one/20240325/1sdsi008_dmb_w.mp4
 /home/www/resource/one/20240325/1sdsi012_dmb_w.mp4
-/home/www/resource/one/20240325/1sdsi016_dmb_w.mp4
 /home/www/resource/one/20240325/opud00349_mhb_w.mp4
 /home/www/resource/one/20240328/n1032-C_sample.mp4
 /home/www/resource/one/20240327/mdbk328hhb.mp4
@@ -186,11 +185,8 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 /home/www/resource/one/20240418/lifeselector.2024.matty.mila.perez.once.a.pornstar.always.a.pornstar.xxx_sample.mp4
 /home/www/resource/one/20240429/hmn00463mhb.mp4
 /home/www/resource/one/20240515/1711437562_20240514_205707_sample.mp4
-/home/www/resource/one/20240615/diaochantanchang20240_sample.mp4
 /home/www/resource/one/20240615/EDEA-482_sample.mp4
 /home/www/resource/one/20240615/kittyxkum-2024.06.17_sample.mp4
-/home/www/resource/one/20240711/hanguoliuxuesheng20240717_sample.mp4
-/home/www/resource/one/20240803/nsfs00296hhb.mp4
 /home/www/resource/one/20241221/122377bandage1223-sample.mp4
 /home/www/resource/one/20250120/012125_001-1PON.mp4
 /home/www/resource/one/20250213/Carib-20220429-001-sample.mp4
@@ -211,31 +207,22 @@ wget https://vdmk.mfpt8g.com/one/20241103/IPZZ-416.mp4;
 /home/www/resource/one/20240313/juq00387mhb.mp4
 /home/www/resource/one/20240325/1sdsi008_dmb_w.mp4
 /home/www/resource/one/20240325/1sdsi012_dmb_w.mp4
-/home/www/resource/one/20240325/1sdsi016_dmb_w.mp4
 /home/www/resource/one/20240325/opud00349_mhb_w.mp4
 /home/www/resource/one/20240328/n1032-C_sample.mp4
 /home/www/resource/one/20240406/rki00665hhb.mp4
 /home/www/resource/one/20240413/Hail.the.Judge.1994_sample.mp4
-/home/www/resource/one/20240414/XRMM-001_sample.mp4
 /home/www/resource/one/20240414/WTCHDB-0415_sample.mp4
 /home/www/resource/one/20140416/cuck4k.24.03.26.lexi.luv_sample.mp4
 /home/www/resource/one/20240417/jufe00213_dmb_w.mp4
 /home/www/resource/one/20240418/lifeselector.2024.matty.mila.perez.once.a.pornstar.always.a.pornstar.xxx_sample.mp4
 /home/www/resource/one/20240429/hmn00463mhb.mp4
 /home/www/resource/one/20240515/1711437562_20240514_205707_sample.mp4
-/home/www/resource/one/20240615/diaochantanchang20240_sample.mp4
-/home/www/resource/one/20240615/EDEA-482_sample.mp4
 /home/www/resource/one/20240615/kittyxkum-2024.06.17_sample.mp4
-/home/www/resource/one/20240711/hanguoliuxuesheng20240717_sample.mp4
-/home/www/resource/one/20240803/nsfs00296hhb.mp4
-/home/www/resource/one/20241221/122377bandage1223-sample.mp4
 /home/www/resource/one/20250120/012125_001-1PON.mp4
 /home/www/resource/one/20250213/Carib-20220429-001-sample.mp4
 /home/www/resource/one/20250220/Fc2ppv-4630559-sample.mp4
 /home/www/resource/one/20250203/EDEA-573_sample.mp4
-/home/www/resource/one/20250224/QQTang-250225-sample.mp4
 /home/www/resource/one/20250413/STARS-947-UC_sample.mp4
-/home/www/resource/one/20250313/200gana-2781.mp4
 /home/www/resource/one/20250413/FC2PPV-4665246-sample.mp4
 
 
@@ -256,7 +243,7 @@ video_content.id 错误URL 状态码 正确URL
 18344 https://vdmk.mfpt8g.com/one/20240323/1sdsi004_dmb_w.mp4  404         /home/www/resource/one/20240325/1sdsi004_dmb_w.mp4
 18346 https://vdmk.mfpt8g.com/one/20240323/1sdsi008_dmb_w.mp4  404
 18348 https://vdmk.mfpt8g.com/one/20240323/1sdsi012_dmb_w.mp4  404
-18350 https://vdmk.mfpt8g.com/one/20240323/1sdsi016_dmb_w.mp4  404
+18350 https://vdmk.mfpt8g.com/one/20240323/1sdsi016_dmb_w.mp4  404         /home/www/resource/one/20240325/1sdsi016_dmb_w.mp4
 18382 https://vdmk.mfpt8g.com/one/20240325/adn00179_dmb_w.mp4  404
 18457 https://vdmk.mfpt8g.com/one/20240327/opud00349_mhb_w.mp4  404
 18493 https://vdmk.mfpt8g.com/one/20220828/n1032-C_sample.mp4  404
@@ -267,7 +254,7 @@ video_content.id 错误URL 状态码 正确URL
 19120 https://vdmk.mfpt8g.com/one/20240404/rki00665hhb.mp4  404
 19150 https://vdmk.mfpt8g.com/one/20240406/deeper.24.04.04.lilly.bell.over.thinking.xxx_sample.mp4  404    /home/www/resource/one/20240408/deeper.24.04.04.lilly.bell.over.thinking.xxx_sample.mp4
 19622 https://vdmk.mfpt8g.com/one/20240415/Hail.the.Judge.1994_sample.mp4  404
-19639 https://vdmk.mfpt8g.com/one/20240415/XRMM-001_sample.mp4  404
+19639 https://vdmk.mfpt8g.com/one/20240415/XRMM-001_sample.mp4  404         /home/www/resource/one/20240414/XRMM-001_sample.mp4
 19645 https://vdmk.mfpt8g.com/one/20240415/WTCHDB-0415_sample.mp4  404
 19798 https://vdmk.mfpt8g.com/one/20240416/cuck4k.24.03.26.lexi.luv_sample.mp4  404
 19970 https://vdmk.mfpt8g.com/one/20240417jufe00213_dmb_w.mp4  404
@@ -289,12 +276,11 @@ video_content.id 错误URL 状态码 正确URL
 23055 https://vdmk.mfpt8g.com/one/20240503/FLCZYCXL-18_sample.mp4  404
 23096 https://vdmk.mfpt8g.com/one/20240524/blacked.23.10.07.summer.jones.naughty.wifey.summer.gets.the.bbc.dp.of.her.dreams.xxx_sample.mp4  404
 23961 https://vdmk.mfpt8g.com/one/20240601/HEYZO-0919_sample.mp4  404
-24187 https://vdmk.mfpt8g.com/e/20240615/diaochantanchang20240_sample.mp4  404
-24287 https://vdmk.mfpt8g.com/one/20240615/EDEA-482_sample.mp4  200
+24187 https://vdmk.mfpt8g.com/e/20240615/diaochantanchang20240_sample.mp4  404        /home/www/resource/one/20240615/diaochantanchang20240_sample.mp4
 24300 https://vdmk.mfpt8g.com/20240615/kittyxkum-2024.06.17_sample.mp4  404
 25749 https://vdmk.mfpt8g.com/one/20240631/FC2-1604931_sample.mp4  404
-26424 https://vdmk.mfpt8g.com/ne/20240711/hanguoliuxuesheng20240717_sample.mp4  404
-27426 https://vdmk.mfpt8g.com/one/2024803/nsfs00296hhb.mp4  404
+26424 https://vdmk.mfpt8g.com/ne/20240711/hanguoliuxuesheng20240717_sample.mp4  404   /home/www/resource/one/20240711/hanguoliuxuesheng20240717_sample.mp4
+27426 https://vdmk.mfpt8g.com/one/2024803/nsfs00296hhb.mp4  404                        /home/www/resource/one/20240803/nsfs00296hhb.mp4
 28018 https://vdmk.mfpt8g.com/one/20240803/naoshizhitu2024_sample.mp4  404
 28277 https://vdmk.mfpt8g.com/one/20250103/baibai20250102_sample.mp4  404
 29928 https://vdmk.mfpt8g.com/one/20250713/FC2-4721461_sample.mp4  404
@@ -302,7 +288,7 @@ video_content.id 错误URL 状态码 正确URL
 31483 https://vdmk.mfpt8g.com/one/20240927/Mote-2-0928-sample.mp4  404
 34803 https://vdmk.mfpt8g.com/one/20241203/BLACKED_RAW_105120_sample.mp4  404
 34823 https://vdmk.mfpt8g.com/one/20241103/EBWH-155-UC_sample.mp4  404
-36705 https://vdmk.mfpt8g.com/20241221/122377bandage1223-sample.mp4  404
+36705 https://vdmk.mfpt8g.com/20241221/122377bandage1223-sample.mp4  404        /home/www/resource/one/20241221/122377bandage1223-sample.mp4
 36893 https://vdmk.mfpt8g.com/one/20241223/onlyfans.23.05.30.slimsclubhousepov.welcome.2.poundtown.emily.jade.xxx_sample.mp4  404
 38026 https://vdmk.mfpt8g.com/one/20250123/012125_001-1PON.mp4  404
 38392 https://vdmk.mfpt8g.com/one/20250123/FC2-4604507_sample.mp4  404
@@ -313,13 +299,13 @@ video_content.id 错误URL 状态码 正确URL
 39638 https://vdmk.mfpt8g.com/20250213/Carib-20220429-001-sample.mp4  404
 39784 https://vdmk.mfpt8g.com/20250220/Fc2ppv-4630559-sample.mp4  404
 40040 https://vdmk.mfpt8g.com/one/20250223/EDEA-573_sample.mp4  404
-40149 https://vdmk.mfpt8g.com/one/20250225/QQTang-250225-sample.mp4  404
+40149 https://vdmk.mfpt8g.com/one/20250225/QQTang-250225-sample.mp4  404         /home/www/resource/one/20250224/QQTang-250225-sample.mp4
 40563 https://vdmk.mfpt8g.com/one/20250223/20250223_sisi_389301434_sample.mp4  404
 40613 https://vdmk.mfpt8g.com/one/20250313/SSIS-165.mp4  404
 40614 https://vdmk.mfpt8g.com/one/20250313/SSIS-165.mp4  404
 40665 https://vdmk.mfpt8g.com/one/202503413/STARS-947-UC_sample.mp4  404
 40717 https://vdmk.mfpt8g.com/one/20250313/MIAB-104-U_sample.mp4  404
-41329 https://vdmk.mfpt8g.com/one/20250423/200gana-2781.mp4  404
+41329 https://vdmk.mfpt8g.com/one/20250423/200gana-2781.mp4  404          /home/www/resource/one/20250313/200gana-2781.mp4
 43697 https://vdmk.mfpt8g.com/20250413/FC2PPV-4665246-sample.mp4  404
 43719 https://vdmk.mfpt8g.com/one/20250413/AABF-219-U_sample.mp4  404
 43933 https://vdmk.mfpt8g.com/one/20250703/FC2-4719763_sample.mp4  404
