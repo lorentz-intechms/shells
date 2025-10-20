@@ -280,7 +280,7 @@ tmux new-session -d -s x0004 'cd /home/www/conversion-api-koa/; sh shells/003_00
 
 
 
-split -n l/140 16-0901.sh part_
+split -n l/80 1.sh part_
 
 
 group=1
