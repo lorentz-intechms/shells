@@ -1,6 +1,3 @@
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=240438 --url="https://download.eny7kg.com//videong.gxlzff.cn/20190920/10rwOIeD/index.m3u8" --filename="31526_HD720P中字_0.mp4"; #31526 0 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=240303 --url="https://download.eny7kg.com//videong.gxlzff.cn/20190923/QuLDXvU6/index.m3u8" --filename="31490_HD720P中字_0.mp4"; #31490 0 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=238921 --url="https://download.eny7kg.com//videong.gxlzff.cn/20190927/0k8VZyjB/index.m3u8" --filename="30897_HD720P中字_0.mp4"; #30897 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=302877 --url="https://download.eny7kg.com/20180622/tzKilUsR/index.m3u8" --filename="46748_HD720P中字_0.mp4"; #46748 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=403021 --url="https://download.eny7kg.com/20180904/Bib8bYLU/index.m3u8" --filename="58867_HD1080P中字_0.mp4"; #58867 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=402923 --url="https://download.eny7kg.com/20180904/CBx0660j/index.m3u8" --filename="58862_第01集_0.mp4"; #58862 1 480
