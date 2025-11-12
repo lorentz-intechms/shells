@@ -40528,127 +40528,7 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542295 --url="https://cdn5.hdzyk-video.com/20220603/21685_30807f32/index.m3u8" --filename="6427_第09集_16.mp4"; #6427 9 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=355301 --url="https://cdn5.yzzy-tv-cdn.com/20220518/16519_763023bc/index.m3u8" --filename="54216_HD_0.mp4"; #54216 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23601 --url="https://cdn5.yzzy-tv-cdn.com/20220605/22005_e4fe8660/index.m3u8" --filename="5839_第5期_4.mp4"; #5839 5 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=511215 --url="https://cdn6.hdzyk-cdn.com/20220818/10799_56cdde43/index.m3u8" --filename="15581_西班牙语中字_1.mp4"; #15581 0 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19861 --url="https://cdn6.hdzyk-cdn.com/20220924/17247_8ca3f8fd/index.m3u8" --filename="2982_第19集_18.mp4"; #2982 19 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19863 --url="https://cdn6.hdzyk-cdn.com/20221005/18555_53511312/index.m3u8" --filename="2982_第21集_20.mp4"; #2982 21 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19864 --url="https://cdn6.hdzyk-cdn.com/20221005/18556_825254e5/index.m3u8" --filename="2982_第22集_21.mp4"; #2982 22 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539560 --url="https://cdn6.hdzyk-cdn.com/20221008/18997_5c948c04/index.m3u8" --filename="4625_第1集_0.mp4"; #4625 1 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19865 --url="https://cdn6.hdzyk-cdn.com/20221008/19033_226996a2/index.m3u8" --filename="2982_第23集_22.mp4"; #2982 23 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19866 --url="https://cdn6.hdzyk-cdn.com/20221012/19366_61484ea3/index.m3u8" --filename="2982_第24集_23.mp4"; #2982 24 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540578 --url="https://cdn6.hdzyk-cdn.com/20221012/19436_714c7323/index.m3u8" --filename="4737_第03集_6.mp4"; #4737 3 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22860 --url="https://cdn6.hdzyk-cdn.com/20221015/20023_415d08a8/index.m3u8" --filename="4537_第1集_0.mp4"; #4537 1 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542539 --url="https://cdn6.hdzyk-video.com/20220626/1731_e5bb02ee/index.m3u8" --filename="6797_第25集_58.mp4"; #6797 25 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=471925 --url="https://cdn6.hdzyk-video.com/20220703/2660_66cc877a/index.m3u8" --filename="5695_第01集_1.mp4"; #5695 1 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542543 --url="https://cdn6.hdzyk-video.com/20220718/5040_eac5d965/index.m3u8" --filename="6797_第27集_62.mp4"; #6797 27 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542545 --url="https://cdn6.hdzyk-video.com/20220725/5588_a1b23b2f/index.m3u8" --filename="6797_第28集_64.mp4"; #6797 28 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542549 --url="https://cdn6.hdzyk-video.com/20220807/8865_c8867f0c/index.m3u8" --filename="6797_第30集_68.mp4"; #6797 30 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541861 --url="https://cdn6.hdzyk-video.com/20220811/9690_6663c8b8/index.m3u8" --filename="5579_第05集_7.mp4"; #5579 5 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542551 --url="https://cdn6.hdzyk-video.com/20220815/10461_f963c835/index.m3u8" --filename="6797_第31集_70.mp4"; #6797 31 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=467861 --url="https://cdn6.hdzyk-video.com/20220817/10717_00c5d247/index.m3u8" --filename="5221_第03集_5.mp4"; #5221 3 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541863 --url="https://cdn6.hdzyk-video.com/20220818/10897_90e1cf10/index.m3u8" --filename="5579_第06集_9.mp4"; #5579 6 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542553 --url="https://cdn6.hdzyk-video.com/20220822/11406_055fd471/index.m3u8" --filename="6797_第32集_72.mp4"; #6797 32 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=471375 --url="https://cdn6.hdzyk-video.com/20220823/11469_d284ac8a/index.m3u8" --filename="5640_第08集_15.mp4"; #5640 8 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=466543 --url="https://cdn6.hdzyk-video.com/20220831/12462_6bb09dbf/index.m3u8" --filename="5052_第03集_5.mp4"; #5052 3 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=466542 --url="https://cdn6.hdzyk-video.com/20220831/12463_28059ca1/index.m3u8" --filename="5052_第02集_3.mp4"; #5052 2 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=466541 --url="https://cdn6.hdzyk-video.com/20220831/12464_55a82f4b/index.m3u8" --filename="5052_第01集_1.mp4"; #5052 1 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=466544 --url="https://cdn6.hdzyk-video.com/20220904/12923_ac6908bb/index.m3u8" --filename="5052_第04集_7.mp4"; #5052 4 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=471377 --url="https://cdn6.hdzyk-video.com/20220906/13478_5f823640/index.m3u8" --filename="5640_第10集_19.mp4"; #5640 10 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=468200 --url="https://cdn6.hdzyk-video.com/20220908/14101_3f7aab9a/index.m3u8" --filename="5256_第12集_23.mp4"; #5256 12 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=468199 --url="https://cdn6.hdzyk-video.com/20220908/14102_6df688f6/index.m3u8" --filename="5256_第11集_21.mp4"; #5256 11 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=466545 --url="https://cdn6.hdzyk-video.com/20220911/14408_3379078a/index.m3u8" --filename="5052_第05集_9.mp4"; #5052 5 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=471378 --url="https://cdn6.hdzyk-video.com/20220912/14526_27b067e7/index.m3u8" --filename="5640_第11集_21.mp4"; #5640 11 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=468202 --url="https://cdn6.hdzyk-video.com/20220915/14713_5b5ea758/index.m3u8" --filename="5256_第14集_27.mp4"; #5256 14 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=468201 --url="https://cdn6.hdzyk-video.com/20220915/14714_efcd4564/index.m3u8" --filename="5256_第13集_25.mp4"; #5256 13 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=465190 --url="https://cdn6.hdzyk-video.com/20220920/16303_c18ecdbb/index.m3u8" --filename="4842_第01集_1.mp4"; #4842 1 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=470812 --url="https://cdn6.hdzyk-video.com/20220924/17206_2403172c/index.m3u8" --filename="5591_第12集_23.mp4"; #5591 12 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464813 --url="https://cdn6.hdzyk-video.com/20220924/17209_c00e1e22/index.m3u8" --filename="4782_第01集_1.mp4"; #4782 1 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=465209 --url="https://cdn6.hdzyk-video.com/20220927/17916_3c687eed/index.m3u8" --filename="4843_第02集_3.mp4"; #4843 2 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=467867 --url="https://cdn6.hdzyk-video.com/20220928/17967_a7b8a0df/index.m3u8" --filename="5221_第09集_17.mp4"; #5221 9 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540943 --url="https://cdn6.hdzyk-video.com/20220929/18121_b6549c71/index.m3u8" --filename="4805_第02集_3.mp4"; #4805 2 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=470813 --url="https://cdn6.hdzyk-video.com/20221001/18272_8b50cc88/index.m3u8" --filename="5591_第13集_26.mp4"; #5591 13 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541301 --url="https://cdn6.hdzyk-video.com/20221002/18373_d96c8e2f/index.m3u8" --filename="4947_第05集_10.mp4"; #4947 5 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=465192 --url="https://cdn6.hdzyk-video.com/20221004/18506_08e9ae80/index.m3u8" --filename="4842_第03集_5.mp4"; #4842 3 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540112 --url="https://cdn6.hdzyk-video.com/20221004/18509_7f6be35c/index.m3u8" --filename="4693_第02集_3.mp4"; #4693 2 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464814 --url="https://cdn6.hdzyk-video.com/20221005/18551_2ca2bf27/index.m3u8" --filename="4782_第02集_3.mp4"; #4782 2 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540113 --url="https://cdn6.hdzyk-video.com/20221005/18585_dea3d8a3/index.m3u8" --filename="4693_第03集_5.mp4"; #4693 3 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540115 --url="https://cdn6.hdzyk-video.com/20221006/18789_f69480ca/index.m3u8" --filename="4693_第04集_9.mp4"; #4693 4 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540974 --url="https://cdn6.hdzyk-video.com/20221006/18790_18afff9b/index.m3u8" --filename="4822_第03集_5.mp4"; #4822 3 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540117 --url="https://cdn6.hdzyk-video.com/20221007/18888_d5d0ed7e/index.m3u8" --filename="4693_第05集_13.mp4"; #4693 5 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539540 --url="https://cdn6.hdzyk-video.com/20221008/18989_ba7a0dc3/index.m3u8" --filename="4614_第01集_1.mp4"; #4614 1 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=538889 --url="https://cdn6.hdzyk-video.com/20221008/18990_007c0972/index.m3u8" --filename="4544_第01集_1.mp4"; #4544 1 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539962 --url="https://cdn6.hdzyk-video.com/20221008/19012_555047b6/index.m3u8" --filename="4687_第05集_12.mp4"; #4687 5 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464815 --url="https://cdn6.hdzyk-video.com/20221008/19025_aa536974/index.m3u8" --filename="4782_第03集_5.mp4"; #4782 3 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541794 --url="https://cdn6.hdzyk-video.com/20221011/19289_cc48eeb0/index.m3u8" --filename="5456_第07集_13.mp4"; #5456 7 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464849 --url="https://cdn6.hdzyk-video.com/20221011/19313_fdfc9552/index.m3u8" --filename="4784_第21集_20.mp4"; #4784 21 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464479 --url="https://cdn6.hdzyk-video.com/20221012/19349_41ded14d/index.m3u8" --filename="4669_第02集_2.mp4"; #4669 2 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=468205 --url="https://cdn6.hdzyk-video.com/20221012/19487_4897d048/index.m3u8" --filename="5256_第17集_32.mp4"; #5256 17 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539890 --url="https://cdn6.hdzyk-video.com/20221012/19493_fd391ae3/index.m3u8" --filename="4679_第02集_4.mp4"; #4679 2 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539073 --url="https://cdn6.hdzyk-video.com/20221013/19627_51ef0e33/index.m3u8" --filename="4561_第01集_1.mp4"; #4561 1 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540976 --url="https://cdn6.hdzyk-video.com/20221013/19646_aa998dc3/index.m3u8" --filename="4822_第04集_8.mp4"; #4822 4 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539787 --url="https://cdn6.hdzyk-video.com/20221014/19831_dae1779a/index.m3u8" --filename="4656_第04集_12.mp4"; #4656 4 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539732 --url="https://cdn6.hdzyk-video.com/20221014/19877_b55533fb/index.m3u8" --filename="4652_第02集_3.mp4"; #4652 2 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540437 --url="https://cdn6.hdzyk-video.com/20221014/19931_62373516/index.m3u8" --filename="4721_第03集_5.mp4"; #4721 3 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539522 --url="https://cdn6.hdzyk-video.com/20221014/19970_95186997/index.m3u8" --filename="4612_第02集_3.mp4"; #4612 2 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541796 --url="https://cdn6.hdzyk-video.com/20221015/20028_b7f820c8/index.m3u8" --filename="5456_第08集_15.mp4"; #5456 8 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539075 --url="https://cdn6.hdzyk-video.com/20221016/20149_76fb1382/index.m3u8" --filename="4561_第02集_5.mp4"; #4561 2 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541305 --url="https://cdn6.hdzyk-video.com/20221016/20191_c1f485aa/index.m3u8" --filename="4947_第07集_15.mp4"; #4947 7 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541303 --url="https://cdn6.hdzyk-video.com/20221016/20192_fa11e215/index.m3u8" --filename="4947_第06集_13.mp4"; #4947 6 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540386 --url="https://cdn6.hdzyk-video.com/20221017/20558_8ba735da/index.m3u8" --filename="4714_第01集_1.mp4"; #4714 1 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464481 --url="https://cdn6.hdzyk-video.com/20221026/23586_d18658ce/index.m3u8" --filename="4669_第04集_4.mp4"; #4669 4 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=491264 --url="https://cdn6.vipbf-video.com/20221009/19123_50447994/index.m3u8" --filename="8240_第31集_5.mp4"; #8240 31 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=491265 --url="https://cdn6.vipbf-video.com/20221016/20193_d08d4a5e/index.m3u8" --filename="8240_第32集_6.mp4"; #8240 32 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=496581 --url="https://cdn6.vipbf-video.com/20221017/20344_ed645f54/index.m3u8" --filename="9655_第44集_45.mp4"; #9655 44 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=496582 --url="https://cdn6.vipbf-video.com/20221017/20345_2f6b01c2/index.m3u8" --filename="9655_第45集_48.mp4"; #9655 45 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=496591 --url="https://cdn6.vipbf-video.com/20221017/20354_8cab55f7/index.m3u8" --filename="9655_第54集_75.mp4"; #9655 54 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=496592 --url="https://cdn6.vipbf-video.com/20221017/20355_9a076fcc/index.m3u8" --filename="9655_第55集_78.mp4"; #9655 55 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405060 --url="https://cdn6.vipyz-cdn1.com/20221008/19042_84dd876f/index.m3u8" --filename="58968_第10集_9.mp4"; #58968 10 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405058 --url="https://cdn6.vipyz-cdn1.com/20221008/19043_58bdda87/index.m3u8" --filename="58968_第9集_8.mp4"; #58968 9 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405056 --url="https://cdn6.vipyz-cdn1.com/20221008/19044_ecd5e215/index.m3u8" --filename="58968_第8集_7.mp4"; #58968 8 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405054 --url="https://cdn6.vipyz-cdn1.com/20221008/19045_b85ea96b/index.m3u8" --filename="58968_第7集_6.mp4"; #58968 7 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405052 --url="https://cdn6.vipyz-cdn1.com/20221008/19046_4338c581/index.m3u8" --filename="58968_第6集_5.mp4"; #58968 6 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405050 --url="https://cdn6.vipyz-cdn1.com/20221008/19047_7a54d9ea/index.m3u8" --filename="58968_第5集_4.mp4"; #58968 5 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405048 --url="https://cdn6.vipyz-cdn1.com/20221008/19048_8d2bf3bc/index.m3u8" --filename="58968_第4集_3.mp4"; #58968 4 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405046 --url="https://cdn6.vipyz-cdn1.com/20221008/19049_434ab0d8/index.m3u8" --filename="58968_第3集_2.mp4"; #58968 3 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405044 --url="https://cdn6.vipyz-cdn1.com/20221008/19050_de31661d/index.m3u8" --filename="58968_第2集_1.mp4"; #58968 2 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405042 --url="https://cdn6.vipyz-cdn1.com/20221008/19051_60960dab/index.m3u8" --filename="58968_第1集_0.mp4"; #58968 1 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414659 --url="https://cdn6.yzzy-tv-cdn.com/20220622/518_c5e766d9/index.m3u8" --filename="5867_第6集_35.mp4"; #5867 6 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414657 --url="https://cdn6.yzzy-tv-cdn.com/20220622/519_6f4a69d4/index.m3u8" --filename="5867_第5集_34.mp4"; #5867 5 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414655 --url="https://cdn6.yzzy-tv-cdn.com/20220622/520_59907fc9/index.m3u8" --filename="5867_第4集_33.mp4"; #5867 4 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414653 --url="https://cdn6.yzzy-tv-cdn.com/20220622/521_c775d7b1/index.m3u8" --filename="5867_第3集_32.mp4"; #5867 3 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414651 --url="https://cdn6.yzzy-tv-cdn.com/20220622/522_72cd5cac/index.m3u8" --filename="5867_第2集_31.mp4"; #5867 2 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414649 --url="https://cdn6.yzzy-tv-cdn.com/20220622/523_db375ddf/index.m3u8" --filename="5867_第1集_30.mp4"; #5867 1 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414663 --url="https://cdn6.yzzy-tv-cdn.com/20220623/702_79b5721e/index.m3u8" --filename="5867_第8集_37.mp4"; #5867 8 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414661 --url="https://cdn6.yzzy-tv-cdn.com/20220623/703_fd4e39bb/index.m3u8" --filename="5867_第7集_36.mp4"; #5867 7 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414667 --url="https://cdn6.yzzy-tv-cdn.com/20220624/1424_4ddd2806/index.m3u8" --filename="5867_第10集_39.mp4"; #5867 10 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414665 --url="https://cdn6.yzzy-tv-cdn.com/20220624/1425_d1ae14fb/index.m3u8" --filename="5867_第9集_38.mp4"; #5867 9 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=17565 --url="https://cdn6.yzzy-tv-cdn.com/20220625/1558_062ec158/index.m3u8" --filename="2422_HD_0.mp4"; #2422 1 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414671 --url="https://cdn6.yzzy-tv-cdn.com/20220629/2154_826c8091/index.m3u8" --filename="5867_第12集_41.mp4"; #5867 12 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414669 --url="https://cdn6.yzzy-tv-cdn.com/20220629/2155_bf8317f0/index.m3u8" --filename="5867_第11集_40.mp4"; #5867 11 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414679 --url="https://cdn6.yzzy-tv-cdn.com/20220701/2481_508b3543/index.m3u8" --filename="5867_第16集_45.mp4"; #5867 16 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414677 --url="https://cdn6.yzzy-tv-cdn.com/20220701/2482_2dc97810/index.m3u8" --filename="5867_第15集_44.mp4"; #5867 15 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23604 --url="https://cdn6.yzzy-tv-cdn.com/20220702/2610_8bbe8fd2/index.m3u8" --filename="5839_第8期_7.mp4"; #5839 8 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414698 --url="https://cdn6.yzzy-tv-cdn.com/20220714/4589_7e8933b5/index.m3u8" --filename="5867_第26集_55.mp4"; #5867 26 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414696 --url="https://cdn6.yzzy-tv-cdn.com/20220714/4590_8613fa78/index.m3u8" --filename="5867_第25集_54.mp4"; #5867 25 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23607 --url="https://cdn6.yzzy-tv-cdn.com/20220716/4825_bdebd82a/index.m3u8" --filename="5839_第11期_10.mp4"; #5839 11 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23608 --url="https://cdn6.yzzy-tv-cdn.com/20220722/5439_9307cda0/index.m3u8" --filename="5839_第12期_11.mp4"; #5839 12 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=427558 --url="https://cdn6.yzzy-tv-cdn.com/20220730/7134_3e1677af/index.m3u8" --filename="44526_第35集_111.mp4"; #44526 35 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=427508 --url="https://cdn6.yzzy-tv-cdn.com/20220730/7151_5afc75f5/index.m3u8" --filename="44526_第22集_85.mp4"; #44526 22 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=544453 --url="https://cdn6.yzzy-tv-cdn.com/20220731/7170_1cff8109/index.m3u8" --filename="44526_第9集_59.mp4"; #44526 9 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23614 --url="https://cdn6.yzzy-tv-cdn.com/20220817/10738_13f1f35f/index.m3u8" --filename="6096_20220816期_48.mp4"; #6096 20220816 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23616 --url="https://cdn6.yzzy-tv-cdn.com/20220831/12596_676b9a4a/index.m3u8" --filename="6096_20220830期_50.mp4"; #6096 20220830 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=256747 --url="https://cdn6.yzzy-tv-cdn.com/20220906/13705_00e55990/index.m3u8" --filename="36037_第19集_20.mp4"; #36037 19 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=256745 --url="https://cdn6.yzzy-tv-cdn.com/20220906/13708_b287686c/index.m3u8" --filename="36037_第18集_18.mp4"; #36037 18 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=256743 --url="https://cdn6.yzzy-tv-cdn.com/20220906/13709_48cba256/index.m3u8" --filename="36037_第17集_16.mp4"; #36037 17 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=256749 --url="https://cdn6.yzzy-tv-cdn.com/20220906/13712_31b5560f/index.m3u8" --filename="36037_第20集_22.mp4"; #36037 20 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23617 --url="https://cdn6.yzzy-tv-cdn.com/20220907/14066_5730e7c8/index.m3u8" --filename="6096_20220906期_51.mp4"; #6096 20220906 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414780 --url="https://cdn6.yzzy-tv-cdn.com/20220926/17787_ed6c95ae/index.m3u8" --filename="8061_HD_1.mp4"; #8061 0 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414818 --url="https://cdn6.yzzy-tv1.com/20220811/9413_da0c0deb/index.m3u8" --filename="8956_第1集_0.mp4"; #8956 1 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414822 --url="https://cdn6.yzzy-tv1.com/20220811/9414_193552ee/index.m3u8" --filename="8956_第2集_2.mp4"; #8956 2 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414826 --url="https://cdn6.yzzy-tv1.com/20220811/9415_d7e3872b/index.m3u8" --filename="8956_第3集_4.mp4"; #8956 3 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414830 --url="https://cdn6.yzzy-tv1.com/20220811/9416_55b261d4/index.m3u8" --filename="8956_第4集_6.mp4"; #8956 4 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414834 --url="https://cdn6.yzzy-tv1.com/20220811/9417_552caa9f/index.m3u8" --filename="8956_第5集_8.mp4"; #8956 5 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414840 --url="https://cdn6.yzzy-tv1.com/20220811/9418_685c75f9/index.m3u8" --filename="8956_第6集_11.mp4"; #8956 6 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414844 --url="https://cdn6.yzzy-tv1.com/20220811/9419_29a0594f/index.m3u8" --filename="8956_第7集_13.mp4"; #8956 7 480
+
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=497365 --url="https://cdn7.hdzyk-cdn.com/20220709/4152_584950e5/index.m3u8" --filename="9994_第35集_34.mp4"; #9994 35 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=497366 --url="https://cdn7.hdzyk-cdn.com/20220709/4153_39fdf947/index.m3u8" --filename="9994_第36集_35.mp4"; #9994 36 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=497360 --url="https://cdn7.hdzyk-cdn.com/20220709/4154_b1af1359/index.m3u8" --filename="9994_第30集_29.mp4"; #9994 30 1080
@@ -42112,7 +41992,6 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539816 --url="https://iqiyi.sd-play.com/20221207/U8b1t6Yd/index.m3u8" --filename="4667_第10集_11.mp4"; #4667 10 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=551388 --url="https://iqiyi.sd-play.com/20221207/vlZzRiZm/index.m3u8" --filename="101_第225集_241.mp4"; #101 225 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22833 --url="https://iqiyi.sd-play.com/20221207/Z5PNUPsy/index.m3u8" --filename="4521_第14期_12.mp4"; #4521 14 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21989 --url="https://kuaichezy.com/index.php/vod/play/id/43637/sid/2/nid/21.html" --filename="4240_20221107期_6.mp4"; #4240 7 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=323011 --url="https://letv.sd-play.com/20211101/5NUoaZad/index.m3u8" --filename="50788_20211031期_49.mp4"; #50788 1 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=323013 --url="https://letv.sd-play.com/20211108/qsMX1LKn/index.m3u8" --filename="50788_20211107期_51.mp4"; #50788 2 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=323015 --url="https://letv.sd-play.com/20211114/dO6pWgQ3/index.m3u8" --filename="50788_20211114期_53.mp4"; #50788 3 480
@@ -43221,6 +43100,11 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=12587 --url="https://vip.ffzyread1.com/20230905/17881_95fde0a0/index.m3u8" --filename="1621_第2期_7.mp4"; #1621 905 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=12586 --url="https://vip.ffzyread1.com/20230905/17882_d1bd3cdf/index.m3u8" --filename="1621_第1期_6.mp4"; #1621 829 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=12588 --url="https://vip.ffzyread1.com/20230912/18169_db972740/index.m3u8" --filename="1621_第3期_8.mp4"; #1621 912 480
+
+
+
+
+#  可以下載
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542479 --url="https://vip.lzcdn2.com/20220321/202_f0972b3e/index.m3u8" --filename="6615_HD_2.mp4"; #6615 0 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=17409 --url="https://vip.lzcdn2.com/20220322/275_738bd0c2/index.m3u8" --filename="2399_HD_1.mp4"; #2399 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=17574 --url="https://vip.lzcdn2.com/20220329/1083_7b45f4f6/index.m3u8" --filename="2429_HD_0.mp4"; #2429 0 480
@@ -43298,6 +43182,11 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=453567 --url="https://vip.lzcdn2.com/20230311/24489_10d47e88/index.m3u8" --filename="2912_第33集_72.mp4"; #2912 33 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19137 --url="https://vip.lzcdn2.com/20230326/24815_45ce964c/index.m3u8" --filename="2724_HD_1.mp4"; #2724 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=18091 --url="https://vip.lzcdn2.com/20230428/25707_b373bd11/index.m3u8" --filename="2488_HD_1.mp4"; #2488 0 480
+
+
+
+
+#  不行 vod1.kczybf.com dns 已經失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22262 --url="https://vod1.kczybf.com/20220307/2LflRBqI/index.m3u8" --filename="4352_HD_2.mp4"; #4352 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=430608 --url="https://vod1.kczybf.com/20220307/5zv6d4Ok/index.m3u8" --filename="50438_国语中字_1.mp4"; #50438 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=266669 --url="https://vod1.kczybf.com/20220307/kSGjPmmI/index.m3u8" --filename="39560_午夜43路_0.mp4"; #39560 1 480
@@ -43318,6 +43207,9 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=462347 --url="https://vod1.kczybf.com/20220730/bcPF2i9u/index.m3u8" --filename="3964_第4集_11.mp4"; #3964 4 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=462346 --url="https://vod1.kczybf.com/20220730/LrdEvSWn/index.m3u8" --filename="3964_第3集_8.mp4"; #3964 3 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=462345 --url="https://vod1.kczybf.com/20220730/Wr7efaxu/index.m3u8" --filename="3964_第2集_5.mp4"; #3964 2 1080
+
+
+#  不行 vod2.kczybf.com dns 已經失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541848 --url="https://vod2.kczybf.com/20220830/2tfTXfHQ/index.m3u8" --filename="5576_第07集_8.mp4"; #5576 7 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541851 --url="https://vod2.kczybf.com/20220830/5AYllLLU/index.m3u8" --filename="5576_第10集_11.mp4"; #5576 10 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541849 --url="https://vod2.kczybf.com/20220830/8udZ1gw2/index.m3u8" --filename="5576_第08集_9.mp4"; #5576 8 1080
@@ -43796,7 +43688,6 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=467682 --url="https://vod2.kczybf.com/20221125/4YK3e3Yg/index.m3u8" --filename="5191_20221124期_12.mp4"; #5191 8765 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=463148 --url="https://vod2.kczybf.com/20221125/7ZUNnY48/index.m3u8" --filename="4266_20221125期_12.mp4"; #4266 20221125 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=463746 --url="https://vod2.kczybf.com/20221125/dRv9qIuS/index.m3u8" --filename="4411_20221126期_5.mp4"; #4411 20221126 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=463479 --url="https://vod2.kczybf.com/20221125/om9mIQfA/index.m3u8" --filename="4333_20221125期_22.mp4"; #4333 20221125 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540290 --url="https://vod2.kczybf.com/20221125/VcwNkQes/index.m3u8" --filename="4702_第9集_30.mp4"; #4702 9 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21724 --url="https://vod2.kczybf.com/20221125/ZSbKI8ob/index.m3u8" --filename="4150_第25集_22.mp4"; #4150 25 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21063 --url="https://vod2.kczybf.com/20221126/30ccgQl3/index.m3u8" --filename="3884_HD国语_1.mp4"; #3884 0 480
@@ -43862,6 +43753,9 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=504853 --url="https://vod2.kczybf.com/20221209/xMne8aOy/index.m3u8" --filename="12299_20221209期_67.mp4"; #12299 20221209 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=463624 --url="https://vod2.kczybf.com/20221210/eTnBkYYZ/index.m3u8" --filename="4376_20221210期_10.mp4"; #4376 6 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=20534 --url="https://vod2.kczybf.com/20230106/chhuAnVV/index.m3u8" --filename="3264_HD_0.mp4"; #3264 0 480
+
+
+#  不行 y.gsvvs.com:65 dns 已經失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414592 --url="https://y.gsvvs.com:65/20220729/04IwlYuN/index.m3u8" --filename="5604_第23集_82.mp4"; #5604 23 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414596 --url="https://y.gsvvs.com:65/20220729/7OQaj8mu/index.m3u8" --filename="5604_第24集_83.mp4"; #5604 24 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414600 --url="https://y.gsvvs.com:65/20220730/2qdvpzjO/index.m3u8" --filename="5604_第25集_84.mp4"; #5604 25 1080
@@ -43926,8 +43820,146 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=413475 --url="https://y.gszyw.com:65/20220920/jMQkuFJl/index.m3u8" --filename="5082_第26集_55.mp4"; #5082 26 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=413471 --url="https://y.gszyw.com:65/20220920/px1FUbcd/index.m3u8" --filename="5082_第25集_53.mp4"; #5082 25 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=412269 --url="https://y.gszyw.com:65/20220920/RGzz2bs4/index.m3u8" --filename="4893_第15集_63.mp4"; #4893 15 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21681 --url="https://youku.sd-play.com/20221111/1Nrw0i5W/index.m3u8" --filename="4122_嗜血欲女_0.mp4"; #4122 1 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=20986 --url="https://youku.sd-play.com/20221201/6dJmz238/index.m3u8" --filename="3836_HD_0.mp4"; #3836 0 480
+
+
+
+
+
+
+
+# 不行，path缺少
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=452944 --url="https://download.eny7kg.com/https：//cdn13.yzzy-tv1.com/20230310/16372_ed3f4c34/index.m3u8" --filename="2807_第1集_1.mp4"; #2807 1 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=538412 --url="https://download.eny7kg.com/TC" --filename="4334_吉吉和内特 Gigi & Nate_1.mp4"; #4334 0 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=537691 --url="https://download.eny7kg.com/第1期" --filename="2909__0.mp4"; #2909 0 1080
+
+
+
+
+# youku.sd-play.com 不行下載
+# cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21681 --url="https://youku.sd-play.com/20221111/1Nrw0i5W/index.m3u8" --filename="4122_嗜血欲女_0.mp4"; #4122 1 480
+# cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=20986 --url="https://youku.sd-play.com/20221201/6dJmz238/index.m3u8" --filename="3836_HD_0.mp4"; #3836 0 480
+
+# https://cdn6.hdzyk-cdn.com 可以下載
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=511215 --url="https://cdn6.hdzyk-cdn.com/20220818/10799_56cdde43/index.m3u8" --filename="15581_西班牙语中字_1.mp4"; #15581 0 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19861 --url="https://cdn6.hdzyk-cdn.com/20220924/17247_8ca3f8fd/index.m3u8" --filename="2982_第19集_18.mp4"; #2982 19 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19863 --url="https://cdn6.hdzyk-cdn.com/20221005/18555_53511312/index.m3u8" --filename="2982_第21集_20.mp4"; #2982 21 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19864 --url="https://cdn6.hdzyk-cdn.com/20221005/18556_825254e5/index.m3u8" --filename="2982_第22集_21.mp4"; #2982 22 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539560 --url="https://cdn6.hdzyk-cdn.com/20221008/18997_5c948c04/index.m3u8" --filename="4625_第1集_0.mp4"; #4625 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19865 --url="https://cdn6.hdzyk-cdn.com/20221008/19033_226996a2/index.m3u8" --filename="2982_第23集_22.mp4"; #2982 23 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19866 --url="https://cdn6.hdzyk-cdn.com/20221012/19366_61484ea3/index.m3u8" --filename="2982_第24集_23.mp4"; #2982 24 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540578 --url="https://cdn6.hdzyk-cdn.com/20221012/19436_714c7323/index.m3u8" --filename="4737_第03集_6.mp4"; #4737 3 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22860 --url="https://cdn6.hdzyk-cdn.com/20221015/20023_415d08a8/index.m3u8" --filename="4537_第1集_0.mp4"; #4537 1 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542539 --url="https://cdn6.hdzyk-video.com/20220626/1731_e5bb02ee/index.m3u8" --filename="6797_第25集_58.mp4"; #6797 25 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=471925 --url="https://cdn6.hdzyk-video.com/20220703/2660_66cc877a/index.m3u8" --filename="5695_第01集_1.mp4"; #5695 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542543 --url="https://cdn6.hdzyk-video.com/20220718/5040_eac5d965/index.m3u8" --filename="6797_第27集_62.mp4"; #6797 27 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542545 --url="https://cdn6.hdzyk-video.com/20220725/5588_a1b23b2f/index.m3u8" --filename="6797_第28集_64.mp4"; #6797 28 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542549 --url="https://cdn6.hdzyk-video.com/20220807/8865_c8867f0c/index.m3u8" --filename="6797_第30集_68.mp4"; #6797 30 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541861 --url="https://cdn6.hdzyk-video.com/20220811/9690_6663c8b8/index.m3u8" --filename="5579_第05集_7.mp4"; #5579 5 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542551 --url="https://cdn6.hdzyk-video.com/20220815/10461_f963c835/index.m3u8" --filename="6797_第31集_70.mp4"; #6797 31 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=467861 --url="https://cdn6.hdzyk-video.com/20220817/10717_00c5d247/index.m3u8" --filename="5221_第03集_5.mp4"; #5221 3 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541863 --url="https://cdn6.hdzyk-video.com/20220818/10897_90e1cf10/index.m3u8" --filename="5579_第06集_9.mp4"; #5579 6 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542553 --url="https://cdn6.hdzyk-video.com/20220822/11406_055fd471/index.m3u8" --filename="6797_第32集_72.mp4"; #6797 32 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=471375 --url="https://cdn6.hdzyk-video.com/20220823/11469_d284ac8a/index.m3u8" --filename="5640_第08集_15.mp4"; #5640 8 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=466543 --url="https://cdn6.hdzyk-video.com/20220831/12462_6bb09dbf/index.m3u8" --filename="5052_第03集_5.mp4"; #5052 3 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=466542 --url="https://cdn6.hdzyk-video.com/20220831/12463_28059ca1/index.m3u8" --filename="5052_第02集_3.mp4"; #5052 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=466541 --url="https://cdn6.hdzyk-video.com/20220831/12464_55a82f4b/index.m3u8" --filename="5052_第01集_1.mp4"; #5052 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=466544 --url="https://cdn6.hdzyk-video.com/20220904/12923_ac6908bb/index.m3u8" --filename="5052_第04集_7.mp4"; #5052 4 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=471377 --url="https://cdn6.hdzyk-video.com/20220906/13478_5f823640/index.m3u8" --filename="5640_第10集_19.mp4"; #5640 10 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=468200 --url="https://cdn6.hdzyk-video.com/20220908/14101_3f7aab9a/index.m3u8" --filename="5256_第12集_23.mp4"; #5256 12 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=468199 --url="https://cdn6.hdzyk-video.com/20220908/14102_6df688f6/index.m3u8" --filename="5256_第11集_21.mp4"; #5256 11 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=466545 --url="https://cdn6.hdzyk-video.com/20220911/14408_3379078a/index.m3u8" --filename="5052_第05集_9.mp4"; #5052 5 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=471378 --url="https://cdn6.hdzyk-video.com/20220912/14526_27b067e7/index.m3u8" --filename="5640_第11集_21.mp4"; #5640 11 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=468202 --url="https://cdn6.hdzyk-video.com/20220915/14713_5b5ea758/index.m3u8" --filename="5256_第14集_27.mp4"; #5256 14 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=468201 --url="https://cdn6.hdzyk-video.com/20220915/14714_efcd4564/index.m3u8" --filename="5256_第13集_25.mp4"; #5256 13 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=465190 --url="https://cdn6.hdzyk-video.com/20220920/16303_c18ecdbb/index.m3u8" --filename="4842_第01集_1.mp4"; #4842 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=470812 --url="https://cdn6.hdzyk-video.com/20220924/17206_2403172c/index.m3u8" --filename="5591_第12集_23.mp4"; #5591 12 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464813 --url="https://cdn6.hdzyk-video.com/20220924/17209_c00e1e22/index.m3u8" --filename="4782_第01集_1.mp4"; #4782 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=465209 --url="https://cdn6.hdzyk-video.com/20220927/17916_3c687eed/index.m3u8" --filename="4843_第02集_3.mp4"; #4843 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=467867 --url="https://cdn6.hdzyk-video.com/20220928/17967_a7b8a0df/index.m3u8" --filename="5221_第09集_17.mp4"; #5221 9 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540943 --url="https://cdn6.hdzyk-video.com/20220929/18121_b6549c71/index.m3u8" --filename="4805_第02集_3.mp4"; #4805 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=470813 --url="https://cdn6.hdzyk-video.com/20221001/18272_8b50cc88/index.m3u8" --filename="5591_第13集_26.mp4"; #5591 13 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541301 --url="https://cdn6.hdzyk-video.com/20221002/18373_d96c8e2f/index.m3u8" --filename="4947_第05集_10.mp4"; #4947 5 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=465192 --url="https://cdn6.hdzyk-video.com/20221004/18506_08e9ae80/index.m3u8" --filename="4842_第03集_5.mp4"; #4842 3 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540112 --url="https://cdn6.hdzyk-video.com/20221004/18509_7f6be35c/index.m3u8" --filename="4693_第02集_3.mp4"; #4693 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464814 --url="https://cdn6.hdzyk-video.com/20221005/18551_2ca2bf27/index.m3u8" --filename="4782_第02集_3.mp4"; #4782 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540113 --url="https://cdn6.hdzyk-video.com/20221005/18585_dea3d8a3/index.m3u8" --filename="4693_第03集_5.mp4"; #4693 3 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540115 --url="https://cdn6.hdzyk-video.com/20221006/18789_f69480ca/index.m3u8" --filename="4693_第04集_9.mp4"; #4693 4 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540974 --url="https://cdn6.hdzyk-video.com/20221006/18790_18afff9b/index.m3u8" --filename="4822_第03集_5.mp4"; #4822 3 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540117 --url="https://cdn6.hdzyk-video.com/20221007/18888_d5d0ed7e/index.m3u8" --filename="4693_第05集_13.mp4"; #4693 5 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539540 --url="https://cdn6.hdzyk-video.com/20221008/18989_ba7a0dc3/index.m3u8" --filename="4614_第01集_1.mp4"; #4614 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=538889 --url="https://cdn6.hdzyk-video.com/20221008/18990_007c0972/index.m3u8" --filename="4544_第01集_1.mp4"; #4544 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539962 --url="https://cdn6.hdzyk-video.com/20221008/19012_555047b6/index.m3u8" --filename="4687_第05集_12.mp4"; #4687 5 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464815 --url="https://cdn6.hdzyk-video.com/20221008/19025_aa536974/index.m3u8" --filename="4782_第03集_5.mp4"; #4782 3 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541794 --url="https://cdn6.hdzyk-video.com/20221011/19289_cc48eeb0/index.m3u8" --filename="5456_第07集_13.mp4"; #5456 7 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464849 --url="https://cdn6.hdzyk-video.com/20221011/19313_fdfc9552/index.m3u8" --filename="4784_第21集_20.mp4"; #4784 21 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464479 --url="https://cdn6.hdzyk-video.com/20221012/19349_41ded14d/index.m3u8" --filename="4669_第02集_2.mp4"; #4669 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=468205 --url="https://cdn6.hdzyk-video.com/20221012/19487_4897d048/index.m3u8" --filename="5256_第17集_32.mp4"; #5256 17 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539890 --url="https://cdn6.hdzyk-video.com/20221012/19493_fd391ae3/index.m3u8" --filename="4679_第02集_4.mp4"; #4679 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539073 --url="https://cdn6.hdzyk-video.com/20221013/19627_51ef0e33/index.m3u8" --filename="4561_第01集_1.mp4"; #4561 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540976 --url="https://cdn6.hdzyk-video.com/20221013/19646_aa998dc3/index.m3u8" --filename="4822_第04集_8.mp4"; #4822 4 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539787 --url="https://cdn6.hdzyk-video.com/20221014/19831_dae1779a/index.m3u8" --filename="4656_第04集_12.mp4"; #4656 4 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539732 --url="https://cdn6.hdzyk-video.com/20221014/19877_b55533fb/index.m3u8" --filename="4652_第02集_3.mp4"; #4652 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540437 --url="https://cdn6.hdzyk-video.com/20221014/19931_62373516/index.m3u8" --filename="4721_第03集_5.mp4"; #4721 3 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539522 --url="https://cdn6.hdzyk-video.com/20221014/19970_95186997/index.m3u8" --filename="4612_第02集_3.mp4"; #4612 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541796 --url="https://cdn6.hdzyk-video.com/20221015/20028_b7f820c8/index.m3u8" --filename="5456_第08集_15.mp4"; #5456 8 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539075 --url="https://cdn6.hdzyk-video.com/20221016/20149_76fb1382/index.m3u8" --filename="4561_第02集_5.mp4"; #4561 2 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541305 --url="https://cdn6.hdzyk-video.com/20221016/20191_c1f485aa/index.m3u8" --filename="4947_第07集_15.mp4"; #4947 7 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541303 --url="https://cdn6.hdzyk-video.com/20221016/20192_fa11e215/index.m3u8" --filename="4947_第06集_13.mp4"; #4947 6 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=540386 --url="https://cdn6.hdzyk-video.com/20221017/20558_8ba735da/index.m3u8" --filename="4714_第01集_1.mp4"; #4714 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=464481 --url="https://cdn6.hdzyk-video.com/20221026/23586_d18658ce/index.m3u8" --filename="4669_第04集_4.mp4"; #4669 4 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=491264 --url="https://cdn6.vipbf-video.com/20221009/19123_50447994/index.m3u8" --filename="8240_第31集_5.mp4"; #8240 31 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=491265 --url="https://cdn6.vipbf-video.com/20221016/20193_d08d4a5e/index.m3u8" --filename="8240_第32集_6.mp4"; #8240 32 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=496581 --url="https://cdn6.vipbf-video.com/20221017/20344_ed645f54/index.m3u8" --filename="9655_第44集_45.mp4"; #9655 44 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=496582 --url="https://cdn6.vipbf-video.com/20221017/20345_2f6b01c2/index.m3u8" --filename="9655_第45集_48.mp4"; #9655 45 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=496591 --url="https://cdn6.vipbf-video.com/20221017/20354_8cab55f7/index.m3u8" --filename="9655_第54集_75.mp4"; #9655 54 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=496592 --url="https://cdn6.vipbf-video.com/20221017/20355_9a076fcc/index.m3u8" --filename="9655_第55集_78.mp4"; #9655 55 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405060 --url="https://cdn6.vipyz-cdn1.com/20221008/19042_84dd876f/index.m3u8" --filename="58968_第10集_9.mp4"; #58968 10 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405058 --url="https://cdn6.vipyz-cdn1.com/20221008/19043_58bdda87/index.m3u8" --filename="58968_第9集_8.mp4"; #58968 9 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405056 --url="https://cdn6.vipyz-cdn1.com/20221008/19044_ecd5e215/index.m3u8" --filename="58968_第8集_7.mp4"; #58968 8 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405054 --url="https://cdn6.vipyz-cdn1.com/20221008/19045_b85ea96b/index.m3u8" --filename="58968_第7集_6.mp4"; #58968 7 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405052 --url="https://cdn6.vipyz-cdn1.com/20221008/19046_4338c581/index.m3u8" --filename="58968_第6集_5.mp4"; #58968 6 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405050 --url="https://cdn6.vipyz-cdn1.com/20221008/19047_7a54d9ea/index.m3u8" --filename="58968_第5集_4.mp4"; #58968 5 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405048 --url="https://cdn6.vipyz-cdn1.com/20221008/19048_8d2bf3bc/index.m3u8" --filename="58968_第4集_3.mp4"; #58968 4 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405046 --url="https://cdn6.vipyz-cdn1.com/20221008/19049_434ab0d8/index.m3u8" --filename="58968_第3集_2.mp4"; #58968 3 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405044 --url="https://cdn6.vipyz-cdn1.com/20221008/19050_de31661d/index.m3u8" --filename="58968_第2集_1.mp4"; #58968 2 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=405042 --url="https://cdn6.vipyz-cdn1.com/20221008/19051_60960dab/index.m3u8" --filename="58968_第1集_0.mp4"; #58968 1 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414659 --url="https://cdn6.yzzy-tv-cdn.com/20220622/518_c5e766d9/index.m3u8" --filename="5867_第6集_35.mp4"; #5867 6 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414657 --url="https://cdn6.yzzy-tv-cdn.com/20220622/519_6f4a69d4/index.m3u8" --filename="5867_第5集_34.mp4"; #5867 5 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414655 --url="https://cdn6.yzzy-tv-cdn.com/20220622/520_59907fc9/index.m3u8" --filename="5867_第4集_33.mp4"; #5867 4 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414653 --url="https://cdn6.yzzy-tv-cdn.com/20220622/521_c775d7b1/index.m3u8" --filename="5867_第3集_32.mp4"; #5867 3 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414651 --url="https://cdn6.yzzy-tv-cdn.com/20220622/522_72cd5cac/index.m3u8" --filename="5867_第2集_31.mp4"; #5867 2 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414649 --url="https://cdn6.yzzy-tv-cdn.com/20220622/523_db375ddf/index.m3u8" --filename="5867_第1集_30.mp4"; #5867 1 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414663 --url="https://cdn6.yzzy-tv-cdn.com/20220623/702_79b5721e/index.m3u8" --filename="5867_第8集_37.mp4"; #5867 8 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414661 --url="https://cdn6.yzzy-tv-cdn.com/20220623/703_fd4e39bb/index.m3u8" --filename="5867_第7集_36.mp4"; #5867 7 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414667 --url="https://cdn6.yzzy-tv-cdn.com/20220624/1424_4ddd2806/index.m3u8" --filename="5867_第10集_39.mp4"; #5867 10 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414665 --url="https://cdn6.yzzy-tv-cdn.com/20220624/1425_d1ae14fb/index.m3u8" --filename="5867_第9集_38.mp4"; #5867 9 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=17565 --url="https://cdn6.yzzy-tv-cdn.com/20220625/1558_062ec158/index.m3u8" --filename="2422_HD_0.mp4"; #2422 1 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414671 --url="https://cdn6.yzzy-tv-cdn.com/20220629/2154_826c8091/index.m3u8" --filename="5867_第12集_41.mp4"; #5867 12 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414669 --url="https://cdn6.yzzy-tv-cdn.com/20220629/2155_bf8317f0/index.m3u8" --filename="5867_第11集_40.mp4"; #5867 11 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414679 --url="https://cdn6.yzzy-tv-cdn.com/20220701/2481_508b3543/index.m3u8" --filename="5867_第16集_45.mp4"; #5867 16 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414677 --url="https://cdn6.yzzy-tv-cdn.com/20220701/2482_2dc97810/index.m3u8" --filename="5867_第15集_44.mp4"; #5867 15 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23604 --url="https://cdn6.yzzy-tv-cdn.com/20220702/2610_8bbe8fd2/index.m3u8" --filename="5839_第8期_7.mp4"; #5839 8 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414698 --url="https://cdn6.yzzy-tv-cdn.com/20220714/4589_7e8933b5/index.m3u8" --filename="5867_第26集_55.mp4"; #5867 26 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414696 --url="https://cdn6.yzzy-tv-cdn.com/20220714/4590_8613fa78/index.m3u8" --filename="5867_第25集_54.mp4"; #5867 25 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23607 --url="https://cdn6.yzzy-tv-cdn.com/20220716/4825_bdebd82a/index.m3u8" --filename="5839_第11期_10.mp4"; #5839 11 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23608 --url="https://cdn6.yzzy-tv-cdn.com/20220722/5439_9307cda0/index.m3u8" --filename="5839_第12期_11.mp4"; #5839 12 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=427558 --url="https://cdn6.yzzy-tv-cdn.com/20220730/7134_3e1677af/index.m3u8" --filename="44526_第35集_111.mp4"; #44526 35 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=427508 --url="https://cdn6.yzzy-tv-cdn.com/20220730/7151_5afc75f5/index.m3u8" --filename="44526_第22集_85.mp4"; #44526 22 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=544453 --url="https://cdn6.yzzy-tv-cdn.com/20220731/7170_1cff8109/index.m3u8" --filename="44526_第9集_59.mp4"; #44526 9 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23614 --url="https://cdn6.yzzy-tv-cdn.com/20220817/10738_13f1f35f/index.m3u8" --filename="6096_20220816期_48.mp4"; #6096 20220816 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23616 --url="https://cdn6.yzzy-tv-cdn.com/20220831/12596_676b9a4a/index.m3u8" --filename="6096_20220830期_50.mp4"; #6096 20220830 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=256747 --url="https://cdn6.yzzy-tv-cdn.com/20220906/13705_00e55990/index.m3u8" --filename="36037_第19集_20.mp4"; #36037 19 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=256745 --url="https://cdn6.yzzy-tv-cdn.com/20220906/13708_b287686c/index.m3u8" --filename="36037_第18集_18.mp4"; #36037 18 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=256743 --url="https://cdn6.yzzy-tv-cdn.com/20220906/13709_48cba256/index.m3u8" --filename="36037_第17集_16.mp4"; #36037 17 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=256749 --url="https://cdn6.yzzy-tv-cdn.com/20220906/13712_31b5560f/index.m3u8" --filename="36037_第20集_22.mp4"; #36037 20 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23617 --url="https://cdn6.yzzy-tv-cdn.com/20220907/14066_5730e7c8/index.m3u8" --filename="6096_20220906期_51.mp4"; #6096 20220906 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414780 --url="https://cdn6.yzzy-tv-cdn.com/20220926/17787_ed6c95ae/index.m3u8" --filename="8061_HD_1.mp4"; #8061 0 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414818 --url="https://cdn6.yzzy-tv1.com/20220811/9413_da0c0deb/index.m3u8" --filename="8956_第1集_0.mp4"; #8956 1 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414822 --url="https://cdn6.yzzy-tv1.com/20220811/9414_193552ee/index.m3u8" --filename="8956_第2集_2.mp4"; #8956 2 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414826 --url="https://cdn6.yzzy-tv1.com/20220811/9415_d7e3872b/index.m3u8" --filename="8956_第3集_4.mp4"; #8956 3 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414830 --url="https://cdn6.yzzy-tv1.com/20220811/9416_55b261d4/index.m3u8" --filename="8956_第4集_6.mp4"; #8956 4 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414834 --url="https://cdn6.yzzy-tv1.com/20220811/9417_552caa9f/index.m3u8" --filename="8956_第5集_8.mp4"; #8956 5 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414840 --url="https://cdn6.yzzy-tv1.com/20220811/9418_685c75f9/index.m3u8" --filename="8956_第6集_11.mp4"; #8956 6 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414844 --url="https://cdn6.yzzy-tv1.com/20220811/9419_29a0594f/index.m3u8" --filename="8956_第7集_13.mp4"; #8956 7 480
+# 不行，不是m3u8 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21989 --url="https://kuaichezy.com/index.php/vod/play/id/43637/sid/2/nid/21.html" --filename="4240_20221107期_6.mp4"; #4240 7 480
+
