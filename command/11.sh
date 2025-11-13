@@ -42583,7 +42583,12 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=542737 --url="https://qq.sd-play.com/20220312/XZb0PVFE/index.m3u8" --filename="7792_小虎墩大英雄_1.mp4"; #7792 0 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21726 --url="https://qq.sd-play.com/20220313/Q6O6UHLq/index.m3u8" --filename="4155_老鹰旅馆之夜_0.mp4"; #4155 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21797 --url="https://qq.sd-play.com/20220603/BQTlr56R/index.m3u8" --filename="4185_战地刑罚_0.mp4"; #4185 0 480
+
+
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23292 --url="https://s.gszyx.com:65/20220820/0MGs3jl4/index.m3u8" --filename="5252_第220820期_32.mp4"; #5252 5 480
+
+
+# 不行，s1.zoubuting.com DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19661 --url="https://s1.zoubuting.com/20210724/ceh8Y9zv/index.m3u8" --filename="2873_第5集_7.mp4"; #2873 5 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19664 --url="https://s1.zoubuting.com/20210724/emqu5O3y/index.m3u8" --filename="2873_第8集_10.mp4"; #2873 8 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19667 --url="https://s1.zoubuting.com/20210724/FEzr4XAi/index.m3u8" --filename="2873_第11集_13.mp4"; #2873 11 480
@@ -43032,6 +43037,8 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=15232 --url="https://v6.cdtlas.com/20220804/Y5WAoFYQ/index.m3u8" --filename="2187_第21集_20.mp4"; #2187 21 480
 
 
+
+#  可以下載
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=537474 --url="https://vip.ffzy-online1.com/20230621/41554_daab9e43/index.m3u8" --filename="58969_HD_1.mp4"; #58969 0 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13065 --url="https://vip.ffzy-online6.com/20230725/15514_21cbf3f8/index.m3u8" --filename="1865_第1集_0.mp4"; #1865 1 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=404974 --url="https://vip.ffzy-online6.com/20230810/16516_d2dae794/index.m3u8" --filename="58956_第4集_3.mp4"; #58956 4 480
