@@ -40939,6 +40939,9 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=20079 --url="https://hot.qqaku.com/20230131/VnCEmMbk/index.m3u8" --filename="3038_HDTC_0.mp4"; #3038 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19908 --url="https://hot.qqaku.com/20230204/uoINGzu6/index.m3u8" --filename="2987_第6集_5.mp4"; #2987 6 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19907 --url="https://hot.qqaku.com/20230204/uXSIHptv/index.m3u8" --filename="2987_第5集_4.mp4"; #2987 5 480
+
+
+# 不行，iqiyi.sd-play.comDNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543580 --url="https://iqiyi.sd-play.com/20211007/1BWc1SmC/index.m3u8" --filename="12137_第9集_16.mp4"; #12137 9 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543578 --url="https://iqiyi.sd-play.com/20211007/dCZnsBCc/index.m3u8" --filename="12137_第8集_14.mp4"; #12137 8 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=543566 --url="https://iqiyi.sd-play.com/20211007/G7Djkdx2/index.m3u8" --filename="12137_第2集_2.mp4"; #12137 2 1080
@@ -41992,6 +41995,9 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=539816 --url="https://iqiyi.sd-play.com/20221207/U8b1t6Yd/index.m3u8" --filename="4667_第10集_11.mp4"; #4667 10 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=551388 --url="https://iqiyi.sd-play.com/20221207/vlZzRiZm/index.m3u8" --filename="101_第225集_241.mp4"; #101 225 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22833 --url="https://iqiyi.sd-play.com/20221207/Z5PNUPsy/index.m3u8" --filename="4521_第14期_12.mp4"; #4521 14 480
+
+
+# 不行，letv.sd-play.com DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=323011 --url="https://letv.sd-play.com/20211101/5NUoaZad/index.m3u8" --filename="50788_20211031期_49.mp4"; #50788 1 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=323013 --url="https://letv.sd-play.com/20211108/qsMX1LKn/index.m3u8" --filename="50788_20211107期_51.mp4"; #50788 2 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=323015 --url="https://letv.sd-play.com/20211114/dO6pWgQ3/index.m3u8" --filename="50788_20211114期_53.mp4"; #50788 3 480
@@ -42025,12 +42031,15 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=429690 --url="https://letv.sd-play.com/20220718/rPBUm00P/index.m3u8" --filename="49007_第1集_0.mp4"; #49007 1 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=109983 --url="https://letv.sd-play.com/20220718/TlOho5Yo/index.m3u8" --filename="17730_第38集_38.mp4"; #17730 38 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=544017 --url="https://letv.sd-play.com/20220719/oUkK3BEH/index.m3u8" --filename="15876_第2集_1.mp4"; #15876 2 1080
+
+
+# 不行，m3u8.suoyoudianying.com DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21497 --url="https://m3u8.suoyoudianying.com:2345/public/dabc75978adbe475632541493436ebdc.m3u8" --filename="4042_紧急营救_0.mp4"; #4042 0 480
 
 
 
 
-# 不行，m3u8.zhisongip.comDNS 失效
+# 不行，m3u8.zhisongip.com DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22932 --url="https://m3u8.zhisongip.com:38741/video/0455cc8c1af379689aef9818999ca61d.m3u8" --filename="4554_第8集_6.mp4"; #4554 8 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22912 --url="https://m3u8.zhisongip.com:38741/video/066f95a933fd89b32aafdd70f5648e8c.m3u8" --filename="4551_第5集_7.mp4"; #4551 5 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=465102 --url="https://m3u8.zhisongip.com:38741/video/06a89ade8dfcc532034e2bb22c1d3322.m3u8" --filename="4819_第6集_6.mp4"; #4819 6 1080
