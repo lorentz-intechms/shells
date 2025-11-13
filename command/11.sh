@@ -42596,6 +42596,15 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19670 --url="https://s1.zoubuting.com/20210724/wiaoVd0M/index.m3u8" --filename="2873_OVA_16.mp4"; #2873 14 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19668 --url="https://s1.zoubuting.com/20210724/ztV6Ll97/index.m3u8" --filename="2873_第12集_14.mp4"; #2873 12 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414756 --url="https://s1.zoubuting.com/20220620/p0IvN72H/index.m3u8" --filename="6793_HD_0.mp4"; #6793 0 480
+
+
+
+
+
+
+
+
+# 不行，https://v.gszya.com/ DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414525 --url="https://v.gszya.com:65/20220722/34mSDJoG/index.m3u8" --filename="5456_第1集_21.mp4"; #5456 1 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=469558 --url="https://v.gszya.com:65/20220724/0W7uy0Li/index.m3u8" --filename="5424_第8集_13.mp4"; #5424 8 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=469557 --url="https://v.gszya.com:65/20220724/Aj5H3Kyt/index.m3u8" --filename="5424_第7集_11.mp4"; #5424 7 1080
@@ -42622,6 +42631,9 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=412682 --url="https://v.gszya.com:65/20220918/XYZ7chjc/index.m3u8" --filename="4958_第2集_14.mp4"; #4958 2 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414253 --url="https://v.gszya.com:65/20220919/vPwmBjgW/index.m3u8" --filename="5311_第15集_45.mp4"; #5311 15 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414257 --url="https://v.gszya.com:65/20220920/vPe98dLu/index.m3u8" --filename="5311_第16集_47.mp4"; #5311 16 1080
+
+
+# 不行，https://v.kdianv.com/ DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=463905 --url="https://v.kdianv.com/20221019/pT0OfJh2/index.m3u8" --filename="4522_第3集_7.mp4"; #4522 3 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22397 --url="https://v.kdianv.com/20221022/5FmJX8Zx/index.m3u8" --filename="4385_第2集_0.mp4"; #4385 2 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22400 --url="https://v.kdianv.com/20221023/twpbtkCi/index.m3u8" --filename="4386_第2集_0.mp4"; #4386 2 480
