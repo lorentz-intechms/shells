@@ -40894,46 +40894,18 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=462653 --url="https://cdn9.vipbf-video.com/20221209/22197_b1fa5561/index.m3u8" --filename="4086_第27集_77.mp4"; #4086 27 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=425305 --url="https://g.gszyx.com:65/20220331/YK7WjhPV/index.m3u8" --filename="34425_中字_1.mp4"; #34425 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414206 --url="https://g.gszyx.com:65/20220805/aHuy6oYC/index.m3u8" --filename="5250_正片_2.mp4"; #5250 0 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21687 --url="https://hd.lz-cdn15.com/20221029/544_4ed61781/index.m3u8" --filename="4133_幽灵恋上我_0.mp4"; #4133 0 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19709 --url="https://hd.lz-cdn18.com/20230206/380_6ce7c458/index.m3u8" --filename="2883_第6集_11.mp4"; #2883 6 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19711 --url="https://hd.lz-cdn18.com/20230208/418_e9eee19f/index.m3u8" --filename="2883_第8集_15.mp4"; #2883 8 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19785 --url="https://hd.lz-cdn18.com/20230216/576_2893c2c0/index.m3u8" --filename="2892_HD_1.mp4"; #2892 0 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19736 --url="https://hd.lz-cdn18.com/20230222/716_b0cdc613/index.m3u8" --filename="2884_第9集_17.mp4"; #2884 9 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19737 --url="https://hd.lz-cdn18.com/20230222/717_04517447/index.m3u8" --filename="2884_第10集_19.mp4"; #2884 10 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19738 --url="https://hd.lz-cdn18.com/20230222/718_45c62697/index.m3u8" --filename="2884_第11集_21.mp4"; #2884 11 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19739 --url="https://hd.lz-cdn18.com/20230222/719_b514b027/index.m3u8" --filename="2884_第12集_23.mp4"; #2884 12 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19740 --url="https://hd.lz-cdn18.com/20230222/720_345dd32d/index.m3u8" --filename="2884_第13集_25.mp4"; #2884 13 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19725 --url="https://hd.lz-cdn18.com/20230228/858_98512f7c/index.m3u8" --filename="2883_第22集_43.mp4"; #2883 22 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19760 --url="https://hd.lz-cdn18.com/20230302/864_72be5964/index.m3u8" --filename="2885_第9集_16.mp4"; #2885 9 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19761 --url="https://hd.lz-cdn18.com/20230304/920_81ab7d89/index.m3u8" --filename="2885_第10集_18.mp4"; #2885 10 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19764 --url="https://hd.lz-cdn18.com/20230306/933_010c822c/index.m3u8" --filename="2885_第13集_24.mp4"; #2885 13 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19768 --url="https://hd.lz-cdn18.com/20230310/1012_2c97e391/index.m3u8" --filename="2885_第17集_32.mp4"; #2885 17 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19616 --url="https://hd.lz-cdn18.com/20230310/1015_b4b222ca/index.m3u8" --filename="2841_第8集_8.mp4"; #2841 8 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=453566 --url="https://hd.lz-cdn18.com/20230310/1019_69126fbe/index.m3u8" --filename="2912_第32集_69.mp4"; #2912 32 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=453565 --url="https://hd.lz-cdn18.com/20230310/1020_679da1d9/index.m3u8" --filename="2912_第31集_66.mp4"; #2912 31 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19605 --url="https://hd.lz-cdn18.com/20230310/1021_f9e2a9ee/index.m3u8" --filename="2838_第5集_1.mp4"; #2838 5 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19626 --url="https://hd.lz-cdn18.com/20230310/1022_cbe8b720/index.m3u8" --filename="2849_第5集_11.mp4"; #2849 5 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=17127 --url="https://hd.lz-cdn18.com/20230527/2902_cf33d380/index.m3u8" --filename="2381_HD_1.mp4"; #2381 0 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=16520 --url="https://hd.lz-cdn18.com/20230531/3033_a5c3d70a/index.m3u8" --filename="2321_HD_1.mp4"; #2321 0 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=449198 --url="https://hd.lz-cdn18.com/20230602/3088_35c6f310/index.m3u8" --filename="2326_HD_2.mp4"; #2326 0 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=16522 --url="https://hd.lz-cdn18.com/20230604/3111_1c06ab52/index.m3u8" --filename="2323_HD_1.mp4"; #2323 0 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14542 --url="https://hd.lz-cdn18.com/20230624/3567_12686e22/index.m3u8" --filename="2134_第6集_5.mp4"; #2134 6 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14541 --url="https://hd.lz-cdn18.com/20230624/3568_086eb4c5/index.m3u8" --filename="2134_第5集_4.mp4"; #2134 5 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14540 --url="https://hd.lz-cdn18.com/20230624/3569_af1fc381/index.m3u8" --filename="2134_第4集_3.mp4"; #2134 4 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14539 --url="https://hd.lz-cdn18.com/20230624/3570_2a7aa360/index.m3u8" --filename="2134_第3集_2.mp4"; #2134 3 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14538 --url="https://hd.lz-cdn18.com/20230624/3571_5e95ff08/index.m3u8" --filename="2134_第2集_1.mp4"; #2134 2 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14537 --url="https://hd.lz-cdn18.com/20230624/3572_682762c7/index.m3u8" --filename="2134_第1集_0.mp4"; #2134 1 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13053 --url="https://hd.lz-cdn18.com/20230726/4314_6e4e80ea/index.m3u8" --filename="1862_第5集_9.mp4"; #1862 5 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13052 --url="https://hd.lz-cdn18.com/20230726/4315_2d964cf0/index.m3u8" --filename="1862_第4集_7.mp4"; #1862 4 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13051 --url="https://hd.lz-cdn18.com/20230726/4316_f721d090/index.m3u8" --filename="1862_第3集_5.mp4"; #1862 3 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13050 --url="https://hd.lz-cdn18.com/20230726/4317_90ab0407/index.m3u8" --filename="1862_第2集_3.mp4"; #1862 2 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13049 --url="https://hd.lz-cdn18.com/20230726/4318_f1ed8197/index.m3u8" --filename="1862_第1集_1.mp4"; #1862 1 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13055 --url="https://hd.lz-cdn18.com/20230728/4364_ea1c823e/index.m3u8" --filename="1862_第9集_11.mp4"; #1862 9 480
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13054 --url="https://hd.lz-cdn18.com/20230728/4365_4f547624/index.m3u8" --filename="1862_第8集_10.mp4"; #1862 8 480
+
+
+
+# 不行，hd.njeere.com/ DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414079 --url="https://hd.njeere.com/play/64043/index.m3u8" --filename="5189_第4集_39.mp4"; #5189 4 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414075 --url="https://hd.njeere.com/play/64047/index.m3u8" --filename="5189_第2集_35.mp4"; #5189 2 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414072 --url="https://hd.njeere.com/play/64048/index.m3u8" --filename="5189_第1集_33.mp4"; #5189 1 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414077 --url="https://hd.njeere.com/play/64049/index.m3u8" --filename="5189_第3集_37.mp4"; #5189 3 480
+
+
+
+# 不行，hot.qqaku.com DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19906 --url="https://hot.qqaku.com/20230129/eCEUtYr5/index.m3u8" --filename="2987_第4集_3.mp4"; #2987 4 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19905 --url="https://hot.qqaku.com/20230129/ZxqlI5dL/index.m3u8" --filename="2987_第3集_2.mp4"; #2987 3 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=20079 --url="https://hot.qqaku.com/20230131/VnCEmMbk/index.m3u8" --filename="3038_HDTC_0.mp4"; #3038 0 480
@@ -43893,7 +43865,7 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 # cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21681 --url="https://youku.sd-play.com/20221111/1Nrw0i5W/index.m3u8" --filename="4122_嗜血欲女_0.mp4"; #4122 1 480
 # cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=20986 --url="https://youku.sd-play.com/20221201/6dJmz238/index.m3u8" --filename="3836_HD_0.mp4"; #3836 0 480
 
-# https://cdn6.hdzyk-cdn.com 可以下載
+#  可以下載
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=511215 --url="https://cdn6.hdzyk-cdn.com/20220818/10799_56cdde43/index.m3u8" --filename="15581_西班牙语中字_1.mp4"; #15581 0 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19861 --url="https://cdn6.hdzyk-cdn.com/20220924/17247_8ca3f8fd/index.m3u8" --filename="2982_第19集_18.mp4"; #2982 19 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19863 --url="https://cdn6.hdzyk-cdn.com/20221005/18555_53511312/index.m3u8" --filename="2982_第21集_20.mp4"; #2982 21 480
@@ -44015,5 +43987,50 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414834 --url="https://cdn6.yzzy-tv1.com/20220811/9417_552caa9f/index.m3u8" --filename="8956_第5集_8.mp4"; #8956 5 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414840 --url="https://cdn6.yzzy-tv1.com/20220811/9418_685c75f9/index.m3u8" --filename="8956_第6集_11.mp4"; #8956 6 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=414844 --url="https://cdn6.yzzy-tv1.com/20220811/9419_29a0594f/index.m3u8" --filename="8956_第7集_13.mp4"; #8956 7 480
+
+
+# 可以
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21687 --url="https://hd.lz-cdn15.com/20221029/544_4ed61781/index.m3u8" --filename="4133_幽灵恋上我_0.mp4"; #4133 0 480
+
+
+# 可以
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19709 --url="https://hd.lz-cdn18.com/20230206/380_6ce7c458/index.m3u8" --filename="2883_第6集_11.mp4"; #2883 6 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19711 --url="https://hd.lz-cdn18.com/20230208/418_e9eee19f/index.m3u8" --filename="2883_第8集_15.mp4"; #2883 8 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19785 --url="https://hd.lz-cdn18.com/20230216/576_2893c2c0/index.m3u8" --filename="2892_HD_1.mp4"; #2892 0 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19736 --url="https://hd.lz-cdn18.com/20230222/716_b0cdc613/index.m3u8" --filename="2884_第9集_17.mp4"; #2884 9 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19737 --url="https://hd.lz-cdn18.com/20230222/717_04517447/index.m3u8" --filename="2884_第10集_19.mp4"; #2884 10 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19738 --url="https://hd.lz-cdn18.com/20230222/718_45c62697/index.m3u8" --filename="2884_第11集_21.mp4"; #2884 11 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19739 --url="https://hd.lz-cdn18.com/20230222/719_b514b027/index.m3u8" --filename="2884_第12集_23.mp4"; #2884 12 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19740 --url="https://hd.lz-cdn18.com/20230222/720_345dd32d/index.m3u8" --filename="2884_第13集_25.mp4"; #2884 13 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19725 --url="https://hd.lz-cdn18.com/20230228/858_98512f7c/index.m3u8" --filename="2883_第22集_43.mp4"; #2883 22 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19760 --url="https://hd.lz-cdn18.com/20230302/864_72be5964/index.m3u8" --filename="2885_第9集_16.mp4"; #2885 9 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19761 --url="https://hd.lz-cdn18.com/20230304/920_81ab7d89/index.m3u8" --filename="2885_第10集_18.mp4"; #2885 10 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19764 --url="https://hd.lz-cdn18.com/20230306/933_010c822c/index.m3u8" --filename="2885_第13集_24.mp4"; #2885 13 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19768 --url="https://hd.lz-cdn18.com/20230310/1012_2c97e391/index.m3u8" --filename="2885_第17集_32.mp4"; #2885 17 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19616 --url="https://hd.lz-cdn18.com/20230310/1015_b4b222ca/index.m3u8" --filename="2841_第8集_8.mp4"; #2841 8 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=453566 --url="https://hd.lz-cdn18.com/20230310/1019_69126fbe/index.m3u8" --filename="2912_第32集_69.mp4"; #2912 32 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=453565 --url="https://hd.lz-cdn18.com/20230310/1020_679da1d9/index.m3u8" --filename="2912_第31集_66.mp4"; #2912 31 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19605 --url="https://hd.lz-cdn18.com/20230310/1021_f9e2a9ee/index.m3u8" --filename="2838_第5集_1.mp4"; #2838 5 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19626 --url="https://hd.lz-cdn18.com/20230310/1022_cbe8b720/index.m3u8" --filename="2849_第5集_11.mp4"; #2849 5 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=17127 --url="https://hd.lz-cdn18.com/20230527/2902_cf33d380/index.m3u8" --filename="2381_HD_1.mp4"; #2381 0 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=16520 --url="https://hd.lz-cdn18.com/20230531/3033_a5c3d70a/index.m3u8" --filename="2321_HD_1.mp4"; #2321 0 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=449198 --url="https://hd.lz-cdn18.com/20230602/3088_35c6f310/index.m3u8" --filename="2326_HD_2.mp4"; #2326 0 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=16522 --url="https://hd.lz-cdn18.com/20230604/3111_1c06ab52/index.m3u8" --filename="2323_HD_1.mp4"; #2323 0 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14542 --url="https://hd.lz-cdn18.com/20230624/3567_12686e22/index.m3u8" --filename="2134_第6集_5.mp4"; #2134 6 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14541 --url="https://hd.lz-cdn18.com/20230624/3568_086eb4c5/index.m3u8" --filename="2134_第5集_4.mp4"; #2134 5 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14540 --url="https://hd.lz-cdn18.com/20230624/3569_af1fc381/index.m3u8" --filename="2134_第4集_3.mp4"; #2134 4 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14539 --url="https://hd.lz-cdn18.com/20230624/3570_2a7aa360/index.m3u8" --filename="2134_第3集_2.mp4"; #2134 3 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14538 --url="https://hd.lz-cdn18.com/20230624/3571_5e95ff08/index.m3u8" --filename="2134_第2集_1.mp4"; #2134 2 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=14537 --url="https://hd.lz-cdn18.com/20230624/3572_682762c7/index.m3u8" --filename="2134_第1集_0.mp4"; #2134 1 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13053 --url="https://hd.lz-cdn18.com/20230726/4314_6e4e80ea/index.m3u8" --filename="1862_第5集_9.mp4"; #1862 5 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13052 --url="https://hd.lz-cdn18.com/20230726/4315_2d964cf0/index.m3u8" --filename="1862_第4集_7.mp4"; #1862 4 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13051 --url="https://hd.lz-cdn18.com/20230726/4316_f721d090/index.m3u8" --filename="1862_第3集_5.mp4"; #1862 3 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13050 --url="https://hd.lz-cdn18.com/20230726/4317_90ab0407/index.m3u8" --filename="1862_第2集_3.mp4"; #1862 2 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13049 --url="https://hd.lz-cdn18.com/20230726/4318_f1ed8197/index.m3u8" --filename="1862_第1集_1.mp4"; #1862 1 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13055 --url="https://hd.lz-cdn18.com/20230728/4364_ea1c823e/index.m3u8" --filename="1862_第9集_11.mp4"; #1862 9 480
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=13054 --url="https://hd.lz-cdn18.com/20230728/4365_4f547624/index.m3u8" --filename="1862_第8集_10.mp4"; #1862 8 480
+
+
+
 # 不行，不是m3u8 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21989 --url="https://kuaichezy.com/index.php/vod/play/id/43637/sid/2/nid/21.html" --filename="4240_20221107期_6.mp4"; #4240 7 480
 
