@@ -42352,6 +42352,11 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=415163 --url="https://new.iskcd.com/20211016/Ci6dzbpQ/index.m3u8" --filename="10006_第1集_3.mp4"; #10006 1 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=415167 --url="https://new.iskcd.com/20211017/VMUNdPYw/index.m3u8" --filename="10006_第2集_7.mp4"; #10006 2 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=430604 --url="https://new.iskcd.com/20211111/IndLv2Q3/index.m3u8" --filename="50371_英语中字_1.mp4"; #50371 0 480
+
+
+
+
+# 不行，new.qqaku.com DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21553 --url="https://new.qqaku.com/20220114/85txib3k/index.m3u8" --filename="4088_20220112期_0.mp4"; #4088 20220112 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21554 --url="https://new.qqaku.com/20220121/ymjYr6op/index.m3u8" --filename="4088_20220119期_1.mp4"; #4088 20220119 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21555 --url="https://new.qqaku.com/20220128/nK3lGmsw/index.m3u8" --filename="4088_20220126期_2.mp4"; #4088 20220126 480
@@ -42445,6 +42450,11 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=20672 --url="https://new.qqaku.com/20230103/AMys9QAH/index.m3u8" --filename="3455_HD_1.mp4"; #3455 1 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19903 --url="https://new.qqaku.com/20230120/frbmIR97/index.m3u8" --filename="2987_第1集_0.mp4"; #2987 1 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19904 --url="https://new.qqaku.com/20230121/3XYNQ4Wx/index.m3u8" --filename="2987_第2集_1.mp4"; #2987 2 480
+
+
+
+
+# 不行，pps.sd-play.com DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21550 --url="https://pps.sd-play.com/20211117/83CTpf2C/index.m3u8" --filename="4078_无限重生_0.mp4"; #4078 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=415857 --url="https://pps.sd-play.com/20211119/88F6BBU2/index.m3u8" --filename="12611_黑白魔女库伊拉_2.mp4"; #12611 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=420052 --url="https://pps.sd-play.com/20220106/0BIEveOO/index.m3u8" --filename="19169_HD_1.mp4"; #19169 0 480
@@ -42585,6 +42595,7 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21797 --url="https://qq.sd-play.com/20220603/BQTlr56R/index.m3u8" --filename="4185_战地刑罚_0.mp4"; #4185 0 480
 
 
+# 不行，s.gszyx.com:65 DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=23292 --url="https://s.gszyx.com:65/20220820/0MGs3jl4/index.m3u8" --filename="5252_第220820期_32.mp4"; #5252 5 480
 
 
