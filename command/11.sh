@@ -42026,6 +42026,11 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=109983 --url="https://letv.sd-play.com/20220718/TlOho5Yo/index.m3u8" --filename="17730_第38集_38.mp4"; #17730 38 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=544017 --url="https://letv.sd-play.com/20220719/oUkK3BEH/index.m3u8" --filename="15876_第2集_1.mp4"; #15876 2 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21497 --url="https://m3u8.suoyoudianying.com:2345/public/dabc75978adbe475632541493436ebdc.m3u8" --filename="4042_紧急营救_0.mp4"; #4042 0 480
+
+
+
+
+# 不行，m3u8.zhisongip.comDNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22932 --url="https://m3u8.zhisongip.com:38741/video/0455cc8c1af379689aef9818999ca61d.m3u8" --filename="4554_第8集_6.mp4"; #4554 8 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22912 --url="https://m3u8.zhisongip.com:38741/video/066f95a933fd89b32aafdd70f5648e8c.m3u8" --filename="4551_第5集_7.mp4"; #4551 5 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=465102 --url="https://m3u8.zhisongip.com:38741/video/06a89ade8dfcc532034e2bb22c1d3322.m3u8" --filename="4819_第6集_6.mp4"; #4819 6 1080
@@ -42139,6 +42144,11 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=541070 --url="https://m3u8.zhisongip.com:38741/video/f8a73e03e7ab1be9c50ee533eb61ce4a.m3u8" --filename="4840_第4集_10.mp4"; #4840 4 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22896 --url="https://m3u8.zhisongip.com:38741/video/fd30bf9f0e9a5e5eb22de15b422d1008.m3u8" --filename="4546_第5集_7.mp4"; #4546 5 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22928 --url="https://m3u8.zhisongip.com:38741/video/ffed2fbacf14b67ccbb026085de852b0.m3u8" --filename="4554_第4集_2.mp4"; #4554 4 480
+
+
+
+
+# 不行，mgtv.sd-play.com DNS 失效
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22763 --url="https://mgtv.sd-play.com/20211007/7cT3ZXoy/index.m3u8" --filename="4499_第14集_12.mp4"; #4499 14 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22751 --url="https://mgtv.sd-play.com/20211007/9VT36IuM/index.m3u8" --filename="4499_第2集_0.mp4"; #4499 2 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=22759 --url="https://mgtv.sd-play.com/20211007/Aw05TLVc/index.m3u8" --filename="4499_第10集_8.mp4"; #4499 10 480
