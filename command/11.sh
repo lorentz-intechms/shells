@@ -32551,7 +32551,13 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=1332441 --url="https://download.eny7kg.com/AGMJ/AGTVB/SOf9ox8bfy/24/index.m3u8" --filename="1726-5781-24-923-1.mp4"; #68123 24 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=1332934 --url="https://download.eny7kg.com/AGMJ/AGTVB/TVeuxrdh8r/20/index.m3u8" --filename="1364-7565-20-923-6825.mp4"; #68052 20 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=1331613 --url="https://download.eny7kg.com/AGMJ/AGTVB/ZUdou5ul6j/15/index.m3u8" --filename="1531-2529-15-923-6185.mp4"; #68091 15 1080
+
+
+# 不行 DNS
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=87967 --url="http://cdn1.gzzechao.com/20210104/gc9uztgS/index.m3u" --filename="15595_20201128_0.mp4"; #15595 1 480
+
+
+# 不行 DNS
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=428744 --url="https://baidu.sd-play.com/20211015/WkofGE5i/index.m3u8" --filename="46272_HD_1.mp4"; #46272 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=544631 --url="https://baidu.sd-play.com/20211017/gBxHw2G6/index.m3u8" --filename="47563_英语中字_1.mp4"; #47563 0 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21680 --url="https://baidu.sd-play.com/20211018/Ozt9BD4m/index.m3u8" --filename="4119_重来_0.mp4"; #4119 0 480
