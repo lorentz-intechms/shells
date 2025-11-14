@@ -33049,21 +33049,6 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 
 
 
-
-
-
-# 不行，path缺少
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=452944 --url="https://download.eny7kg.com/https：//cdn13.yzzy-tv1.com/20230310/16372_ed3f4c34/index.m3u8" --filename="2807_第1集_1.mp4"; #2807 1 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=538412 --url="https://download.eny7kg.com/TC" --filename="4334_吉吉和内特 Gigi & Nate_1.mp4"; #4334 0 1080
-cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=537691 --url="https://download.eny7kg.com/第1期" --filename="2909__0.mp4"; #2909 0 1080
-
-
-
-
-# youku.sd-play.com 不行下載
-# cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21681 --url="https://youku.sd-play.com/20221111/1Nrw0i5W/index.m3u8" --filename="4122_嗜血欲女_0.mp4"; #4122 1 480
-# cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=20986 --url="https://youku.sd-play.com/20221201/6dJmz238/index.m3u8" --filename="3836_HD_0.mp4"; #3836 0 480
-
 #  可以下載
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=511215 --url="https://cdn6.hdzyk-cdn.com/20220818/10799_56cdde43/index.m3u8" --filename="15581_西班牙语中字_1.mp4"; #15581 0 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=19861 --url="https://cdn6.hdzyk-cdn.com/20220924/17247_8ca3f8fd/index.m3u8" --filename="2982_第19集_18.mp4"; #2982 19 480
@@ -44107,4 +44092,21 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=80346 --url="https://download.eny7kg.com/zSal68wn/index.m3u8" --filename="14734_HD720P中字_0.mp4"; #14734 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=79287 --url="https://download.eny7kg.com/???" --filename="14321_HD720P中字_0.mp4"; #14321 0 480
 # 不行，不是m3u8 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21989 --url="https://kuaichezy.com/index.php/vod/play/id/43637/sid/2/nid/21.html" --filename="4240_20221107期_6.mp4"; #4240 7 480
+
+
+
+
+
+
+# 不行，path缺少
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=452944 --url="https://download.eny7kg.com/https：//cdn13.yzzy-tv1.com/20230310/16372_ed3f4c34/index.m3u8" --filename="2807_第1集_1.mp4"; #2807 1 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=538412 --url="https://download.eny7kg.com/TC" --filename="4334_吉吉和内特 Gigi & Nate_1.mp4"; #4334 0 1080
+cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=537691 --url="https://download.eny7kg.com/第1期" --filename="2909__0.mp4"; #2909 0 1080
+
+
+
+
+# youku.sd-play.com 不行下載
+# cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21681 --url="https://youku.sd-play.com/20221111/1Nrw0i5W/index.m3u8" --filename="4122_嗜血欲女_0.mp4"; #4122 1 480
+# cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=20986 --url="https://youku.sd-play.com/20221201/6dJmz238/index.m3u8" --filename="3836_HD_0.mp4"; #3836 0 480
 
