@@ -33183,6 +33183,8 @@ cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=462942 --url="https://baidu.sd-play.com/share/0VHIcrXYN8KQC7v2" --filename="4228_20221118期_22.mp4"; #4228 12 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=463273 --url="https://baidu.sd-play.com/share/swaskyD414oidD3r" --filename="4304_20221117期_8.mp4"; #4304 20221117 1080
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=463275 --url="https://baidu.sd-play.com/share/Zq4EHbA0mKooWyGn" --filename="4304_20221118期_10.mp4"; #4304 20221118 1080
+
+# 不行 DNS
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21227 --url="https://cdn.duduzx.cn/20221120/RvzGjpx5/index.m3u8" --filename="3929_HD_0.mp4"; #3929 0 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=100617 --url="https://cdn.zoubuting.com/20210627/5qxW0u9j/index.m3u8" --filename="16916_第1集_1.mp4"; #16916 1 480
 cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVideo1Command --id=21537 --url="https://cdn.zoubuting.com/20210630/37tY9yZ4/index.m3u8" --filename="4070_英语中字_1.mp4"; #4070 0 480
