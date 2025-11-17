@@ -41,3 +41,5 @@ ON vo.d_id = v.d_id
 LEFT JOIN `mac_vurl_detail` AS vd 
 ON v.id = vd.vurl_id
 WHERE v.file_name = '2198_第5集_4.mp4';
+
+
