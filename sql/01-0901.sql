@@ -36,12 +36,5 @@ LIMIT 0, 10000000000000;
 
 
 
-SELECT * 
-FROM `mac_vod` AS vo
-LEFT JOIN `mac_vurl` AS v
-ON vo.d_id = v.d_id 
-LEFT JOIN `mac_vurl_detail` AS vd 
-ON v.id = vd.vurl_id
-WHERE vd.vurl_id = 193464;
 
 
