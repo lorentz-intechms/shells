@@ -13,7 +13,7 @@ SELECT CONCAT('cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVide
   '" --filename="', CASE
     WHEN vv.file_name REGEXP '\\.[a-zA-Z0-9]+$' THEN vv.file_name
     ELSE CONCAT(vv.file_name, '.mp4')
-  END,'"', ';', ' #v.d_id=',  v.d_id, ', vd.vurl_id=', vd.vurl_id, ', vv.sort=', vv.sort, ' ' ,vd.resolution)  FROM `mac_vod` AS v
+  END,'"', '|| true ;', ' #v.d_id=',  v.d_id, ', vd.vurl_id=', vd.vurl_id, ', vv.sort=', vv.sort, ' ' ,vd.resolution)  FROM `mac_vod` AS v
 LEFT JOIN `mac_vurl` AS vv ON v.d_id = vv.d_id
 LEFT JOIN
 (
@@ -29,12 +29,19 @@ WHERE CAST(d1.resolution AS UNSIGNED) = (
 
 ) AS vd
  ON vv.id = vd.vurl_id
-WHERE vd.path NOT REGEXP '/aac/h264/hls/' AND v.d_hide = 0 AND v.d_status = 1
+WHERE vd.path NOT REGEXP '/aac/h264/hls/' AND v.d_hide = 0 AND v.d_status = 1 AND vd.path LIKE '/%' 
 ORDER BY vd.path 
 LIMIT 0, 10000000000000;
 
 
 
 
+SELECT * 
+FROM `mac_vod` AS vo
+LEFT JOIN `mac_vurl` AS v
+ON vo.d_id = v.d_id 
+LEFT JOIN `mac_vurl_detail` AS vd 
+ON v.id = vd.vurl_id
+WHERE vd.vurl_id = 193464;
 
 
