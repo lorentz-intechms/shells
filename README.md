@@ -1,7 +1,8 @@
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
-cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
+cd /home/www/conversion-api-koa/ && sudo git reset --hard origin/master && sudo git pull && sudo yarn run build;
 cd /home/www/shells/;
 sudo rm -Rf log/*.log;
+sudo git reset --hard origin/develop;
 sudo git pull;
 sudo su;
 tmux ls;
@@ -35,9 +36,10 @@ tmux ls;
 
 
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
-cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
+cd /home/www/conversion-api-koa/ && sudo git reset --hard origin/master && sudo git pull && sudo yarn run build;
 cd /home/www/shells/;
 sudo rm -Rf log/*.log;
+sudo git reset --hard origin/develop;
 sudo git pull;
 sudo su;
 tmux ls;
@@ -71,9 +73,10 @@ tmux ls;
 
 
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
-cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
+cd /home/www/conversion-api-koa/ && sudo git reset --hard origin/master && sudo git pull && sudo yarn run build;
 cd /home/www/shells/;
 sudo rm -Rf log/*.log;
+sudo git reset --hard origin/develop;
 sudo git pull;
 sudo su;
 tmux ls;
@@ -104,9 +107,10 @@ tmux ls;
 
 
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
-cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
+cd /home/www/conversion-api-koa/ && sudo git reset --hard origin/master && sudo git pull && sudo yarn run build;
 cd /home/www/shells/;
 sudo rm -Rf log/*.log;
+sudo git reset --hard origin/develop;
 sudo git pull;
 sudo su;
 tmux ls;
@@ -136,9 +140,10 @@ tmux ls;
 
 
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
-cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
+cd /home/www/conversion-api-koa/ && sudo git reset --hard origin/master && sudo git pull && sudo yarn run build;
 cd /home/www/shells/;
 sudo rm -Rf log/*.log;
+sudo git reset --hard origin/develop;
 sudo git pull;
 sudo su;
 tmux ls;
@@ -168,9 +173,10 @@ tmux ls;
 
 
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
-cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
+cd /home/www/conversion-api-koa/ && sudo git reset --hard origin/master && sudo git pull && sudo yarn run build;
 cd /home/www/shells/;
 sudo rm -Rf log/*.log;
+sudo git reset --hard origin/develop;
 sudo git pull;
 sudo su;
 tmux ls;
@@ -201,9 +207,10 @@ tmux ls;
 
 
 sudo rm -rf /home/www/conversion-api-koa/runtime/temp/*;
-cd /home/www/conversion-api-koa/ && sudo git pull && sudo yarn run build;
+cd /home/www/conversion-api-koa/ && sudo git reset --hard origin/master && sudo git pull && sudo yarn run build;
 cd /home/www/shells/;
 sudo rm -Rf log/*.log;
+sudo git reset --hard origin/develop;
 sudo git pull;
 sudo su;
 tmux ls;
