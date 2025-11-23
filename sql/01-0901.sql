@@ -13,7 +13,7 @@ SELECT CONCAT('cd /home/www/conversion-api-koa; sudo node bin/main.js NonethVide
   '" --filename="', CASE
     WHEN vv.file_name REGEXP '\\.[a-zA-Z0-9]+$' THEN vv.file_name
     ELSE CONCAT(vv.file_name, '.mp4')
-  END,'"', '|| true ;', ' #v.d_id=',  v.d_id, ', vd.vurl_id=', vd.vurl_id, ', vv.sort=', vv.sort, ' ' ,vd.resolution)  FROM `mac_vod` AS v
+  END,'"', ' || true ; ', ' # v.d_name=', v.d_name, ', vv.title=',  vv.title, ', vv.sort=', vv.sort, ', v.d_id=',  v.d_id, ', vd.vurl_id=', vd.vurl_id, ', 分辨率=' ,vd.resolution)  FROM `mac_vod` AS v
 LEFT JOIN `mac_vurl` AS vv ON v.d_id = vv.d_id
 LEFT JOIN
 (
