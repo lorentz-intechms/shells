@@ -36,6 +36,53 @@ LIMIT 0, 10000000000000;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT CONCAT('URL="',
+
+
+  CASE WHEN path REGEXP '^https?://' THEN path 
+  
+  WHEN path NOT REGEXP '^/' THEN CONCAT('https://download.eny7kg.com/', path)
+  ELSE CONCAT('https://download.eny7kg.com', path) 
+  
+  END, '";', 'STATUS=$(curl -o /dev/null -s -w "%{http_code}" "$URL"); echo "$URL ', vv.file_name , '  $(if [ "$STATUS" -eq 200 ]; then echo 1; else echo 0; fi)" >> 2025-11-24.txt;')  FROM `mac_vod` AS v
+LEFT JOIN `mac_vurl` AS vv ON v.d_id = vv.d_id
+LEFT JOIN
+(
+SELECT *
+FROM mac_vurl_detail d1
+WHERE CAST(d1.resolution AS UNSIGNED) = (
+    SELECT MAX(CAST(resolution AS UNSIGNED))
+    FROM mac_vurl_detail d2
+    WHERE d2.vurl_id = d1.vurl_id AND d2.type = 'DECRYPTION'
+) AND d1.type = 'DECRYPTION'
+
+
+
+) AS vd
+ ON vv.id = vd.vurl_id
+WHERE vd.path NOT REGEXP '/aac/h264/hls/' AND v.d_hide = 0 AND v.d_status = 1 AND vd.path LIKE '/%' 
+ORDER BY vd.path 
+LIMIT 0, 10000000000000;
+
+
+
+
+
+
+
+
 SELECT * 
 FROM `mac_vod` AS vo
 LEFT JOIN `mac_vurl` AS v
