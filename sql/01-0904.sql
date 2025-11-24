@@ -3,17 +3,7 @@
 
 
 SELECT 
-  v.d_name AS '劇集名稱', 
-  vv.title AS '集抬頭', 
-    CASE WHEN path REGEXP '^https?://' THEN path 
-  
-  WHEN path NOT REGEXP '^/' THEN CONCAT('https://download.eny7kg.com/', path)
-  ELSE CONCAT('https://download.eny7kg.com', path) 
-  
-  END AS '播放地址',
-  vv.sort AS '集',
-  vv.id AS '集數ID', 
-  v.d_id AS '劇集ID'  
+  CONCAT('DELETE FROM `mac_vurl_detail` WHERE id=', vd.id, '`; #', vv.file_name)  
 
 FROM `mac_vod` AS v
 LEFT JOIN `mac_vurl` AS vv ON v.d_id = vv.d_id
