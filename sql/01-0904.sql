@@ -3,7 +3,7 @@
 
 
 SELECT 
-  CONCAT('DELETE FROM `mac_vurl_detail` WHERE vurl_id=', vd.vurl_id, '`; #', vv.file_name, ', https://download.eny7kg.com', vd.path)  
+  CONCAT('DELETE FROM `mac_vurl_detail` WHERE vurl_id=', vd.vurl_id, '`; #v.d_name=', v.d_name, ', vv.sort=', vv.sort, ', vv.file_name=' ,vv.file_name, ', https://download.eny7kg.com', vd.path)  
 
 FROM `mac_vod` AS v
 LEFT JOIN `mac_vurl` AS vv ON v.d_id = vv.d_id
