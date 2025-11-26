@@ -746,7 +746,7 @@ UPDATE `mac_vurl` SET file_name = REPLACE(file_name, ".rmvb", ".mp4") WHERE id=1
 UPDATE `mac_vurl` SET file_name = REPLACE(file_name, ".rmvb", ".mp4") WHERE id=1484824 AND file_name LIKE '%.rmvb';# 檔名=85151利箭行动24.rmvb
 UPDATE `mac_vurl` SET file_name = REPLACE(file_name, ".rmvb", ".mp4") WHERE id=1484799 AND file_name LIKE '%.rmvb';# 檔名=85151利箭行动25.rmvb
 UPDATE `mac_vurl` SET file_name = REPLACE(file_name, ".rmvb", ".mp4") WHERE id=1485375 AND file_name LIKE '%.rmvb';# 檔名=85151利箭行动26.rmvb
-UPDATE `mac_vurl` SET file_name = REPLACE(file_name, ".rmvb", ".mp4") WHERE id=1485250 AND file_name LIKE '%.rmvb';# 檔名=85151利箭行动27.rmvb
+
 UPDATE `mac_vurl` SET file_name = REPLACE(file_name, ".rmvb", ".mp4") WHERE id=1485531 AND file_name LIKE '%.rmvb';# 檔名=85151利箭行动28.rmvb
 UPDATE `mac_vurl` SET file_name = REPLACE(file_name, ".rmvb", ".mp4") WHERE id=1485377 AND file_name LIKE '%.rmvb';# 檔名=85151利箭行动29.rmvb
 UPDATE `mac_vurl` SET file_name = REPLACE(file_name, ".rmvb", ".mp4") WHERE id=1485518 AND file_name LIKE '%.rmvb';# 檔名=85151利箭行动30.rmvb
