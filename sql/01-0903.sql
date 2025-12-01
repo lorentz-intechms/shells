@@ -13,7 +13,8 @@ SELECT
   END AS '播放地址',
   vv.sort AS '集',
   vv.id AS '集數ID', 
-  v.d_id AS '劇集ID'  
+  v.d_id AS '劇集ID',
+  vv.file_name AS '文件名'
 
 FROM `mac_vod` AS v
 LEFT JOIN `mac_vurl` AS vv ON v.d_id = vv.d_id
