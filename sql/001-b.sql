@@ -4,7 +4,7 @@
 
 
 DELETE FROM mac_vurl_detail WHERE 
-resolution = 480 AND type = 'DECRYPTION'	AND vurl_id IN (463,
+ vurl_id IN (463,
 464,
 465,
 466,
@@ -348650,5 +348650,6 @@ resolution = 480 AND type = 'DECRYPTION'	AND vurl_id IN (463,
 515289,
 515290,
 515292,
-515293,
-515645)
+515293, 
+515645) AND resolution = 480 AND type = 'DECRYPTION';
+
