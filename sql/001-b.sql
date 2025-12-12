@@ -348651,5 +348651,5 @@ DELETE FROM mac_vurl_detail WHERE
 515290,
 515292,
 515293, 
-515645) AND resolution = 480 AND type = 'DECRYPTION';
+515645) AND resolution = '480';
 
