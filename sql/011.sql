@@ -1,7 +1,13 @@
 ## q2wjmspnn.ybdxjy.com   qqc 未加密视频域名
 ## f68c.fa135ka.com   qqc 加密视频域名
 
+
 SELECT 
+
+
+FROM 
+
+(SELECT 
     m.id AS video_id,
     m.video_name,
     m.cdn_number,
@@ -18,15 +24,15 @@ SELECT
     -- 拼接完整的解密播放地址
     CASE 
         WHEN m.url IS NOT NULL AND m.url != '' 
-            THEN CONCAT(TRIM(TRAILING '/' FROM cdn_d.domain), '/', TRIM(LEADING '/' FROM m.url))
-        ELSE CONCAT(TRIM(TRAILING '/' FROM cdn_d.domain), '/', TRIM(LEADING '/' FROM d.path))
+            THEN CONCAT(TRIM(TRAILING '/' FROM 'https://q2wjmspnn.ybdxjy.com'), '/', TRIM(LEADING '/' FROM m.url))
+        ELSE CONCAT(TRIM(TRAILING '/' FROM 'https://q2wjmspnn.ybdxjy.com'), '/', TRIM(LEADING '/' FROM d.path))
     END AS decryption_full_url,
     -- 拼接完整的加密播放地址
     CASE 
         WHEN m.url IS NOT NULL AND m.url != '' 
-            THEN CONCAT(TRIM(TRAILING '/' FROM cdn_e.domain), '/', TRIM(LEADING '/' FROM m.url))
+            THEN CONCAT(TRIM(TRAILING '/' FROM 'https://f68c.fa135ka.com'), '/', TRIM(LEADING '/' FROM m.url))
         WHEN e.path IS NOT NULL AND e.path != ''
-            THEN CONCAT(TRIM(TRAILING '/' FROM cdn_e.domain), '/', TRIM(LEADING '/' FROM e.path))
+            THEN CONCAT(TRIM(TRAILING '/' FROM 'https://f68c.fa135ka.com'), '/', TRIM(LEADING '/' FROM e.path))
         ELSE NULL
     END AS encryption_full_url
 FROM video_movies m
@@ -68,4 +74,4 @@ WHERE m.status = 1
     -- 必须有CDN配置
     AND cdn_d.domain IS NOT NULL
 GROUP BY m.id
-ORDER BY m.id ASC;
+ORDER BY m.id ASC) AS t;
