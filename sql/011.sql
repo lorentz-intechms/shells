@@ -4,7 +4,7 @@
 
 SELECT 
 
-    CONCAT("sudo node bin/main.js NonethVideo11Command --app_id=11 --id=", m.id, " --url='https://f68c.fa135ka.com",     CASE 
+    CONCAT("cd /home/www/conversion-api-koa/ && sudo node bin/main.js NonethVideo11Command --app_id=11 --id=", m.id, " --url='https://f68c.fa135ka.com",     CASE 
         WHEN m.url IS NOT NULL AND m.url != '' THEN m.url
         ELSE e.path
     END AS encryption_url,  "' --filename='", m.id, ".mp4' --algorithm='aes-128-ecb' --key='saIZXc4yMvq0Iz56';")
