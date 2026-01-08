@@ -57,7 +57,6 @@ ORDER BY m.id ASC) AS t;
 
 
 
-
 SELECT 
     CONCAT("sudo node bin/main.js NonethVideo11Command --app_id=11 --id=", m.id, " --url='https://f68c.fa135ka.com",     CASE 
         WHEN m.url IS NOT NULL AND m.url != '' THEN m.url
